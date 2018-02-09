@@ -6,13 +6,7 @@ Pada pendahuluan kali ini dijelaskan mengenai latar belakang informasi  pembuata
 
 **1.1 Gambaran Proyek**
 
-**1.2 Dokumen Dokumen Dalam Proyek**
+**1.2 Dokumen Dokumen Dalam Pek**
 
-
-
-
-
-
-
-**1.1 Gambaran Proyek**
+**1.1 Gambaran **
 
