@@ -13,14 +13,21 @@
     **1.3 Evolusi SPMP**
 	
     i. 	Pendahuluan - Deskripsi pendahuluan
+    
     ii.	Gambaran Proyek - Deskripsi proyek mobile app
+    
     iii.Definisi dan Akronim - Daftar singkatan yang dipakai
+    
     **1.4 Material Acuan**
     
     **1.5 Definisi dan Akronim (Singkatan)**
     
     Firebase :
-    AVD		 :
-	SDK      :
-	API		 :
+    
+    AVD		 : Android Virtual Device
+    
+	SDK      : Software Development Kit
+    
+	API		 : 
+    
     
