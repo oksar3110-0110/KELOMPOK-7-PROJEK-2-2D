@@ -2,59 +2,69 @@
 
 1. **Pendahuluan**
 
-	Pada pendahuluan kali ini dijelaskan mengenai latar belakang informasi  pembuatan dokumentasi project, proses perubahan pada pembuatan dokumen ini, permintaan klien dan berbagai perubahan pada project aplikasi.
+   Pada pendahuluan kali ini dijelaskan mengenai latar belakang informasi  pembuatan dokumentasi project, proses perubahan pada pembuatan dokumen ini, permintaan klien dan berbagai perubahan pada project aplikasi.
 
-	**1.1 Gambaran Proyek**
-    
-    Aplikasi latihan ujian nasional SMK berbasis mobile ini dikembangkan untuk memudahkan siswa SMK dalam belajar maupun untuk mengevaluasi mata pelajaran guna menghadapi ujian nasional mendatang. Didalam aplikasi ini tidak hanya disediakan latihan soal saja namun disertakan chat room untuk diskusi kelompok.
-    
-    **1.2 Dokumen Dokumen dalam Proyek**
-    
-    **1.3 Evolusi SPMP**
-	
-    i. 	Pendahuluan - Deskripsi pendahuluan
-    
-    ii.	Gambaran Proyek - Deskripsi proyek mobile app
-    
-    iii.Definisi dan Akronim - Daftar singkatan yang dipakai
-    
-    **1.4 Material Acuan**
-    
-    **1.5 Definisi dan Akronim (Singkatan)**
-    
-    Firebase :
-    
-    AVD		 : Android Virtual Device
-    
-	SDK      : Software Development Kit
-    
-	API		 :
+   **1.1 Gambaran Proyek**
+
+   Aplikasi latihan ujian nasional SMK berbasis mobile ini dikembangkan untuk memudahkan siswa SMK dalam belajar maupun untuk mengevaluasi mata pelajaran guna menghadapi ujian nasional mendatang. Didalam aplikasi ini tidak hanya disediakan latihan soal saja namun disertakan chat room untuk diskusi kelompok.
+
+   **1.2 Dokumen Dokumen dalam Proyek**
+
+   **1.3 Evolusi SPMP**
+
+   i.     Pendahuluan - Deskripsi pendahuluan
+
+   ii.    Gambaran Proyek - Deskripsi proyek mobile app
+
+   iii.Definisi dan Akronim - Daftar singkatan yang dipakai
+
+   **1.4 Material Acuan**
+
+   **1.5 Definisi dan Akronim \(Singkatan\)**
+
+   Firebase :
+
+   AVD         : Android Virtual Device
+
+   SDK      : Software Development Kit
+
+   API         :
 
 2. **Organisasi Proyek**
 
-	**2.1 Model Proses**
+   **2.1 Model Proses**
 
-	**2.2 Strukture Organisasi**
+   **2.2 Strukture Organisasi**
 
-	Proyek Kelompok : 5
+   Proyek Kelompok : 5
 
-	Bahransya Okta Rinaldi
+   Bahransya Oksareinaldi
 
-	Dodi Hidayat
+   Dodi Hidayat
 
-	Muhroz Alfarizi
+   Muhroz Alfarizi
 
-	Syahrul Romadoni
+   Syahrul Romadoni
+
+```
+**2.3 Batasan dan Antarmuka organisasi**
+
+**2.4 Lingkup Tanggug Jawab**
+
+Penanggung Jawab Proyek : **Bahransya Okta Rinaldi**
+
+Penanggung Jawab Coding : 
+
+Penanggung Jawab Databases :
+```
 
 
-	**2.3 Batasan dan Antarmuka organisasi**
-
-	**2.4 Lingkup Tanggug Jawab**
-    
-    Penanggung Jawab Proyek : **Bahransya Okta Rinaldi**
-
+<<<<<<< HEAD
 	Penanggung Jawab Coding : **Syahrul Romadoni**, **Dodi Hidayat**
 
 	Penanggung Jawab Databases : **Muhroz Alfarizi**, **Syahrul Romadoni**
 
 	Penanggung Jawab Mitra : **Dodi Hidayat**, **Bahransya Okta Rinaldi**
+=======
+
+>>>>>>> 0464348eca723f8a2f9a07a9ccbd49f3c78aa1dc
