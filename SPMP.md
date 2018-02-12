@@ -34,23 +34,25 @@
 
 	**2.1 Model Proses**
 
-	
-
 	**2.2 Strukture Organisasi**
 
-	Ketua Kelompok :
+	Proyek Kelompok : 5
 
-	Penanggung Jawab Proyek :
+	Bahransya Okta Rinaldi
 
-	Penanggung Jawab Coding :
+	Dodi Hidayat
 
-	Penanggung Jawab Databases :
+	Muhroz Alfarizi
+
+	Syahrul Romadoni
 
 
 	**2.3 Batasan dan Antarmuka organisasi**
 
-	
-
 	**2.4 Lingkup Tanggug Jawab**
     
-    
+    Penanggung Jawab Proyek : **Bahransya Okta Rinaldi**
+
+	Penanggung Jawab Coding : 
+
+	Penanggung Jawab Databases :
