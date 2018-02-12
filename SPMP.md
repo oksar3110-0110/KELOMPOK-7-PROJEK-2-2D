@@ -53,6 +53,8 @@
     
     Penanggung Jawab Proyek : **Bahransya Okta Rinaldi**
 
-	Penanggung Jawab Coding : 
+	Penanggung Jawab Coding : **Syahrul Romadoni**, **Dodi Hidayat**
 
-	Penanggung Jawab Databases :
+	Penanggung Jawab Databases : **Muhroz Alfarizi**, **Syahrul Romadoni**
+
+	Penanggung Jawab Mitra : **Dodi Hidayat**, **Bahransya Okta Rinaldi**
