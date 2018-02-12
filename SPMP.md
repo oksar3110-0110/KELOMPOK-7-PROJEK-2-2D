@@ -34,6 +34,8 @@
 
    **2.1 Model Proses**
 
+   Model Proyek saat ini kami kerjakan masih di lingkup web dan android tapi kami mengfokuskan ke android
+
    **2.2 Strukture Organisasi**
 
    Proyek Kelompok : 5
@@ -47,14 +49,16 @@
    Syahrul Romadoni
 
 
-**2.3 Batasan dan Antarmuka organisasi**
+**2.3 Batasan dan Antarmuka Organisasi**
+
+   Pembatasan masalah Proyek 2 hanya masih blm di sebarluaskan ke playstore dan sekolah-sekolahlain selain mitra yang kami tanganni 
 
 **2.4 Lingkup Tanggug Jawab**
-
-Penanggung Jawab Proyek : **Bahransyah Oksareinaldi**
-
-Penanggung Jawab Coding : **Dodi Hidayat**, **Syahrul Romadoni**
-
-Penanggung Jawab Databases : **Syahrul Romadoni**, **Muhroz Alfarizi**
 	
-Penangung Jawab Mitra : **Bahransyah Oksareinaldi**, **Dodi Hidayat**
+   Penanggung Jawab Proyek : **Bahransyah Oksareinaldi**
+
+   Penanggung Jawab Coding : **Dodi Hidayat**, **Syahrul Romadoni**
+
+   Penanggung Jawab Databases : **Syahrul Romadoni**, **Muhroz Alfarizi**
+	
+   Penangung Jawab Mitra : **Bahransyah Oksareinaldi**, **Dodi Hidayat**
