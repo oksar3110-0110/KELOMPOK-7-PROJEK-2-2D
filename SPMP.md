@@ -51,10 +51,10 @@
 
 **2.4 Lingkup Tanggug Jawab**
 
-	Penanggung Jawab Proyek : **Bahransya Oksareinaldi**
+Penanggung Jawab Proyek : **Bahransyah Oksareinaldi**
 
-	Penanggung Jawab Coding : **Dodi Hidayat**, **Syahrul Romadoni**
+Penanggung Jawab Coding : **Dodi Hidayat**, **Syahrul Romadoni**
 
-	Penanggung Jawab Databases : **Syahrul Romadoni**, **Muhroz Alfarizi**
+Penanggung Jawab Databases : **Syahrul Romadoni**, **Muhroz Alfarizi**
 	
-	Penangung Jawab Mitra : **Bahransya Oksareinaldi**, **Dodi Hidayat**
+Penangung Jawab Mitra : **Bahransyah Oksareinaldi**, **Dodi Hidayat**
