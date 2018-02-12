@@ -24,11 +24,11 @@
 
    Firebase :
 
-   AVD         : Android Virtual Device
+   AVD : Android Virtual Device
 
-   SDK      : Software Development Kit
+   SDK : Software Development Kit
 
-   API         :
+   API :
 
 2. **Organisasi Proyek**
 
@@ -46,25 +46,15 @@
 
    Syahrul Romadoni
 
-```
+
 **2.3 Batasan dan Antarmuka organisasi**
 
 **2.4 Lingkup Tanggug Jawab**
 
-Penanggung Jawab Proyek : **Bahransya Okta Rinaldi**
+	Penanggung Jawab Proyek : **Bahransya Oksareinaldi**
 
-Penanggung Jawab Coding : 
+	Penanggung Jawab Coding : **Dodi Hidayat**, **Syahrul Romadoni**
 
-Penanggung Jawab Databases :
-```
-
-
-<<<<<<< HEAD
-	Penanggung Jawab Coding : **Syahrul Romadoni**, **Dodi Hidayat**
-
-	Penanggung Jawab Databases : **Muhroz Alfarizi**, **Syahrul Romadoni**
-
-	Penanggung Jawab Mitra : **Dodi Hidayat**, **Bahransya Okta Rinaldi**
-=======
-
->>>>>>> 0464348eca723f8a2f9a07a9ccbd49f3c78aa1dc
+	Penanggung Jawab Databases : **Syahrul Romadoni**, **Muhroz Alfarizi**
+	
+	Penangung Jawab Mitra : **Bahransya Oksareinaldi**, **Dodi Hidayat**
