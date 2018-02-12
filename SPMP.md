@@ -28,6 +28,29 @@
     
 	SDK      : Software Development Kit
     
-	API		 : 
+	API		 :
+
+2. **Organisasi Proyek**
+
+	**2.1 Model Proses**
+
+	
+
+	**2.2 Strukture Organisasi**
+
+	Ketua Kelompok :
+
+	Penanggung Jawab Proyek :
+
+	Penanggung Jawab Coding :
+
+	Penanggung Jawab Databases :
+
+
+	**2.3 Batasan dan Antarmuka organisasi**
+
+	
+
+	**2.4 Lingkup Tanggug Jawab**
     
     
