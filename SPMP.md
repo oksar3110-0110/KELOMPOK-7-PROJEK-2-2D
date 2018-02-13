@@ -66,9 +66,12 @@
 3. **Proses Menajerial**
 
 **3.1 Tujuan dan prioritas manajemen**
+
    Tujuan dari proyek ini adalah supaya siswa/siswi smk yang mau UN bisa latihan sendiri dirumah karna aplikasi ini bisa dibawa kemana saja.
 
 **3.2 Asumsi-asumsi, tergantungan/kertetarikan, dan batasan-batasan**
+
+   Asumsi-asumsi dan batasan aplikasi ini sendiri, aplikasi ini masi di silkus sekitar mitra dan belum di perluas kan atau di download di playstore.
 
 **3.3 Manajemen resiko**
 
