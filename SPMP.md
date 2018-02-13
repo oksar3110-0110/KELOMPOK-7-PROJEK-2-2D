@@ -62,3 +62,15 @@
    Penanggung Jawab Databases : **Syahrul Romadoni**, **Muhroz Alfarizi**
 	
    Penangung Jawab Mitra : **Bahransyah Oksareinaldi**, **Dodi Hidayat**
+
+3. **Tujuan dan prioritas manajemen**
+
+**3.1**
+
+**3.2**
+
+**3.3**
+
+**3.4**
+
+**3.5**
