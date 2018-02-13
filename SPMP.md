@@ -75,6 +75,8 @@
 
 **3.3 Manajemen resiko**
 
+   Manajemen resikonya sendiri kita masi mengurus beberapa faktor yang kita blm di selesaikan dan memperbaiki beberapa kesalahan tersebut.
+
 **3.4 Mekanisme monitoring dan kontroling**
 
 **3.5 Perencanaan Staff**
