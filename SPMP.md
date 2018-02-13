@@ -82,3 +82,7 @@
    Dari mekanisme yang kita lakukan kita masi menggunakan web untuk memonitoring soal ujian dan siswa/siswi.
 
 **3.5 Perencanaan Staff**
+
+   Rancangan staff sendiri.
+
+   Mulai dari ketua kelompok trs penangung jawab coding dan datasbases.
