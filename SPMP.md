@@ -79,4 +79,6 @@
 
 **3.4 Mekanisme monitoring dan kontroling**
 
+   Dari mekanisme yang kita lakukan kita masi menggunakan web untuk memonitoring soal ujian dan siswa/siswi.
+
 **3.5 Perencanaan Staff**
