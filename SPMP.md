@@ -86,3 +86,26 @@
    Rancangan staff sendiri.
 
    Mulai dari ketua kelompok trs penangung jawab coding dan datasbases.
+ 
+ 4. **Proses Teknis**
+ 
+ **4.1 Metode, Alat, dan Teknik**
+ 
+ Proyek ini akan diimplementasikan dengan memanfaatkan metodologi Water fall, dan alat seperti Android Studio, Visio, CorelDraw, Photoshop, dan Sublime akan digunakan. Teknik analisis berorientasi objek akan digunakan untuk menyelesaikan proyek dengan sukses.
+ 
+ **4.2 Dokumentasi Perangkat Lunak**
+ 
+ Dokumentasi seperti piagam proyek, Dokumen Kebutuhan Bisnis, Dokumen Spesifikasi Fungsional, Analisis Manfaat Biaya, dokumen Spesifikasi Teknis, dokumen desain detail, Rencana Uji, Rencana Pelaksanaan, dan dokumen Realisasi Manfaat.
+ 
+ **4.3 Fungsi pendukung proyek**
+ 
+ Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.
+ 
+ 5. **Unsur kerja, jadwal, dan anggaran**
+ 
+ **5.1 Proyek dianggarkan untuk 8 sumber daya, dan peralatan yang dibutuhkan untuk menyelesaikan analisis, implementasi, dan pengujian aplikasi **
+ 
+ **5.2 Prospek proyek akan diputar untuk setiap fase dari 4 anggota tim.**
+ 
+ **5.3 Dokumen untuk semua tahap akan direvisi pada fase berikutnya jika berlaku**
+ 
