@@ -103,7 +103,7 @@
  
  5. **Unsur kerja, jadwal, dan anggaran**
  
- **5.1 Proyek dianggarkan untuk 8 sumber daya, dan peralatan yang dibutuhkan untuk menyelesaikan analisis, implementasi, dan pengujian aplikasi **
+ **5.1 Proyek dianggarkan untuk 8 sumber daya, dan peralatan yang dibutuhkan untuk menyelesaikan analisis, implementasi, dan pengujian aplikasi.**
  
  **5.2 Prospek proyek akan diputar untuk setiap fase dari 4 anggota tim.**
  
