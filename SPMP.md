@@ -63,14 +63,14 @@
 	
    Penangung Jawab Mitra : **Bahransyah Oksareinaldi**, **Dodi Hidayat**
 
-3. **Tujuan dan prioritas manajemen**
+3. **Proses Menajerial**
 
-**3.1**
+**3.1 Tujuan dan prioritas manajemen**
 
-**3.2**
+**3.2 Asumsi-asumsi, tergantungan/kertetarikan, dan batasan-batasan**
 
-**3.3**
+**3.3 Manajemen resiko**
 
-**3.4**
+**3.4 Mekanisme monitoring dan kontroling**
 
-**3.5**
+**3.5 Perencanaan Staff**
