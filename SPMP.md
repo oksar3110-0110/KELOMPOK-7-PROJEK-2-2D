@@ -109,6 +109,36 @@
 
  **5.1 Proyek dianggarkan untuk 8 sumber daya, dan peralatan yang dibutuhkan untuk menyelesaikan analisis, implementasi, dan pengujian aplikasi.**
 
+RENCANAANGGARAN BIAYA
+
+PengembanganSistem Aplikasi Simulasi Ujian Berbasis Mobile
+
+I.                    BIAYALANGSUNG PERSONIL
+| NO     | Keahlian                          | Volume |       | Harga Satuana | Jumlah Harga   |
+| :----- | --------------------------------- | ------ | :---: | :-----------: | -------------- |
+|        |                                   | Jumlah | Waktu |     (Rp)      | (Rp)           |
+| A.     | Biaya Tenaga Ahli                 |        |       |               |                |
+| 1.     | Ahli Perancangan Sistem Informasi | 4      |   4   | Rp 3.500.000  | Rp 14.000.000  |
+| 2.     | Ahli Perancangan Basis  Data      | 2      |   4   | Rp. 3000.000  | Rp. 6000.000   |
+| 3.     | Ahli Pemograman Komputer          | 2      |   4   | Rp 5.000.000  | Rp. 10.000.000 |
+| 4.     | Sistem Analis                     | 1      |   4   | Rp. 3.000.000 | Rp. 3.000.000  |
+| Jumlah | Rp. 33.000.000                    |        |       |               |                |
+
+I.                    BIAYALANGSUNG NON PERSONIL
+
+| No     | Keahlian                            | Volume |         | Harga satuan  | Jumlah harga   |
+| ------ | ----------------------------------- | ------ | ------- | ------------- | -------------- |
+|        |                                     | Jumlah | Waktu   | (Rp)          | (Rp)           |
+| A.     | Biaya Perangkat Lunak dan Pelatihan |        |         |               |                |
+| 1.     | Komputer atau laptop                | 4      |         | Rp. 9.000.000 | Rp. 36.000.000 |
+| 2.     | Dokumentasi                         | 4Ls    |         |               | Rp. 1000.000   |
+| 3.     | Software CorelDraw X7 Original      | 1      | 1 Tahun | Rp. 1.150.000 | Rp. 1.150.000  |
+| 4.     | Software Photoshop CC original      | 1      | 1 Tahun | Rp. 3.460.000 | Rp. 3.460.000  |
+| 5.     | Akun Google Play                    | 1      | 1 tahun | Rp. 300.000   | Rp. 300.000    |
+| Jumlah | Rp. 41.910.000                      |        |         |               |                |
+
+ 
+
  **5.2 Prospek proyek akan diputar untuk setiap fase dari 4 anggota tim.**
 
  **5.3 Dokumen untuk semua tahap akan direvisi pada fase berikutnya jika berlaku**
