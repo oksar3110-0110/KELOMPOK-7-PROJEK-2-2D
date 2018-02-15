@@ -34,13 +34,17 @@
 
    **2.1 Model Proses**
 
-   Model Proyek saat ini kami kerjakan masih di lingkup web dan android tapi kami mengfokuskan ke android
+   Model proses yang kami kerjakan ialah V-Model. Berikut merupakan uraiannya :
 
-   **2.2 Strukture Organisasi**
+   ![](v-model.png)
+
+   ​
+
+   **2.2 Struktur Organisasi**
 
    Proyek Kelompok : 5
 
-   Bahransya Oksareinaldi
+   Bahransyah Oksareinaldi
 
    Dodi Hidayat
 
@@ -54,13 +58,13 @@
    Pembatasan masalah Proyek 2 hanya masih blm di sebarluaskan ke playstore dan sekolah-sekolahlain selain mitra yang kami tanganni 
 
 **2.4 Lingkup Tanggug Jawab**
-	
+​	
    Penanggung Jawab Proyek : **Bahransyah Oksareinaldi**
 
    Penanggung Jawab Coding : **Dodi Hidayat**, **Syahrul Romadoni**
 
    Penanggung Jawab Databases : **Syahrul Romadoni**, **Muhroz Alfarizi**
-	
+​	
    Penangung Jawab Mitra : **Bahransyah Oksareinaldi**, **Dodi Hidayat**
 
 3. **Proses Menajerial**
@@ -86,26 +90,26 @@
    Rancangan staff sendiri.
 
    Mulai dari ketua kelompok trs penangung jawab coding dan datasbases.
- 
+
  4. **Proses Teknis**
- 
+
  **4.1 Metode, Alat, dan Teknik**
- 
+
  Proyek ini akan diimplementasikan dengan memanfaatkan metodologi Water fall, dan alat seperti Android Studio, Visio, CorelDraw, Photoshop, dan Sublime akan digunakan. Teknik analisis berorientasi objek akan digunakan untuk menyelesaikan proyek dengan sukses.
- 
+
  **4.2 Dokumentasi Perangkat Lunak**
- 
+
  Dokumentasi seperti piagam proyek, Dokumen Kebutuhan Bisnis, Dokumen Spesifikasi Fungsional, Analisis Manfaat Biaya, dokumen Spesifikasi Teknis, dokumen desain detail, Rencana Uji, Rencana Pelaksanaan, dan dokumen Realisasi Manfaat.
- 
+
  **4.3 Fungsi pendukung proyek**
- 
+
  Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.
- 
+
  5. **Unsur kerja, jadwal, dan anggaran**
- 
+
  **5.1 Proyek dianggarkan untuk 8 sumber daya, dan peralatan yang dibutuhkan untuk menyelesaikan analisis, implementasi, dan pengujian aplikasi.**
- 
+
  **5.2 Prospek proyek akan diputar untuk setiap fase dari 4 anggota tim.**
- 
+
  **5.3 Dokumen untuk semua tahap akan direvisi pada fase berikutnya jika berlaku**
- 
+
