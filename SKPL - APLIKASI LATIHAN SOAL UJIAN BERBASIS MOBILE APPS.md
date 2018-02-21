@@ -28,11 +28,9 @@
 
    ​	**2.1.5	Antarmuka Komunikasi**
 
-   ​	**2.1.6	Batasan - Batasan Masalah**
+   ​	**2.1.6	Batasan Memory**
 
    ​	**2.1.7	Operasi -Operasi**
-
-   ​	**2.1.8	Kebutuhan - Kebutuhan Dalam Tahapan Adaptasi**
 
    **2.2	Fungsi - Fungsi Produk**
 

@@ -1,8 +1,6 @@
 ## **Software Project Manajemen Plan**
 
-1. **Pendahuluan**
-
-     Pada pendahuluan kali ini dijelaskan mengenai latar belakang informasi  pembuatan dokumentasi project, proses perubahan pada pembuatan dokumen ini, permintaan klien dan berbagai perubahan pada project aplikasi.
+**BAB 1 Pendahuluan**
 
    **1.1 Gambaran Proyek**
 
@@ -30,91 +28,89 @@
 
    API   :
 
-2. **Organisasi Proyek**
+**BAB 2 Organisasi Proyek**
 
-   **2.1 Model Proses**
+**2.1 Model Proses**
 
-   Model proses yang kami kerjakan ialah V-Model. Berikut merupakan uraiannya :
+Model proses yang kami kerjakan ialah V-Model. Berikut merupakan uraiannya :
 
-   ![](v-model.png)
+![](v-model.png)
 
-   ​
+​
 
-   **2.2 Struktur Organisasi**
+**2.2 Struktur Organisasi**
 
-   Proyek Kelompok : 5
+Proyek Kelompok : 5
 
-   Bahransyah Oksareinaldi
+Bahransyah Oksareinaldi
 
-   Dodi Hidayat
+Dodi Hidayat
 
-   Muhroz Alfarizi
+Muhroz Alfarizi
 
-   Syahrul Romadoni
+Syahrul Romadoni
 
-   ​
+​
 
-   **2.3 Batasan dan Antarmuka Organisasi**
+**2.3 Batasan dan Antarmuka Organisasi**
 
-     Pembatasan masalah Proyek 2 hanya masih blm di sebarluaskan ke playstore dan sekolah-sekolahlain selain mitra yang kami tanganni 
+  Pembatasan masalah Proyek 2 hanya masih blm di sebarluaskan ke playstore dan sekolah-sekolahlain selain mitra yang kami tanganni 
 
-   **2.4 Lingkup Tanggug Jawab**
+**2.4 Lingkup Tanggug Jawab**
 
-   Penanggung Jawab Proyek : **Bahransyah Oksareinaldi**
+Penanggung Jawab Proyek : **Bahransyah Oksareinaldi**
 
-   Penanggung Jawab Coding : **Dodi Hidayat**, **Syahrul Romadoni**
+Penanggung Jawab Coding : **Dodi Hidayat**, **Syahrul Romadoni**
 
-   Penanggung Jawab Databases : **Syahrul Romadoni**, **Muhroz Alfarizi**
+Penanggung Jawab Databases : **Syahrul Romadoni**, **Muhroz Alfarizi**
 
-   Penangung Jawab Mitra : **Bahransyah Oksareinaldi**, **Dodi Hidayat**
+Penangung Jawab Mitra : **Bahransyah Oksareinaldi**, **Dodi Hidayat**
 
+**BAB 3 Proses Menajerial** 
 
-3. **Proses Menajerial** 
+**3.1 Tujuan dan prioritas manajemen**
 
-   **3.1 Tujuan dan prioritas manajemen**
+  Tujuan dari proyek ini adalah supaya siswa/siswi smk yang mau UN bisa latihan sendiri dirumah karna aplikasi ini bisa dibawa kemana saja.
 
-     Tujuan dari proyek ini adalah supaya siswa/siswi smk yang mau UN bisa latihan sendiri dirumah karna aplikasi ini bisa dibawa kemana saja.
+**3.2 Asumsi-asumsi, tergantungan/kertetarikan, dan batasan-batasan**
 
-   **3.2 Asumsi-asumsi, tergantungan/kertetarikan, dan batasan-batasan**
+  Asumsi-asumsi dan batasan aplikasi ini sendiri, aplikasi ini masi di silkus sekitar mitra dan belum di perluas kan atau di download di playstore.
 
-     Asumsi-asumsi dan batasan aplikasi ini sendiri, aplikasi ini masi di silkus sekitar mitra dan belum di perluas kan atau di download di playstore.
+**3.3 Manajemen resiko**
 
-   **3.3 Manajemen resiko**
+  Manajemen resikonya sendiri kita masi mengurus beberapa faktor yang kita blm di selesaikan dan memperbaiki beberapa kesalahan tersebut.
 
-     Manajemen resikonya sendiri kita masi mengurus beberapa faktor yang kita blm di selesaikan dan memperbaiki beberapa kesalahan tersebut.
+**3.4 Mekanisme monitoring dan kontroling**
 
-   **3.4 Mekanisme monitoring dan kontroling**
+  Dari mekanisme yang kita lakukan kita masi menggunakan web untuk memonitoring soal ujian dan siswa/siswi.
 
-     Dari mekanisme yang kita lakukan kita masi menggunakan web untuk memonitoring soal ujian dan siswa/siswi.
+**3.5 Perencanaan Staff**
 
-   **3.5 Perencanaan Staff**
+Rancangan staff sendiri.
 
-   Rancangan staff sendiri.
+Mulai dari ketua kelompok trs penangung jawab coding dan datasbases.
 
-   Mulai dari ketua kelompok trs penangung jawab coding dan datasbases.
+**BAB 4 Proses Teknis** 
 
- 4. **Proses Teknis** 
+**4.1 Metode, Alat, dan Teknik**
 
-    **4.1 Metode, Alat, dan Teknik**
+  Proyek ini akan diimplementasikan dengan memanfaatkan metodologi Water fall, dan alat seperti Android Studio, Visio, CorelDraw, Photoshop, dan Sublime akan digunakan. Teknik analisis berorientasi objek akan digunakan untuk menyelesaikan proyek dengan sukses.
 
-      Proyek ini akan diimplementasikan dengan memanfaatkan metodologi Water fall, dan alat seperti Android Studio, Visio, CorelDraw, Photoshop, dan Sublime akan digunakan. Teknik analisis berorientasi objek akan digunakan untuk menyelesaikan proyek dengan sukses.
+**4.2 Dokumentasi Perangkat Lunak**
 
-    **4.2 Dokumentasi Perangkat Lunak**
+  Dokumentasi seperti piagam proyek, Dokumen Kebutuhan Bisnis, Dokumen Spesifikasi Fungsional, Analisis Manfaat Biaya, dokumen Spesifikasi Teknis, dokumen desain detail, Rencana Uji, Rencana Pelaksanaan, dan dokumen Realisasi Manfaat.
 
-      Dokumentasi seperti piagam proyek, Dokumen Kebutuhan Bisnis, Dokumen Spesifikasi Fungsional, Analisis Manfaat Biaya, dokumen Spesifikasi Teknis, dokumen desain detail, Rencana Uji, Rencana Pelaksanaan, dan dokumen Realisasi Manfaat.
+**4.3 Fungsi pendukung proyek**
 
-    **4.3 Fungsi pendukung proyek**
+Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.
 
-    Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.
+**BAB 5 UNSUR, KERJA, dan ANGGARAN** 
 
+**5.1 Proyek dianggarkan untuk 8 sumber daya, dan peralatan yang dibutuhkan untuk menyelesaikan analisis, implementasi, dan pengujian aplikasi.**
 
- 5. **Unsur kerja, jadwal, dan anggaran** 
+RENCANAANGGARAN BIAYA
 
-    **5.1 Proyek dianggarkan untuk 8 sumber daya, dan peralatan yang dibutuhkan untuk menyelesaikan analisis, implementasi, dan pengujian aplikasi.**
-
-    RENCANAANGGARAN BIAYA
-
-    PengembanganSistem Aplikasi Simulasi Ujian Berbasis Mobile
+PengembanganSistem Aplikasi Simulasi Ujian Berbasis Mobile
 
 I. BIAYALANGSUNG PERSONIL
 
