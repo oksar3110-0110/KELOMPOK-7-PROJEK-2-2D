@@ -115,7 +115,7 @@ PengembanganSistem Aplikasi Simulasi Ujian Berbasis Mobile
 
 I.                    BIAYALANGSUNG PERSONIL
 | NO     | Keahlian                          | Volume |       | Harga Satuana | Jumlah Harga   |
-| :----- | --------------------------------- | ------ | :---: | :-----------: | -------------- |
+| :----- | --------------------------------- | ------ | ----- | ------------- | -------------- |
 |        |                                   | Jumlah | Waktu |     (Rp)      | (Rp)           |
 | A.     | Biaya Tenaga Ahli                 |        |       |               |                |
 | 1.     | Ahli Perancangan Sistem Informasi | 4      |   4   | Rp 3.500.000  | Rp 14.000.000  |
