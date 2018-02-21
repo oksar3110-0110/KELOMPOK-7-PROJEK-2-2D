@@ -4,7 +4,7 @@
 
    **1.1 Gambaran Proyek**
 
-     Aplikasi latihan ujian nasional SMK berbasis mobile ini dikembangkan untuk memudahkan siswa SMK dalam belajar maupun untuk mengevaluasi mata pelajaran guna menghadapi ujian nasional mendatang. Didalam aplikasi ini tidak hanya disediakan latihan soal saja namun disertakan chat room untuk diskusi kelompok.
+   Aplikasi latihan ujian nasional SMK berbasis mobile ini dikembangkan untuk memudahkan siswa SMK dalam belajar maupun untuk mengevaluasi mata pelajaran guna menghadapi ujian nasional mendatang. Didalam aplikasi ini tidak hanya disediakan latihan soal saja namun disertakan chat room untuk diskusi kelompok.
 
    **1.2 Dokumen Dokumen dalam Proyek**
 
@@ -32,39 +32,43 @@
 
 **2.1 Model Proses**
 
-Model proses yang kami kerjakan ialah V-Model. Berikut merupakan uraiannya :
+Model proses yang diterapkan pada proses pembuatan aplikasi ini ialah model V-Model karena dianggap cukup mudah dalam setiap langkahnya. Model V-Model sendiri memudahkan perancang ketika terjadi suatu perubahan yang memungkinkan kembali ke proses sebelumnya. Berikut Uraiannya :
 
-![](v-model.png)
+![](ALUR.png)
 
-​
+	a)	Requirement 			: Menentukan permintaan sistem yang akan dibuat 								  berdasarkan batasan masalah yang ada.
+    
+	b)	Specification 			: Menentukan spesifikasi sistem aplikasi yang 									akan dibuat agar dapat memenuhi permintaan.
+    
+	c)	Architectural Design	: Mendesain arsitektur sistem beserta alur 									  kerja dari setiap bagian sistem.
+    
+	d)	Detailed Design			: Mendesain detail dari aplikasi beserta 									  membuat asset - asset yang terdapat pada 									  aplikasi.
+    
+	e)	Coding					: Membangun sistem aplikasi dengan menggunakan 									 code program 
+    
+	f)	Unit Testing			: Menguji setiap unit bagian dari sistem 									  aplikasi.
+    
+	g)	Integration Testing		: Menguji hubungan antara satu bagian sistem 								   dengan bagian yang lainnya.
+    
+	h)	System Testing			: Menguji sistem secara keseluruhan.
+    
+	i)	Acceptane Testing		: Menguji sistem aplikasi pada lingkungan 									  client apakah sesuai dengan permintaan atau tidak.
 
 **2.2 Struktur Organisasi**
 
-Proyek Kelompok : 5
-
-Bahransyah Oksareinaldi
-
-Dodi Hidayat
-
-Muhroz Alfarizi
-
-Syahrul Romadoni
-
-​
+![](/home/abah/RPL-D-7/Struktur Organisasi.png)
+Gambar 2.1 Struktur Organisasi
 
 **2.3 Batasan dan Antarmuka Organisasi**
 
   Pembatasan masalah Proyek 2 hanya masih blm di sebarluaskan ke playstore dan sekolah-sekolahlain selain mitra yang kami tanganni 
 
-**2.4 Lingkup Tanggug Jawab**
+**2.4 Lingkup Tanggung Jawab**
+1. Bahrainsyah Oksareinaldi : Project Leader, Coding Fungsi System.
+2. Dodi Hidayat				: Alur System, Database, Coding.
+3. Muhroz Al Farizi			: Database.
+4. Syahrul Romadoni			: UI Design, System.
 
-Penanggung Jawab Proyek : **Bahransyah Oksareinaldi**
-
-Penanggung Jawab Coding : **Dodi Hidayat**, **Syahrul Romadoni**
-
-Penanggung Jawab Databases : **Syahrul Romadoni**, **Muhroz Alfarizi**
-
-Penangung Jawab Mitra : **Bahransyah Oksareinaldi**, **Dodi Hidayat**
 
 **BAB 3 Proses Menajerial** 
 
@@ -82,7 +86,7 @@ Penangung Jawab Mitra : **Bahransyah Oksareinaldi**, **Dodi Hidayat**
 
 **3.4 Mekanisme monitoring dan kontroling**
 
-  Dari mekanisme yang kita lakukan kita masi menggunakan web untuk memonitoring soal ujian dan siswa/siswi.
+  Sistem monitoring dan kontroling di pegang oleh administrator. Setiap traffic yang ada di monitor oleh admin dan ketika terjadi suatu permasalahan maka admin dapat menghubungi developer aplikasi untuk dilakukan maintance.
 
 **3.5 Perencanaan Staff**
 
