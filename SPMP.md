@@ -56,7 +56,7 @@ Model proses yang diterapkan pada proses pembuatan aplikasi ini ialah model V-Mo
 
 **2.2 Struktur Organisasi**
 
-![](/home/abah/RPL-D-7/Struktur Organisasi.png)
+![](Struktur Organisasi.png)
 Gambar 2.1 Struktur Organisasi
 
 **2.3 Batasan dan Antarmuka Organisasi**
