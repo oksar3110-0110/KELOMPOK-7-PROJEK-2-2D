@@ -37,21 +37,21 @@ Model proses yang diterapkan pada proses pembuatan aplikasi ini ialah model V-Mo
 ![](ALUR.png)
 
 	a)	Requirement 			: Menentukan permintaan sistem yang akan dibuat 								  berdasarkan batasan masalah yang ada.
-    
+
 	b)	Specification 			: Menentukan spesifikasi sistem aplikasi yang 									akan dibuat agar dapat memenuhi permintaan.
-    
+
 	c)	Architectural Design	: Mendesain arsitektur sistem beserta alur 									  kerja dari setiap bagian sistem.
-    
+
 	d)	Detailed Design			: Mendesain detail dari aplikasi beserta 									  membuat asset - asset yang terdapat pada 									  aplikasi.
-    
+
 	e)	Coding					: Membangun sistem aplikasi dengan menggunakan 									 code program 
-    
+
 	f)	Unit Testing			: Menguji setiap unit bagian dari sistem 									  aplikasi.
-    
+
 	g)	Integration Testing		: Menguji hubungan antara satu bagian sistem 								   dengan bagian yang lainnya.
-    
+
 	h)	System Testing			: Menguji sistem secara keseluruhan.
-    
+
 	i)	Acceptane Testing		: Menguji sistem aplikasi pada lingkungan 									  client apakah sesuai dengan permintaan atau tidak.
 
 **2.2 Struktur Organisasi**
@@ -65,9 +65,9 @@ Gambar 2.1 Struktur Organisasi
 
 **2.4 Lingkup Tanggung Jawab**
 1. Bahrainsyah Oksareinaldi : Project Leader, Coding Fungsi System.
-2. Dodi Hidayat				: Alur System, Database, Coding.
-3. Muhroz Al Farizi			: Database.
-4. Syahrul Romadoni			: UI Design, System.
+	. Dodi Hidayat				: Alur System, Database, Coding.
+	. Muhroz Al Farizi			: Database.
+	. Syahrul Romadoni			: UI Design, System.
 
 
 **BAB 3 Proses Menajerial** 
@@ -116,7 +116,7 @@ RENCANAANGGARAN BIAYA
 
 PengembanganSistem Aplikasi Simulasi Ujian Berbasis Mobile
 
-I. BIAYALANGSUNG PERSONIL
+I. BIAYA LANGSUNG PERSONIL
 
 | NO     | Keahlian                          | Volume |       | Harga Satuana | Jumlah Harga   |
 | ------ | --------------------------------- | ------ | ----- | ------------- | -------------- |
@@ -128,7 +128,7 @@ I. BIAYALANGSUNG PERSONIL
 | 4.     | Sistem Analis                     | 1      |   4   | Rp. 3.000.000 | Rp. 3.000.000  |
 | Jumlah | Rp. 33.000.000                    |        |       |               |                |
 
-II. BIAYALANGSUNG NON PERSONIL
+II. BIAYA LANGSUNG NON PERSONIL
 
 | No     | Keahlian                            | Volume |         | Harga satuan  | Jumlah harga   |
 | ------ | ----------------------------------- | ------ | ------- | ------------- | -------------- |
