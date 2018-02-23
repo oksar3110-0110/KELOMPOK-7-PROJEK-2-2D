@@ -7,6 +7,12 @@
    Aplikasi latihan ujian nasional SMK berbasis mobile ini dikembangkan untuk memudahkan siswa SMK dalam belajar maupun untuk mengevaluasi mata pelajaran guna menghadapi ujian nasional mendatang. Didalam aplikasi ini tidak hanya disediakan latihan soal saja namun disertakan chat room untuk diskusi kelompok.
 
    **1.2 Dokumen Dokumen dalam Proyek**
+-    SPMP
+-    SRS
+-    Surat MoU Dengan Mitra SMK RISTEK Indramayu
+-    Proposal Proyek
+-    Laporan Hasil Proyek
+
 
    **1.3 Evolusi SPMP**
 
@@ -17,16 +23,20 @@
    iii.    Definisi dan Akronim - Daftar singkatan yang dipakai
 
    **1.4 Material Acuan**
+-    IEEE
+-    Utdallas SPMP
+-    ESA
+   
 
    **1.5 Definisi dan Akronim \(Singkatan\)**
 
-   Firebase :
+-    Firebase : Database Realtime dari google
+ 
+-    AVD : Android Virtual Device
+ 
+-    SDK : Software Development Kit
 
-   AVD : Android Virtual Device
-
-   SDK : Software Development Kit
-
-   API   :
+-    API   : sekumpulan perintah, fungsi, dan protokol yang dapat digunakan oleh 				programmer saat membangun perangkat lunak untuk sistem operasi tertentu. 
 
 **BAB 2 Organisasi Proyek**
 
@@ -61,28 +71,30 @@ Gambar 2.1 Struktur Organisasi
 
 **2.3 Batasan dan Antarmuka Organisasi**
 
-  Pembatasan masalah Proyek 2 hanya masih blm di sebarluaskan ke playstore dan sekolah-sekolahlain selain mitra yang kami tanganni 
+  Batasan dari aplikasi ini adalah hanya bisa diakses oleh siswa, guru dan admin pada SMK RISTEK Multimedia Indramayu. untuk penggunaan yang lebih luasnya akan dikembangkan lagi agar bisa di upload di google playstore dan dapat diakses oleh siswa secara umum dan soal yang diberikan akan di ubah menjadi soal latihan ujian nasional.
 
 **2.4 Lingkup Tanggung Jawab**
-1. Bahrainsyah Oksareinaldi : Project Leader, Coding Fungsi System.
-	. Dodi Hidayat				: Alur System, Database, Coding.
-	. Muhroz Al Farizi			: Database.
-	. Syahrul Romadoni			: UI Design, System.
+- Bahrainsyah Oksareinaldi : Project Leader, Coding Fungsi System.
+- Dodi Hidayat				: Alur System, Database, Coding.
+- Muhroz Al Farizi			: Database.
+- Syahrul Romadoni			: UI Design, System.
 
 
 **BAB 3 Proses Menajerial** 
 
 **3.1 Tujuan dan prioritas manajemen**
 
-  Tujuan dari proyek ini adalah supaya siswa/siswi smk yang mau UN bisa latihan sendiri dirumah karna aplikasi ini bisa dibawa kemana saja.
+  Tujuan dari proyek ini adalah supaya siswa/siswi smk yang mau UN bisa latihan sendiri dirumah karna aplikasi ini bisa dibawa kemana saja. prioritas utama yaitu SMK RISTEK MULTIMEDIA Indramayu.
 
 **3.2 Asumsi-asumsi, tergantungan/kertetarikan, dan batasan-batasan**
 
-  Asumsi-asumsi dan batasan aplikasi ini sendiri, aplikasi ini masi di silkus sekitar mitra dan belum di perluas kan atau di download di playstore.
+  Asumsi-asumsi dan batasan aplikasi ini sendiri, aplikasi ini masih di siklus sekitar mitra dan belum di perluaskan atau di download di playstore. Aplikasi ini tergantung pada koneksi internet karena dalam mengakses databasenya harus menggunakan koneksi internet yang stabil.
 
 **3.3 Manajemen resiko**
 
-  Manajemen resikonya sendiri kita masi mengurus beberapa faktor yang kita blm di selesaikan dan memperbaiki beberapa kesalahan tersebut.
+-   Tidak semua siswa mempunyai smartphone, oleh karena itu pada aplikasi ini dalam penggunaannya di setting supaya setiap device smartphone berbeda soal agar semua siswa dapat mengakses soal ujian dengan beberapa smartphone secara bergantian.
+-   Konektivitas internet yang terbatas sehingga dapat meenjadi masalah dalam proses pengiriman data dari database sehingga pada desain dibuat sederhana mungkin agar tidak terlalu membebankan koneksi internet. 
+  
 
 **3.4 Mekanisme monitoring dan kontroling**
 
@@ -90,15 +102,17 @@ Gambar 2.1 Struktur Organisasi
 
 **3.5 Perencanaan Staff**
 
-Rancangan staff sendiri.
-
-Mulai dari ketua kelompok trs penangung jawab coding dan datasbases.
+- Project Leader : Bahrainsyah Oksareinaldi
+- Web Developer  : Syahrul Romadoni
+- Database       : Muhroz Al Farizi
+- Android Developer : Dodi Hidayat & Bahrainsyah Oksareinaldi
+- UI Design  : Syahrul Romadoni & Bahrainsyah Oksareinaldi
 
 **BAB 4 Proses Teknis** 
 
 **4.1 Metode, Alat, dan Teknik**
 
-  Proyek ini akan diimplementasikan dengan memanfaatkan metodologi Water fall, dan alat seperti Android Studio, Visio, CorelDraw, Photoshop, dan Sublime akan digunakan. Teknik analisis berorientasi objek akan digunakan untuk menyelesaikan proyek dengan sukses.
+  Model proses yang diterapkan pada proses pembuatan aplikasi ini ialah model V-Model karena dianggap cukup mudah dalam setiap langkahnya. Model V-Model sendiri memudahkan perancang ketika terjadi suatu perubahan yang memungkinkan kembali ke proses sebelumnya, dan alat seperti Android Studio, Visio, CorelDraw, Photoshop, dan Sublime akan digunakan. Teknik analisis berorientasi objek akan digunakan untuk menyelesaikan proyek dengan sukses.
 
 **4.2 Dokumentasi Perangkat Lunak**
 
@@ -106,13 +120,21 @@ Mulai dari ketua kelompok trs penangung jawab coding dan datasbases.
 
 **4.3 Fungsi pendukung proyek**
 
-Semua dokumen pendukung proyek akan selesai dalam fase yang sesuai.
+- Ahli Web Programming
+- Ahli Android Programming
+- Ahli Design UI
+- Ahli Database
 
 **BAB 5 UNSUR, KERJA, dan ANGGARAN** 
 
-**5.1 Proyek dianggarkan untuk 8 sumber daya, dan peralatan yang dibutuhkan untuk menyelesaikan analisis, implementasi, dan pengujian aplikasi.**
+**5.1 Paket Pekerjaan**
+- Bahrainsyah Oksareinaldi : Project Leader, Coding Fungsi System.
+- Dodi Hidayat				: Alur System, Database, Coding.
+- Muhroz Al Farizi			: Database.
+- Syahrul Romadoni			: UI Design, System.
 
-RENCANAANGGARAN BIAYA
+
+**5.2 RENCANA ANGGARAN BIAYA**
 
 PengembanganSistem Aplikasi Simulasi Ujian Berbasis Mobile
 
@@ -141,7 +163,7 @@ II. BIAYA LANGSUNG NON PERSONIL
 | 5.     | Akun Google Play                    | 1      | 1 tahun | Rp. 300.000   | Rp. 300.000    |
 | Jumlah | Rp. 41.910.000                      |        |         |               |                |
 
- **5.2 Prospek proyek akan diputar untuk setiap fase dari 4 anggota tim.**
-
- **5.3 Dokumen untuk semua tahap akan direvisi pada fase berikutnya jika berlaku**
-
+ **5.3 Jadwal.**
+ 
+![](Jadwal.png)
+ 
