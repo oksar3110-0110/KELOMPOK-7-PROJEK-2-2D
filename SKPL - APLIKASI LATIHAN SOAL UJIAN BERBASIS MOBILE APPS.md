@@ -64,6 +64,82 @@ Politeknik Negeri Indramayu
 
    ​	**2.1.7	Operasi -Operasi**
 
+   ​	
+
+   | No   | Tampilan                          | Operasi                      | Fungsi                                                       |
+   | ---- | --------------------------------- | ---------------------------- | ------------------------------------------------------------ |
+   | 1    | Tampilan Login                    | Input Email                  | Berfungsi sebagai ID akun masuk ke aplikasi.                 |
+   | 2    |                                   | Input Password               | Berfungsi sebagai security ID akun aplikasi anda.            |
+   | 3    |                                   | Button Login                 | Berfungsi sebagai proses masuk aplikasi.                     |
+   | 4    |                                   | Button Forget                | Berfungsi sebagai ketika user tidak tahu passwordnya atau lupa password. |
+   | 5    | Tampilan Lupa Password            | Input Username               | Berfungsi sebagai ID username security yang ada di databases. |
+   | 6    |                                   | Input Nomer HP               | Berfungsi sebagai ID nomer security yang ada di databases.   |
+   | 7    |                                   | Input Email                  | Berfungsi sebagai ID email security yang ada di databases.   |
+   | 8    |                                   | Button Canlce                | Berfungsi sebagai tidak jadi untuk lupa password.            |
+   | 9    |                                   | Button Send                  | Berfungsi sebagai mengirim data yang telah di input oleh user, jika benar  buttom ini akan mengarah ke rubah password jika tidak buttom ini akan kembali  ke tampilan lupa password. |
+   | 10   | Tampilan Rubah Password Dll       | Input Password               | Berfungsi sebagai perubahan password yang tadi lupa jadi biki lagin  dengan akun yang sama, yang telah di inputkan di Tampilan Lupa Password. |
+   | 11   |                                   | Input Nomer HP               | Berfungsi sebagai perubahan nomer hp biasanya nomernya udah muncul, jika  mau dirubah nomernya silahkan ganti nomernya jika tidak dirubah maka jangan  dihapus atau dirubah. |
+   | 12   |                                   | Input Email                  | Berfungsi sebagai perubahan email atau jika mau dirubah silahkan dirubah  jika tidak dirubah jangan dihapus atau dirubah emailnya. |
+   | 13   |                                   | Button Cancle                | Berfungsi sebagai buttom ini akan mengarahkan ke halaman Tampilan Login  atau buttom ini membatalkan perubahan password baru. |
+   | 14   |                                   | Button Send                  | Berfungsi sebagai perubahan databases, buttom ini yang akan mengarahkan  ke databases kalo ada Password, NoHp dan Email yang ada di rubah |
+   | 15   | Tampilan Register                 | Input Email                  | Berfungsi sebagai ID login untuk ID masuk ke aplikasi.       |
+   | 16   |                                   | Input Password               | Berfungsi sebagai Password security ID akun aplikasi anda.   |
+   | 17   |                                   | Button Cancle                | Berfungsi sebagai tidak jadi untuk register buttom ini akan mengarahkan  ke Tampilan Login. |
+   | 18   |                                   | Button cread                 | Berfungsi sebagai membuat akun atau ID baru di aplikasi.     |
+   | 19   |                                   | Icon GooglePlus              | Berfungsi sebagai membuat akun atau ID baru di aplikasi tapi menggunakan  akun dari Google. |
+   | 20   |                                   | Icon Facebook                | Berfungsi sebagai membuat akun atau ID baru di aplikasi tapi menggunakan  akun dari facebook. |
+   | 21   | Tampilan Awal Aplikasi            | Icon 3 Garis Horizon         | Berfungsi sebagai buttom fitur tambahan yang ada di Tampilan Awal  Aplikasi fitur tamabahanya itu editting profile user dll. |
+   | 22   |                                   | Button Icon Buku             | Berfungsi sebagai buttom yang akan mengarahkan ke bacaan buku yang ada di  aplikasi tersebut. |
+   | 23   |                                   | Button Icon latihan          | Berfungsi sebagai buttom yang akan mengarahkan ke latihan ujian yang  sudah di pelajari dan akan muncul di soal Ujian. |
+   | 24   |                                   | Button Icon Ujian            | Berfungsi sebagai buttom yang akan meagarahkan ke Simulasi Ujian asli  yang akan muncul di Ujian Online. |
+   | 25   |                                   | Button Icon Static           | Berfungsi sebagai buttom yang akan mengarahkan ke static grafic latihan  ujian dan rangking yang sudah di kerjakan. |
+   | 26   |                                   | Button Icon Chatting         | Berfungsi sebagai chatting user, fitur ini bisa digunakan untuk chatting  sesama userlain yang dapat di diskusian bersama userlain dan bisa membuat  group user. |
+   | 27   |                                   | Button Icon Setting          | berfungsi sebagai mengatur pengaturan yang ada di aplikasi tersebut. |
+   | 28   |                                   | Button Icon About            | Berfungsi sebagai yang akan mengarahkan informasi aplikasi.  |
+   | 29   | Tampilan Buku                     | Button icon buku             | Berfungsi sebagai buku pelajaran yang bisa dibaca lewat hp selain buku  normal biasanya. |
+   | 30   | Tampilan Statistic                |                              | Berfungsi sebagai melihat grafic statistic ujian, latihan,rangking dll. |
+   | 31   | Tampilan About                    |                              | Berfungsi sebagai menampilkan informasi aplikasi seperi aplikasi servi  berapa, dibuat siapa dll. |
+   | 32   | Tampilan Chatting                 | Button Priver Cahtting       | Berfungsi sebagai private chattting (Chat) sesama user.      |
+   | 33   |                                   | Button Group Chatting        | Berfungsi sebagai group chatting (chat) ke semua user yang sudah  ditambahkan ke group chatting tersebut. |
+   | 34   | Tampilan Setting                  |                              | Berfungsi sebagai menampilkan settingan beberapa penganturan yang mau  akan dirubah oleh user. |
+   | 35   | Tampilan Latihan Ujian            | Timedown                     | Berfungsi sebagai menampilakan waktu yang akan diujian oleh latihan ujian  aplikasi. |
+   | 36   |                                   | Button Icon Play             | Berfungsi sebagai akan dimulainya latihan ujian.             |
+   | 37   |                                   | Button icon pause            | Berfungsi sebagai mulai laginya ujian yang sudah pause sebelunya pada  saata latihan ujian sedang berlangsung. |
+   | 38   | Tampilan saat mulai latihan ujian | Timedown                     | Berfungsu sebagai waktu mundur yang sedang berjalan.         |
+   | 39   |                                   | Button icon pause            | Berfungsi sebagai di pausenya latihan ujian untuk memberhentikan  sementara time down latihan ujian dan akan mengarahkan ke tampilan Mulai  latihan ujian. |
+   | 40   |                                   | Button icon panah kanan/kiri | Berfungsi sebagai menggati soal yand ada di latihan ujiantersebut. |
+   | 41   |                                   | Button icon Pilihan          | Berfungsi sebagai pilihan jawan user.                        |
+   | 42   | Tampilan selesai latihan ujian    | Button icon ya               | Berfungsi sebagai jika jawaban sudah fik buttom ini akan mengarahkan ke  Tampilan Awal Aplikasi. |
+   | 43   |                                   | Button icon tidak            | Berfungsi sebagai jika jawaban salah maka buttom ini akan mengarahkan ke  tampilan mulai ujian atau kembali mengerjakan latihan ujian. |
+   | 44   | Tampilan ujian                    | Timedown                     | Berfungsi sebagai jangka waktu pengerjaan ujian latihan.     |
+   | 45   |                                   | Buttom Icon Play             | berfungsi sebagai mulainya ujian.                            |
+   | 46   | Tampilan saat mulai Ujian         | Timedown                     | Berfungsu sebagai waktu mundur yang sedang berjalan.         |
+   | 47   |                                   | Button icon panah kanan/kiri | Berfungsi sebagai menggati soal yand ada di latihan ujiantersebut. |
+   | 48   |                                   | Button icon Pilihan          | Berfungsi sebagai pilihan jawan user.                        |
+   | 49   | Tampilan selesai ujian            | Button icon ya               | Berfungsi sebagai jika jawaban sudah fik buttom ini akan mengarahkan ke  Tampilan Awal Aplikasi. |
+   | 50   |                                   | Button icon tidak            | Berfungsi sebagai jika jawaban salah maka buttom ini akan mengarahkan ke  tampilan mulai ujian atau kembali mengerjakan latihan ujian. |
+   | 51   | Tampilan Pilih Latihan Ujian      | Button icon Pilihan Ujian    | Berfungsi sebagai memilih latihan soal ujian yang akan dipilih. |
+   | 52   | Tampilan Pilih Ujian              | Button icon Pilihan Ujian    | Berfungsi sebagai memilih soal ujian yang akan dipilih.      |
+   | 53   | Tampilan Lihat Buku               |                              | Berfungsi sebagai menampilkan buku pelajaran.                |
+   | 54   | Tampilan Tambah Chatting Private  | Button chatting              | Interaksi user dan user yang sedang dijalan.                 |
+   | 55   |                                   | Button Tambah Chatting       | Berfungsi sebagai menabha kontak baru dari private chatting. |
+   | 56   |                                   | Button kurang chatting       | Berfungsi sebagai mengurangi beberapa kontak  Chatting Private. |
+   | 57   | Tampilan Tambah Chatting group    | Button chatting Group        | Interaksi user dan user yang sedang dijalan.                 |
+   | 58   |                                   | Button Tambah Chatting Group | Berfungsi sebagai menabha kontak baru dari group chatting.   |
+   | 59   |                                   | Button kurang chatting       | Berfungsi sebagai mengurangi beberapa kontak group chatting. |
+   | 60   | Tampilan Profile                  | Button Back                  | Berfungsi sebagai kembali ke Tampilan Awal Aplikasi.         |
+   | 61   |                                   |                              | Menampikan informasi user.                                   |
+   | 62   |                                   | Button Setting               | Berfungsi sebagai mengedit Profile user.                     |
+   | 63   | Tampilan EditUser                 | Button Back                  | Berfungsi kembali ke Tampilan Profile.                       |
+   | 64   |                                   | Input Username               | Berfungsi sebagai merubah username.ke databases.             |
+   | 65   |                                   | Input Password               | Berfungsi sebagai merubah password ke databases.             |
+   | 66   |                                   | Input Email                  | Berfungsi sebagai merubah email ke databases.                |
+   | 67   |                                   | Input Nomer HP               | Berfungsi sebagai merubah nomer hp ke databases.             |
+   | 68   |                                   | Input Alamat                 | Berfungsi sebagai merubah alamat ke databases.               |
+   | 69   |                                   | Input Ayah                   | Berfungsi sebagai merubah nama orang tua ayah ke databases.  |
+   | 70   |                                   | Input Ibu                    | Berfungsi sebagai merubah nama orang tua ibu ke databases.   |
+   | 71   |                                   | Input Nomer HP Orangtua      | Berfungsi sebagai merubah nomer orang tua ayah/ibu ke databases. |
+
    **2.2	Spesifikasi Kebutuhan Fungsional**
 
    **2.3	Spesifikasi Kebutuhan Non-Fungsional**
