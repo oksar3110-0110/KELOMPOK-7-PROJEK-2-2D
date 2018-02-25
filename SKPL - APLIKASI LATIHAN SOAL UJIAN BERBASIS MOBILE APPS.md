@@ -6,21 +6,21 @@ Version 1.0
 
 ![](POLINDRA.png)
 
-APLIKASI LATIHAN UJIAN BERBASIS MOBILE APPS
+​					APLIKASI LATIHAN UJIAN BERBASIS MOBILE APPS
 
-Disusun Oleh :
+​						Disusun Oleh :
 
-Bahrainsyah Oksareinaldi	(1603092)
+​							Bahrainsyah Oksareinaldi (1603092)
 
-Dodi Hodayat				(1603095)
+​							Dodi Hodayat (1603095)
 
-Muhroz Al Farizi			(1603108)
+​							Muhroz Al Farizi (1603108)
 
-Syahrul Romadoni			(1603114)
+​							Syahrul Romadoni (1603114)
 
-D3 Teknik Informatika
+​								D3 Teknik Informatika
 
-Politeknik Negeri Indramayu
+​							  Politeknik Negeri Indramayu
 
 #### SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
 
@@ -59,6 +59,8 @@ Politeknik Negeri Indramayu
    ​	**2.1.4	Antarmuka Perangkat Lunak**
 
    ​	**2.1.5	Antarmuka Komunikasi**
+
+   ​	Antarmuka komunikasi Aplikasi Latihan Ujian Berbasis Mobile Apps ini admin dan user harus tersambung internet terutama untuk admin untuk mengupload materi pelajaran dan menginputakan data seperti menabah materi-materi pelajaran dan mengupload ujian dan latihan ujian yang akan di jalankan oleh siswa/siswi, Dan user tidak harus online si user hanya bisa ujian, latihan ujian dan mendownload meteri-materi pelajaran yang di upload oleh si guru.
 
    ​	**2.1.6	Batasan Memory**
 
