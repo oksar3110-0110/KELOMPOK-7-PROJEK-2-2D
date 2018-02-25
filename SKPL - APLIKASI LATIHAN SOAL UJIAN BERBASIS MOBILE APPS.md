@@ -56,6 +56,8 @@ Version 1.0
 
    ​	**2.1.3	Antarmuka Perangkat Keras**
 
+   ​	Antarmuka komunikasi Aplikasi Latihan Ujian Berbasis Mobile Apps ini sang (User) pengguna harus memiliki setidaknya smartphone minimal android versi 4.0.3 (Ice Cream Sandwich) untuk menginstall aplikasi ini.
+
    ​	**2.1.4	Antarmuka Perangkat Lunak**
 
    ​	**2.1.5	Antarmuka Komunikasi**
@@ -150,10 +152,7 @@ Version 1.0
 
    **2.5	Batasan - Batasan**
 
-   ​	Batasan dari Aplikasi Latihan Ujian Berbasis Mobile Apps ini 
-   masi di lingkup wilayah di daerah indramayu terutama aplikasi ini masi 
-   buat mitra SMK Ristek Lohbener indramayu dan juga aplikasi ini masi 
-   dalam tahap pengujian dan masi blm di sebarluaskan.
+   ​	Batasan dari Aplikasi Latihan Ujian Berbasis Mobile Apps ini  masi di lingkup wilayah di daerah indramayu terutama aplikasi ini masi  buat mitra SMK Ristek Lohbener indramayu dan juga aplikasi ini masi  dalam tahap pengujian dan masi blm di sebarluaskan.
 
    **2.6	Asumsi - Asumsi Keterkaitan**
 
