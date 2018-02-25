@@ -48,6 +48,8 @@ Politeknik Negeri Indramayu
 
    **2.1 Perspektif Produk**
 
+   Aplikasi latihan soal ujian berbasis mobile aplikasi bertujuan untuk sekolah-sekolah yang masih belum memiliki fasilitas sekolah yang memadai terutama di bagian fasilitas komputer dan alat-alat electroniklainya, dan juga terutama untuk siswa/siswi yang masih belum memiliki komputer/laptop di rumahnya maka dari itu aplikasi ujian berbasisi mobile ini siswa/siswi bisa latihan ujian nasional dimana saja dan kapan saja karna latihan ujian nasional ini berbasis android yang bisa dibawa kemana saja oleh siswa/siswi.
+
    ​	**2.1.1	Antarmuka Sistem**
 
    ​	**2.1.2	Antarmuka Pengguna (MOCKUP)**
