@@ -60,6 +60,8 @@ Version 1.0
 
    ​	**2.1.4	Antarmuka Perangkat Lunak**
 
+   ​	Aplikasi Latihan Ujian Berbasis Mobile Apps ini hanya bisa di instal di android versi 4.0.3 (Ice Cream Sandwich) karna simulasi aplikasi ujian ini bisa di jalankan hanya untuk ver 4 ke atas tidak bisa android ver 4 kebawah.
+
    ​	**2.1.5	Antarmuka Komunikasi**
 
    ​	Antarmuka komunikasi Aplikasi Latihan Ujian Berbasis Mobile Apps ini admin dan user harus tersambung internet terutama untuk admin untuk mengupload materi pelajaran dan menginputakan data seperti menabah materi-materi pelajaran dan mengupload ujian dan latihan ujian yang akan di jalankan oleh siswa/siswi, Dan user tidak harus online si user hanya bisa ujian, latihan ujian dan mendownload meteri-materi pelajaran yang di upload oleh si guru.
