@@ -26,15 +26,15 @@ Politeknik Negeri Indramayu
 
 1. **Pendahuluan**
 
-   Pada bagian ini memberikan deskripsi dan gambaran mengenai apapun yang terdapat pada dokumen SRS. Juga tujuan dari pembuatan dari dokumen ini di gambarkan dan di urutkan juga didefinisikan.
+   ​	Pada bagian ini memberikan deskripsi dan gambaran mengenai apapun yang terdapat pada dokumen SRS. Juga tujuan dari pembuatan dari dokumen ini di gambarkan dan di urutkan juga didefinisikan.
 
    **1.1	Tujuan**
 
-   Tujuan dari pembuatan dokumen ini adalah untuk memberikan detail dari System Requirement dari "Aplikasi Latihan Ujian Nasional Berbasis Mobile Apps". Pada dokumen ini mengilustrasikan tujuan dan pernyataan lengkap dari pembuatan sistem. Dokumen ini juga menjelaskan spesifikasi system, interface dan hubungan dengan aplikasi lainnya.
+   ​	Tujuan dari pembuatan dokumen ini adalah untuk memberikan detail dari System Requirement dari "Aplikasi Latihan Ujian Nasional Berbasis Mobile Apps". Pada dokumen ini mengilustrasikan tujuan dan pernyataan lengkap dari pembuatan sistem. Dokumen ini juga menjelaskan spesifikasi system, interface dan hubungan dengan aplikasi lainnya.
 
    **1.2	Lingkup**
 
-   "Aplikasi Latihan Ujian Berbasis Mobile Apps" merupakan sebuah aplikasi mobile yang dibuat bekerja sama dengan mitra yaitu SMK RISTEK MULTIMEDIA Indramayu. Pada aplikasi ini disediakan materi, latihan soal dan soal - soal yang diharapkan dapat meningkatkan mutu dari siswa - siswa dalam kompetensinya.
+   ​	"Aplikasi Latihan Ujian Berbasis Mobile Apps" merupakan sebuah aplikasi mobile yang dibuat bekerja sama dengan mitra yaitu SMK RISTEK MULTIMEDIA Indramayu. Pada aplikasi ini disediakan materi, latihan soal dan soal - soal yang diharapkan dapat meningkatkan mutu dari siswa - siswa dalam kompetensinya.
 
    Batasan dari aplikasi ini ialah pada soal - soal dan materi, hanya berkaitan dengan bidang multimedia dan beberapa materi pelajaran wajib. Pada aplikasi inipun disediakan juga fitur live chat antar sesama siswa. Juga disediakan fitur perangkingan berbasis grafik.
 
@@ -48,7 +48,7 @@ Politeknik Negeri Indramayu
 
    **2.1 Perspektif Produk**
 
-   Aplikasi latihan soal ujian berbasis mobile aplikasi bertujuan untuk sekolah-sekolah yang masih belum memiliki fasilitas sekolah yang memadai terutama di bagian fasilitas komputer dan alat-alat electroniklainya, dan juga terutama untuk siswa/siswi yang masih belum memiliki komputer/laptop di rumahnya maka dari itu aplikasi ujian berbasisi mobile ini siswa/siswi bisa latihan ujian nasional dimana saja dan kapan saja karna latihan ujian nasional ini berbasis android yang bisa dibawa kemana saja oleh siswa/siswi.
+   ​	Aplikasi Latihan Ujian Berbasis Mobile Apps bertujuan untuk sekolah-sekolah yang masih belum memiliki fasilitas sekolah yang memadai terutama di bagian fasilitas komputer dan alat-alat electroniklainya, dan juga terutama untuk siswa/siswi yang masih belum memiliki komputer/laptop di rumahnya maka dari itu aplikasi ujian berbasisi mobile ini siswa/siswi bisa latihan ujian nasional dimana saja dan kapan saja karna latihan ujian nasional ini berbasis android yang bisa dibawa kemana saja oleh siswa/siswi.
 
    ​	**2.1.1	Antarmuka Sistem**
 
@@ -147,6 +147,11 @@ Politeknik Negeri Indramayu
    **2.4	Karakteristik Pengguna**
 
    **2.5	Batasan - Batasan**
+
+   ​	Batasan dari Aplikasi Latihan Ujian Berbasis Mobile Apps ini 
+   masi di lingkup wilayah di daerah indramayu terutama aplikasi ini masi 
+   buat mitra SMK Ristek Lohbener indramayu dan juga aplikasi ini masi 
+   dalam tahap pengujian dan masi blm di sebarluaskan.
 
    **2.6	Asumsi - Asumsi Keterkaitan**
 
