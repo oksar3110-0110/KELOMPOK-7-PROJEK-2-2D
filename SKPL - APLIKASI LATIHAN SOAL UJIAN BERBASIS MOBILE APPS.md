@@ -39,12 +39,22 @@ Version 1.0
    Batasan dari aplikasi ini ialah pada soal - soal dan materi, hanya berkaitan dengan bidang multimedia dan beberapa materi pelajaran wajib. Pada aplikasi inipun disediakan juga fitur live chat antar sesama siswa. Juga disediakan fitur perangkingan berbasis grafik.
 
    **1.3	Definisi, Akronim, Singkatan**
+-    Mobile Apps : Aplikasi perangkat bergerak meliputi IOS, Android.
+-    Firebase	 : Database realtime dari google yang tidak berbasis DBMS.
+-    Live Chat	 : Merpakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
+
 
    **1.4	Referensi**
+-    Software Requirements Specification, "Web Publishing System", April 15, 2004.
+-    IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements
+Specifications. IEEE Computer Society, 1998.
 
    **1.5	Overview**
-
-2. **Gambaran Umum**
+   Didalam dokumen ini memuat 3 bab yang masing - masing bab menjelaskan fungsi dan desain darri aplikasi latihan ujian berbasis mobile apps. Pada bab 1 menjelaskan tentang tujuan, lingkup, definisi singkatan, referensi pembuatan dokumen ini dan gambaran tentang dokumen ini.
+   Pada bab ke-2 menjelaskan tentang gambaran dari produk yang akan dibuuat, interface yang digunakan, btasan memory dan operasi - oerasi yang ada pada sistem.
+   Pada bab ke-3 menjelaskan tentang spesifikasi yang terdapat pada sistem ini.
+   
+ **2.	Gambaran Umum**
 
    **2.1 Perspektif Produk**
 
@@ -154,11 +164,11 @@ Version 1.0
 
    **2.5	Batasan - Batasan**
 
-   ​	Batasan dari Aplikasi Latihan Ujian Berbasis Mobile Apps ini  masi di lingkup wilayah di daerah indramayu terutama aplikasi ini masi  buat mitra SMK Ristek Lohbener indramayu dan juga aplikasi ini masi  dalam tahap pengujian dan masi blm di sebarluaskan.
+   ​	Batasan dari Aplikasi Latihan Ujian Berbasis Mobile Apps ini  masi di lingkup wilayah di daerah indramayu terutama aplikasi ini masi  buat mitra SMK Ristek Lohbener indramayu dan juga aplikasi ini masi  dalam tahap pengujian dan masih belum di sebarluaskan.
 
    **2.6	Asumsi - Asumsi Keterkaitan**
 
-3. **Requirement Specification**
+**3.		Requirement Specification**
 
    ​
 
