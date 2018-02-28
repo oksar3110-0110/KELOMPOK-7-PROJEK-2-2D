@@ -1,4 +1,4 @@
-## **SOFTWARE REQUIREMENTS SPECIFICATION**
+## **iSOFTWARE REQUIREMENTS SPECIFICATION**
 
 Version 1.0
 
@@ -61,13 +61,13 @@ Version 1.0
 
    ​	Aplikasi Latihan Ujian Berbasis Mobile Apps bertujuan untuk sekolah-sekolah yang masih belum memiliki fasilitas sekolah yang memadai terutama di bagian fasilitas komputer dan alat-alat electroniklainya, dan juga terutama untuk siswa/siswi yang masih belum memiliki komputer/laptop di rumahnya maka dari itu aplikasi ujian berbasisi mobile ini siswa/siswi bisa latihan ujian nasional dimana saja dan kapan saja karna latihan ujian nasional ini berbasis android yang bisa dibawa kemana saja oleh siswa/siswi.
 
-   ​	**2.1.1	Antarmuka Sistem**
+   	**2.1.1	Antarmuka Sistem**
 
    	**2.1.2	Antarmuka Pengguna (MOCKUP)**
 
-  | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png) |
+  | ![img](https://plus.google.com/photos/111748830595072767287/album/6527493652568447601/6527493658623733426?authkey=CKb18oubkr2S5QE&hl=id) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png) |
+  | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png) | ![mg](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png) |
   | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png) |
   | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image020.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image022.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image024.png) |
   | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image026.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image028.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image030.png) |
