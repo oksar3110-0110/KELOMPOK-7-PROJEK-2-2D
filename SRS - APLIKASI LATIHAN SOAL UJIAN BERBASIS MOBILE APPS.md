@@ -173,7 +173,7 @@ Version 1.0
 
    **2.5	Batasan - Batasan**
 
-   	Batasan dari Aplikasi Latihan Ujian Berbasis Mobile Apps ini  masi di lingkup wilayah di daerah indramayu terutama aplikasi ini masi  buat mitra SMK Ristek Lohbener indramayu dan juga aplikasi ini masi  dalam tahap pengujian dan masih belum di sebarluaskan.
+  Batasan dari Aplikasi Latihan Ujian Berbasis Mobile Apps ini  masih di lingkup wilayah di daerah indramayu terutama aplikasi ini masih  buat mitra SMK Ristek Lohbener indramayu dan juga aplikasi ini masi  dalam tahap pengujian dan masih belum di sebarluaskan.
 
    **2.6	Asumsi - Asumsi Keterkaitan**
 
