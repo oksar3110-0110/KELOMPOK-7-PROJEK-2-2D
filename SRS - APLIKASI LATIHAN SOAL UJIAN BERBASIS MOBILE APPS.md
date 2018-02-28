@@ -65,7 +65,7 @@ Version 1.0
 
    **2.1.2	Antarmuka Pengguna (MOCKUP)**
 
-  | ![img](https://drive.google.com/open?id=1XNTabhkpYCtaPjvlni4vs7UcNKD8o2Bh) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png) |
+  | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png) | ![mg](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png) |
   | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png) |
@@ -77,7 +77,7 @@ Version 1.0
 
    ​	Antarmuka komunikasi Aplikasi Latihan Ujian Berbasis Mobile Apps ini sang (User) pengguna harus memiliki setidaknya smartphone minimal android versi 4.0.3 (Ice Cream Sandwich) untuk menginstall aplikasi ini.
 
-   **2.1.4	Antarmuka Perangkat Lunak**
+   ​	**2.1.4	Antarmuka Perangkat Lunak**
 
    	Aplikasi Latihan Ujian Berbasis Mobile Apps ini hanya bisa di instal di android versi 4.0.3 (Ice Cream Sandwich) karna simulasi aplikasi ujian ini bisa di jalankan hanya untuk ver 4 ke atas tidak bisa android ver 4 kebawah.
 
