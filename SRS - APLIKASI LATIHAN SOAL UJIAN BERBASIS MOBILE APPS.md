@@ -59,7 +59,7 @@ Version 1.0
 
    **2.1 Perspektif Produk**
 
-   ​Aplikasi Latihan Ujian Berbasis Mobile Apps bertujuan untuk sekolah-sekolah yang masih belum memiliki fasilitas sekolah yang memadai terutama di bagian fasilitas komputer dan alat-alat electroniklainya, dan juga terutama untuk siswa/siswi yang masih belum memiliki komputer/laptop di rumahnya maka dari itu aplikasi ujian berbasisi mobile ini siswa/siswi bisa latihan ujian nasional dimana saja dan kapan saja karna latihan ujian nasional ini berbasis android yang bisa dibawa kemana saja oleh siswa/siswi.
+   Aplikasi Latihan Ujian Berbasis Mobile Apps bertujuan untuk sekolah-sekolah yang masih belum memiliki fasilitas sekolah yang memadai terutama di bagian fasilitas komputer dan alat-alat electroniklainya, dan juga terutama untuk siswa/siswi yang masih belum memiliki komputer/laptop di rumahnya maka dari itu aplikasi ujian berbasisi mobile ini siswa/siswi bisa latihan ujian nasional dimana saja dan kapan saja karna latihan ujian nasional ini berbasis android yang bisa dibawa kemana saja oleh siswa/siswi.
 
    **2.1.1	Antarmuka Sistem**
 
@@ -67,11 +67,11 @@ Version 1.0
 
   | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a03.png?w=156&h=315) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png) | ![mg](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png) |
-  | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png) |
-  | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image020.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image022.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image024.png) |
-  | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image026.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image028.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image030.png) |
-  | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image032.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image034.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image036.png) |
+  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a03.png?w=156&h=315) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a05.png?w=209&h=426) | ![mg](https://oksareinaldi.files.wordpress.com/2018/02/a06.png?w=208&h=426) |
+  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a17.png?w=158&h=313) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a18.png?w=210&h=420) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a07.png?w=211&h=426) |
+  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a09.png?w=155&h=316) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a10.png?w=157&h=316) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a24.png?w=155&h=312) |
+  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a25.png?w=211&h=421) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a11.png?w=156&h=316) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a12.png?w=315&h=631) |
+  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a14.png?w=156&h=313) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a15.png?w=156&h=313) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a16.png?w=154&h=313) |
 
    **2.1.3	Antarmuka Perangkat Keras**
 
