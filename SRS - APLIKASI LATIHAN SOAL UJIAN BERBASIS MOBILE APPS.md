@@ -4,7 +4,7 @@ Version 1.0
 
 22 Februari 2018
 
-![](POLINDRA.png)
+![](https://oksareinaldi.files.wordpress.com/2018/02/polindra.png?w=421&h=421&crop=1)
 
 ​					APLIKASI LATIHAN UJIAN BERBASIS MOBILE APPS
 
@@ -65,9 +65,9 @@ Version 1.0
 
    **2.1.2	Antarmuka Pengguna (MOCKUP)**
 
-  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png) |
+  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png) | ![mg](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png) |
+  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a03.png?w=156&h=315) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png) | ![mg](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png) |
   | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png) |
   | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image020.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image022.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image024.png) |
   | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image026.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image028.png) | ![img](file:///C:/Users/RPL-19/AppData/Local/Temp/msohtmlclip1/01/clip_image030.png) |
