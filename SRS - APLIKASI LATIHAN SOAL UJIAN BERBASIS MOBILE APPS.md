@@ -39,10 +39,9 @@ Version 1.0
    Batasan dari aplikasi ini ialah pada soal - soal dan materi, hanya berkaitan dengan bidang multimedia dan beberapa materi pelajaran wajib. Pada aplikasi inipun disediakan juga fitur live chat antar sesama siswa. Juga disediakan fitur perangkingan berbasis grafik.
 
    **1.3	Definisi, Akronim, Singkatan**
--    Mobile Apps : Aplikasi perangkat bergerak meliputi IOS, Android.
-	    Firebase	 : Database realtime dari google yang tidak berbasis DBMS.
-	    Live Chat	 : Merpakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
-
+- Mobile Apps : Aplikasi perangkat bergerak meliputi IOS, Android.
+  Firebase	 : Database realtime dari google yang tidak berbasis DBMS.
+- Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
 
    **1.4	Referensi**
 -    Software Requirements Specification, "Web Publishing System", April 15, 2004.
@@ -63,7 +62,7 @@ Version 1.0
 
    **2.1.1	Antarmuka Sistem**
 
-   **2.1.2	Antarmuka Pengguna (MOCKUP)**
+   **2.1.2	Antarmuka Pengguna (MOC**
 
   | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -75,7 +74,9 @@ Version 1.0
 
    **2.1.3	Antarmuka Perangkat Keras**
 
-   Antarmuka komunikasi Aplikasi Latihan Ujian Berbasis Mobile Apps ini sang (User) pengguna harus memiliki setidaknya smartphone minimal android versi 4.0.3 (Ice Cream Sandwich) untuk menginstall aplikasi ini.
+   ![img](https://oksareinaldi.files.wordpress.com/2018/03/basic-use-case-diagram-page-2-e1519891968750.png?w=640)
+
+  ​
 
    **2.1.4	Antarmuka Perangkat Lunak**
 
@@ -167,9 +168,19 @@ Version 1.0
 
    **2.2	Spesifikasi Kebutuhan Fungsional**
 
+  ​
+
    **2.3	Spesifikasi Kebutuhan Non-Fungsional**
 
+  Aplikasi Latihan Ujian Berbasis Mobile Apps (ALTIS) menggunakan database yang di hosting
+
    **2.4	Karakteristik Pengguna**
+
+  Siswa diharapkan dapat menggunakan aplikasi smartphone android dan sambungan internet pada smartphone dengan baik. Pada halaman utama menampilkan menu - menu dari aplikasi, disini siswa diharapkan sudah mengerti tentang tata cara penggunaan dari aplikasi android.
+
+  Bagi guru diharapkan dapat mengerti tentang cara penggunaan aplikasi web, upload suatu content, dan me-manage user account siswa. pada setiap halaman fungsi yang ada pada web terdapat fitur pencarian yang diharapkan dapat mempermudah guru dalam mencari suatu objek.
+
+  Untuk admin diharapkan dapat mengelola server dengan baik. admin diharapkan dapat mengerti tentang tata cara mengelola sistem dan melakukan troubleshooting ketika terjadi masalah pada sistem.
 
    **2.5	Batasan - Batasan**
 
