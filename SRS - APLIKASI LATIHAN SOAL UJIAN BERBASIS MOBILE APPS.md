@@ -291,7 +291,7 @@ Version 1.0
 - Tabel Guru
 
 
-| **DATA ITEM** | **Type** | **Deskripsi**
+| **DATA ITEM** | **Type** | **Deskripsi**|
   | ------ | ------------------------------------------------------------ |
   | id_guru  | int | sebagai identitas guru |
   | id_wali_kelas      | int | sebagai identitas kelas |
@@ -308,7 +308,7 @@ Version 1.0
 - Tabel Siswa/Siswi
 
 
-| **DATA ITEM** | **Type** | **Deskripsi**
+| **DATA ITEM** | **Type** | **Deskripsi**|
   | ------ | ------------------------------------------------------------ |
   | id_siswa_siswi | int | sebagai penempatan id siswa/siswi|
   | id_jurusan | int | sebagai penempatan id jurusan|
@@ -333,7 +333,7 @@ Version 1.0
 - Tabel Buku
 
 
-| **DATA ITEM** | **Type** | **Deskripsi**
+| **DATA ITEM** | **Type** | **Deskripsi**|
   | ------ | ------------------------------------------------------------ |
   | id_buku| int| sebagai penempatan id buku|
   | id_kategori| int| sebagai penempatan id kategori|
@@ -348,7 +348,7 @@ Version 1.0
 - Tabel Latihan Soal Ujian
 
 
-| **DATA ITEM** | **Type** | **Deskripsi**
+| **DATA ITEM** | **Type** | **Deskripsi**|
   | ------ | ------------------------------------------------------------ |
   | id_latihan_ujian| int| sebagai penempatan id soal latihhan ujian|
   | nama_ujian| varchar| sebagai penempatan nama ujian|
@@ -363,7 +363,7 @@ Version 1.0
 - Tabel Soal Ujian
 
 
-| **DATA ITEM** | **Type** | **Deskripsi**
+| **DATA ITEM** | **Type** | **Deskripsi**|
   | ------ | ------------------------------------------------------------ |
   | id_ujian| int| sebagai penempatan id soal ujian|
   | nama_ujian| varchar| sebagai penempatan nama ujian|
