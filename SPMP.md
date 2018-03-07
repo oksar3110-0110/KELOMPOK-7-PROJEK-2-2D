@@ -75,23 +75,23 @@ Model proses yang diterapkan pada proses pembuatan aplikasi ini ialah model V-Mo
 
 <img src="https://oksareinaldi.files.wordpress.com/2018/03/alur.png?w=636&h=291">
 
-a)	Requirement 			: Menentukan permintaan sistem yang akan dibuat 								  berdasarkan batasan masalah yang ada.
+a)	Requirement 			: Menentukan permintaan sistem yang akan dibuat berdasarkan batasan masalah yang ada.
 
-b)	Specification 			: Menentukan spesifikasi sistem aplikasi yang 									akan dibuat agar dapat memenuhi permintaan.
+b)	Specification 			: Menentukan spesifikasi sistem aplikasi yang akan dibuat agar dapat memenuhi permintaan.
 
-c)	Architectural Design	: Mendesain arsitektur sistem beserta alur 									  kerja dari setiap bagian sistem.
+c)	Architectural Design	: Mendesain arsitektur sistem beserta alur kerja dari setiap bagian sistem.
 
-d)	Detailed Design			: Mendesain detail dari aplikasi beserta 									  membuat asset - asset yang terdapat pada 									  aplikasi.
+d)	Detailed Design			: Mendesain detail dari aplikasi beserta membuat asset - asset yang terdapat pada aplikasi.
 
-e)	Coding					: Membangun sistem aplikasi dengan menggunakan 									 code program 
+e)	Coding					: Membangun sistem aplikasi dengan menggunakan code program 
 
-f)	Unit Testing			: Menguji setiap unit bagian dari sistem 									  aplikasi.
+f)	Unit Testing			: Menguji setiap unit bagian dari sistem aplikasi.
 
-g)	Integration Testing		: Menguji hubungan antara satu bagian sistem 								   dengan bagian yang lainnya.
+g)	Integration Testing		: Menguji hubungan antara satu bagian sistem dengan bagian yang lainnya.
 
 h)	System Testing			: Menguji sistem secara keseluruhan.
 
-i)	Acceptane Testing		: Menguji sistem aplikasi pada lingkungan 									  client apakah sesuai dengan permintaan atau tidak.
+i)	Acceptane Testing		: Menguji sistem aplikasi pada lingkungan client apakah sesuai dengan permintaan atau tidak.
 
 **2.2 Struktur Organisasi**
 
