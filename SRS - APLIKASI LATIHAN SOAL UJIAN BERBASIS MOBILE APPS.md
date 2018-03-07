@@ -256,6 +256,246 @@ Version 1.0
   | 8      |  Aplikasi terdapat fitur register siswa|
   | 9      |  Aplikasi terdapat fitur tambah guru|
 
+2.2.1  Login Siswa
+use case: Login Siswa
+diagram:
+![enter image description here](/HUBUNGAN/login_siswa.png)
+deskripsi singkat: siswa login terlebih dahulu untuk masuk kedalam menu utama
+deskripsi  langkah-langkah:
+1\. User memilih menu login
+
+2\. Sistem menampilkan form isian login
+
+3\. User mengisi data login
+
+4\. User menekan tombol login
+
+5\. System menuju data user
+
+X Ref: Section 3.2.1, Login Siswa
+
+2.2.2  Login Guru
+use case: Login Guru
+diagram:
+![enter image description here](/HUBUNGAN/login_guru.png)
+deskripsi singkat: guru login terlebih dahulu untuk masuk kedalam menu utama
+deskripsi  langkah-langkah:
+1\. User memilih menu login
+
+2\. Sistem menampilkan form isian login
+
+3\. User mengisi data login
+
+4\. User menekan tombol login
+
+5\. System menuju data user
+
+X Ref: Section 3.2.2, Login Guru
+2.2.3  Login Admin
+use case: Login Admin
+diagram:
+![enter image description here](/HUBUNGAN/login_admin.png)
+deskripsi singkat: admin login terlebih dahulu untuk masuk kedalam menu utama
+deskripsi  langkah-langkah:
+1\. User memilih menu login
+
+2\. Sistem menampilkan form isian login
+
+3\. User mengisi data login
+
+4\. User menekan tombol login
+
+5\. System menuju data user
+
+X Ref: Section 3.2.3, Login Admin
+2.2.4  Daftar Siswa
+use case: Daftar Siswa
+diagram:
+![enter image description here](/HUBUNGAN/register_siswa.png)
+deskripsi singkat: guru mendaftarkan siswa
+deskripsi  langkah-langkah:
+1\. User memilih menu daftar
+
+2\. Sistem menampilkan form daftar
+
+3\. User mengisi form data
+
+4\. User menekan tombol daftar untuk menyimpan data
+
+5\. System menyimpan data ke dalam database user
+
+6\. System mengirimkan data verifikasi kepada guru
+
+7\. Guru menyetujui verifikasi
+
+8\. User sudah bisa menggunakan fitur aplikasi
+
+X Ref: Section 3.2.4, Daftar Siswa
+2.2.5  Daftar Guru
+use case: Daftar Guru
+diagram:
+![enter image description here](/HUBUNGAN/register_siswa.png)
+deskripsi singkat: admin mendaftarkan guru
+deskripsi  langkah-langkah:
+
+X Ref: Section 3.2.5, Daftar Guru
+2.2.6  Kelola Siswa
+use case: Kelola Siswa
+diagram:
+![enter image description here](/HUBUNGAN/kelola siswa_siswa.png)
+deskripsi singkat: guru mengelola identitas siswa
+deskripsi  langkah-langkah:
+1\. User memilih menu daftar
+
+2\. Sistem menampilkan form daftar
+
+3\. User mengisi form data
+
+4\. User menekan tombol daftar untuk menyimpan data
+
+5\. System menyimpan data ke dalam database user
+
+6\. System mengirimkan data verifikasi kepada guru
+
+7\. Guru menyetujui verifikasi
+
+8\. User sudah bisa menggunakan fitur aplikasi
+
+X Ref: Section 3.2.6, Login Siswa
+2.2.7  Lihat Buku
+use case: Lihat Buku
+diagram:
+![enter image description here](/HUBUNGAN/lihat_buku.png)
+deskripsi singkat: siswa melihat buku yang akan dibaca
+deskripsi  langkah-langkah:
+1\. User memilih menu kelola siswa
+
+2\. System menampilkan list siswa
+
+3\. User mengelola siswa
+
+4\. User memperbarui siswa
+
+5\. System menyimpan data kedalam database
+
+X Ref: Section 3.2.7, Lihat Buku
+2.2.8  Kelola Buku
+use case: Kelola Buku
+diagram:
+![enter image description here](/HUBUNGAN/kelola_buku.png)
+deskripsi singkat: guru mengelola buku
+deskripsi  langkah-langkah:
+1\. User memilih menu buku
+
+2\. User memilih kategori buku
+
+3\. User memilih buku
+
+4\. Sistem menampilkan buku
+
+5\. User melihat buku
+
+X Ref: Section 3.2.8, Kelola Buku
+2.2.9  Lihat Latihan
+use case: Lihat Latihan
+diagram:
+![enter image description here](/HUBUNGAN/lihat_latihan.png)
+deskripsi singkat: siswa mengerjakan latihan
+deskripsi  langkah-langkah:
+1\. User memilih menu buku
+
+2\. System menampilkan menu kelola data buku
+
+3\. User memilih data yang akan di kelola
+
+4\. User mengedit data
+
+5\. User memperbarui data
+
+6\. System menyimpan pembaruan ke dalam database
+X Ref: Section 3.2.9, Lihat Latihan
+2.2.10  Kelola Latihan
+use case: Kelola Latihan
+diagram:
+![enter image description here](/HUBUNGAN/kelola_latihan.png)
+deskripsi singkat: guru mengelola latihan
+deskripsi  langkah-langkah:
+1\. User memilih menu Latihan
+
+2\. User memilih kategori Latihan
+
+3\. User memilih Latihan
+
+4\. Sistem menampilkan Latihan
+
+5\. User Menjawab Latihan
+
+6\. User Menyimpan Latihan
+
+7\. Sistem menyimpan Latihan ke dalam database
+
+8\. User melihat tampilan berhasil disimpan
+X Ref: Section 3.2.10, Kelola Latihan
+2.2.11  Lihat Ujian
+use case: Lihat Ujian
+diagram:
+![enter image description here](/HUBUNGAN/lihat_ujian.png)
+deskripsi singkat: siswa mengerjakan ujian
+deskripsi  langkah-langkah:
+
+X Ref: Section 3.2.11, Lihat Ujian
+2.2.12  Kelola Ujian
+use case: Kelola Ujian
+diagram:
+![enter image description here](/HUBUNGAN/kelola_ujian.png)
+deskripsi singkat: guru mengelola ujian untuk siswa
+deskripsi  langkah-langkah:
+1\. User memilih menu Latihan
+
+2\. User memilih kategori Latihan
+
+3\. User memperbarui Latihan
+
+4\. User Menyimpan Latihan
+
+5\. Sistem menyimpan latihan kedalam database
+
+6\. User melihat tampilan berhasil disimpan
+
+X Ref: Section 3.2.12, Kelola Ujian
+2.2.13 Chat
+use case: Chat
+diagram:
+![enter image description here](/HUBUNGAN/chat.png)
+deskripsi singkat: siswa saling chat untuk berbagi informasi seputar latihan
+deskripsi  langkah-langkah:
+1\. User memilih menu chat
+
+2\. User memilih pengguna chat
+
+3\. User menulis chat
+
+4\. User menekan tombol kirim
+
+5\. System menyimpan chat kedalam database
+
+6\. System menampilkan chat ke penerima
+
+7\. User penerima menerima chat
+X Ref: Section 3.2.13, Chat
+2.2.14  Statistik
+use case: Statistik
+diagram:
+![enter image description here](/HUBUNGAN/lihat_statistik.png)
+deskripsi singkat: siswa dan guru dapat melihat statistik tentang nilai 
+deskripsi  langkah-langkah:
+1\. User memilih menu Statistik
+
+2\. System menampilkan statistic siswa
+
+3\. User melihat statistic siswa
+X Ref: Section 3.2.14, Statistik
+
 
    **2.3	Spesifikasi Kebutuhan Non-Fungsional**
 
