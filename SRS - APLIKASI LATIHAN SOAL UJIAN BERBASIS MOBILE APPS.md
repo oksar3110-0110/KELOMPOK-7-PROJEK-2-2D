@@ -181,7 +181,12 @@ Version 1.0
 
    **2.3	Spesifikasi Kebutuhan Non-Fungsional**
 
-  Aplikasi Latihan Ujian Berbasis Mobile Apps (ALTIS) menggunakan database yang di hosting
+  | **NO** | **Deskripsi**                                                |
+  | ------ | ------------------------------------------------------------ |
+  | 1      | Antar muka Bahasa pada system menggunakan Bahasa Indonesia   |
+  | 2      | Sistem mampu mengupdate chat selama dalam kurun waktu kurang dari 5  detik (tidak termasuk masalah koneksi) |
+  | 3      | Sistem aplikasi dapat memvalidasi email dan password yang diinputkan |
+  | 4      | Perangkat lunak dapat berjalan pada platform android kitkat dan web  browser chrome atau firefox |
 
    **2.4	Karakteristik Pengguna**
 
