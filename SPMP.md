@@ -7,6 +7,7 @@
    Aplikasi latihan ujian nasional SMK berbasis mobile ini dikembangkan untuk memudahkan siswa SMK dalam belajar maupun untuk mengevaluasi mata pelajaran guna menghadapi ujian nasional mendatang. Didalam aplikasi ini tidak hanya disediakan latihan soal saja namun disertakan chat room untuk diskusi kelompok.
 
    **1.2 Dokumen Dokumen dalam Proyek**
+   
 -    SPMP
 -    SRS
 -    Surat MoU Dengan Mitra SMK RISTEK Indramayu
@@ -23,6 +24,7 @@
    iii.    Definisi dan Akronim - Daftar singkatan yang dipakai
 
    **1.4 Material Acuan**
+   
 -    IEEE
 -    Utdallas SPMP
 -    ESA
@@ -75,6 +77,7 @@ Gambar 2.1 Struktur Organisasi
   Batasan dari aplikasi ini adalah hanya bisa diakses oleh siswa, guru dan admin pada SMK RISTEK Multimedia Indramayu. untuk penggunaan yang lebih luasnya akan dikembangkan lagi agar bisa di upload di google playstore dan dapat diakses oleh siswa secara umum dan soal yang diberikan akan di ubah menjadi soal latihan ujian nasional.
 
 **2.4 Lingkup Tanggung Jawab**
+
 - Bahrainsyah Oksareinaldi : Project Leader, Coding Fungsi System.
 - Dodi Hidayat				: Alur System, Database, Coding.
 - Muhroz Al Farizi			: Database.
@@ -129,6 +132,7 @@ Gambar 2.1 Struktur Organisasi
 **BAB 5 UNSUR, KERJA, dan ANGGARAN** 
 
 **5.1 Paket Pekerjaan**
+
 - Bahrainsyah Oksareinaldi : Project Leader, Coding Fungsi System.
 - Dodi Hidayat				: Alur System, Database, Coding.
 - Muhroz Al Farizi			: Database.
