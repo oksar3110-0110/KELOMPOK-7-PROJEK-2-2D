@@ -224,6 +224,7 @@ Version 1.0
   <img src="https://oksareinaldi.files.wordpress.com/2018/03/basic-use-case-diagram-page-1.jpeg?w=640">
 
 - Deskripsi
+
 | **NO** | **Deskripsi Fungsional**                                                |
   | ------ | ------------------------------------------------------------ |
   | 1      |  Aplikasi dapat menampikan halaman login Siswa |
