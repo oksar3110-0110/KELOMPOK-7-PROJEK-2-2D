@@ -284,7 +284,221 @@ Version 1.0
    
 
 ##   **BAB III Requirement Specification**
-**3.3.1 Logika Struktur Data**
+
+3.1 External Interface Requirements
+
+Link ke external system adalah link ke webstore database untuk memverifikasi keanggotaan dari siswa, guru, dan admin
+
+3.2 Functional Requirements
+
+3.2.1 Login Siswa
+|Use Case Name    |Login                                 |
+|-----------------|--------------------------------------|
+|X Ref            |Section 2.2.1, Login Siswa            |
+|Trigger          |User(Siswa) memilih menu login        |
+|Precondition     |Aplikasi mobile menampilkan menu login|
+|Basic Path       |1. User memilih menu login            |
+|                 |2. Sistem menampilkan form isian login|
+|                 |3. User mengisi data login            |
+|                 |4. User menekan tombol login          |
+|                 |5. System menuju data user            |
+|Alternative Paths|Tidak ada                             |
+
+3.2.2 Login Guru
+
+|Use Case Name    |Login                                 |
+|-----------------|--------------------------------------|
+|X Ref            |Section 2.2.2, Login Guru             |
+|Trigger          |User(Guru) memilih menu login         |
+|Precondition     |Aplikasi mobile menampilkan menu login|
+|Basic Path       |1. User memilih menu login            |
+|                 |2. Sistem menampilkan form isian login|
+|                 |3. User mengisi data login            |
+|                 |4. User menekan tombol login          |
+|                 |5. System menuju data user            |
+|Alternative Paths|Tidak ada                             |
+
+3.2.3 Login Admin
+
+|Use Case Name    |Login                                 |
+|-----------------|--------------------------------------|
+|X Ref            |Section 2.2.3, Login Admin            |
+|Trigger          |User(Admin) memilih menu login        |
+|Precondition     |Aplikasi mobile menampilkan menu login|
+|Basic Path       |1. User memilih menu login            |
+|                 |2. Sistem menampilkan form isian login|
+|                 |3. User mengisi data login            |
+|                 |4. User menekan tombol login          |
+|                 |5. System menuju data user            |
+|Alternative Paths|Tidak ada                             |
+
+3.2.4 Registrasi Siswa
+
+|Use Case Name    |Daftar                                            |
+|-----------------|--------------------------------------------------|
+|X Ref            |Section 2.2.4, Daftar Siswa                       |
+|Trigger          |User(Guru) memilih menu daftar                    |
+|Precondition     |Aplikasi menampilkan menu daftar                  |
+|Basic Path       |1. User memilih menu daftar                       |
+|                 |2. Sistem menampilkan form daftar                 |
+|                 |3. User mengisi form data                         |
+|                 |4. User menekan tombol daftar untuk menyimpan data|
+|                 |5. System menyimpan data ke dalam database user   |
+|                 |6. System mengirimkan data verifikasi kepada guru |
+|                 |7. Guru menyetujui verifikasi                     |
+|                 |8. User sudah bisa menggunakan fitur aplikasi     |
+|Alternative Paths|Tidak ada                                         |
+
+3.2.5 Registrasi Guru
+|Use Case Name    |Daftar                                            |
+|-----------------|--------------------------------------------------|
+|X Ref            |Section 2.2.5, Daftar Guru                        |
+|Trigger          |User(Admin) memilih menu daftar                   |
+|Precondition     |Aplikasi menampilkan menu daftar                  |
+|Basic Path       |1. User memilih menu daftar                       |
+|                 |2. Sistem menampilkan form daftar                 |
+|                 |3. User mengisi form data                         |
+|                 |4. User menekan tombol daftar untuk menyimpan data|
+|                 |5. System menyimpan data ke dalam database user   |
+|                 |6. System mengirimkan data verifikasi kepada guru |
+|                 |7. Guru menyetujui verifikasi                     |
+|                 |8. User sudah bisa menggunakan fitur aplikasi     |
+|Alternative Paths|Tidak ada                                         |
+
+3.2.6 Manage Siswa
+
+|Use Case Name    |Kelola Siswa                             |
+|-----------------|-----------------------------------------|
+|X Ref            |Section 2.2.6, Daftar Guru               |
+|Trigger          |User(Guru) memilih menu Kelola Siswa     |
+|Precondition     |Aplikasi menampilkan menu kelola siswa   |
+|Basic Path       |1. User memilih menu kelola siswa        |
+|                 |2. System menampilkan list siswa         |
+|                 |3. User mengelola siswa                  |
+|                 |4. User memperbarui siswa                |
+|                 |5. System menyimpan data kedalam database|
+|Alternative Paths|Tidak ada                                |
+
+3.2.7 View Buku Use Case
+|Use Case Name    |View Buku                     |
+|-----------------|------------------------------|
+|X Ref            |Section 2.2.7, Daftar Guru    |
+|Trigger          |User (Siswa) memilih menu buku|
+|Precondition     |Aplikasi menampilkan menu buku|
+|Basic Path       |1. User memilih menu buku     |
+|                 |2. User memilih kategori buku |
+|                 |3. User memilih buku          |
+|                 |4. Sistem menampilkan buku    |
+|                 |5. User melihat buku          |
+|Alternative Paths|Tidak ada                     |
+
+3.2.8 Manage Buku
+|Use Case Name    |Manage Buku                                    |
+|-----------------|-----------------------------------------------|
+|X Ref            |Section 2.2.8, Daftar Guru                     |
+|Trigger          |User (Guru) memilih menu buku                  |
+|Precondition     |Aplikasi menampilkan menu buku                 |
+|Basic Path       |1. User memilih menu buku                      |
+|                 |2. System menampilkan menu kelola data buku    |
+|                 |3. User memilih data yang akan di kelola       |
+|                 |4. User mengedit data                          |
+|                 |5. User memperbarui data                       |
+|                 |6. System menyimpan pembaruan ke dalam database|
+|Alternative Paths|Tidak ada                                      |
+
+3.2.9 View Latihan
+
+|Use Case Name    |View Latihan                                 |
+|-----------------|---------------------------------------------|
+|X Ref            |Section 2.2.9, Daftar Guru                   |
+|Trigger          |User (Siswa) memilih menu Latihan            |
+|Precondition     |Aplikasi menampilkan menu  Latihan           |
+|Basic Path       |1. User memilih menu Latihan                 |
+|                 |2. User memilih kategori Latihan             |
+|                 |3. User memilih Latihan                      |
+|                 |4. Sistem menampilkan Latihan                |
+|                 |5. User Menjawab Latihan                     |
+|                 |6. User Menyimpan Latihan                    |
+|                 |7. Sistem menyimpan Latihan ke dalam database|
+|                 |8. User melihat tampilan berhasil disimpan   |
+|Alternative Paths|Tidak ada                                    |
+
+3.2.10 Manage Latihan
+
+|Use Case Name    |Kelola Latihan                              |
+|-----------------|--------------------------------------------|
+|X Ref            |Section 2.2.10, Daftar Guru                 |
+|Trigger          |User (Guru) memilih menu Latihan            |
+|Precondition     |Aplikasi menampilkan menu Latihan           |
+|Basic Path       |1. User memilih menu Latihan                |
+|                 |2. User memilih kategori Latihan            |
+|                 |3. User memperbarui Latihan                 |
+|                 |4. User Menyimpan Latihan                   |
+|                 |5. Sistem menyimpan latihan kedalam database|
+|                 |6. User melihat tampilan berhasil disimpan  |
+|Alternative Paths|Tidak ada                                   |
+
+3.2.11 View Ujian
+|Use Case Name    |View Ujian                                 |
+|-----------------|-------------------------------------------|
+|X Ref            |Section 2.2.11, Daftar Guru                |
+|Trigger          |User (Siswa) memilih menu Ujian            |
+|Precondition     |Aplikasi menampilkan menu  Ujian           |
+|Basic Path       |1. User memilih menu Ujian                 |
+|                 |2. User memilih kategori Ujian             |
+|                 |3. User memilih Ujian                      |
+|                 |4. Sistem menampilkan Ujian                |
+|                 |5. User Menjawab Ujian                     |
+|                 |6. User Menyimpan Ujian                    |
+|                 |7. Sistem menyimpan Ujian ke dalam database|
+|                 |8. User melihat tampilan berhasil disimpan |
+|Alternative Paths|Tidak ada                                  |
+
+3.2.12 Manage Ujian
+
+|Use Case Name    |Kelola Ujian                              |
+|-----------------|------------------------------------------|
+|X Ref            |Section 2.2.12, Daftar Guru               |
+|Trigger          |User (Guru) memilih menu Ujian            |
+|Precondition     |Aplikasi menampilkan menu Ujian           |
+|Basic Path       |1. User memilih menu Ujian                |
+|                 |2. User memilih kategori Ujian            |
+|                 |3. User memperbarui Ujian                 |
+|                 |4. User Menyimpan Ujian                   |
+|                 |5. Sistem menyimpan Ujian kedalam database|
+|                 |6. User melihat tampilan berhasil disimpan|
+|Alternative Paths|Tidak ada                                 |
+
+3.2.13 View Chat
+
+|Use Case Name    |Lihat Chat                               |
+|-----------------|-----------------------------------------|
+|X Ref            |Section 2.2.13, Daftar Guru              |
+|Trigger          |User (Siswa) memilih menu Chat           |
+|Precondition     |Aplikasi menampilkan menu Chat           |
+|Basic Path       |1. User memilih menu chat                |
+|                 |2. User memilih pengguna chat            |
+|                 |3. User menulis chat                     |
+|                 |4. User menekan tombol kirim             |
+|                 |5. System menyimpan chat kedalam database|
+|                 |6. System menampilkan chat ke penerima   |
+|                 |7. User penerima menerima chat           |
+|Alternative Paths|Tidak ada                                |
+
+3.2.14 Statistik
+
+|Use Case Name    |Lihat Statistik                          |
+|-----------------|-----------------------------------------|
+|X Ref            |Section 2.2.14, Daftar Guru              |
+|Trigger          |User(Siswa, Guru)  memilih menu Statistik|
+|Precondition     |Aplikasi menampilkan Statistik           |
+|Basic Path       |1. User memilih menu Statistik           |
+|                 |2. System menampilkan statistic siswa    |
+|                 |3. User melihat statistic siswa          |
+|Alternative Paths|Tidak ada                                |
+
+
+**3.3 Logika Struktur Data**
 
 <img src="https://oksareinaldi.files.wordpress.com/2018/03/erd.png?w=640">
 
