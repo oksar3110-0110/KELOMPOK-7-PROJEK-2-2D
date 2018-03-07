@@ -1,10 +1,11 @@
-## **SOFTWARE REQUIREMENTS SPECIFICATION**
+<div align="center">
+**SOFTWARE REQUIREMENTS SPECIFICATION**
 
 Version 1.0
 
 22 Februari 2018
 
-![](https://oksareinaldi.files.wordpress.com/2018/02/polindra.png?w=421&h=421&crop=1)
+<div style="width:250px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/polindra.png?w=421&h=421&crop=1)</div>
 
 ​                                                 APLIKASI LATIHAN UJIAN BERBASIS MOBILE APPS
 
@@ -18,9 +19,10 @@ Version 1.0
 
 ​                                                           Syahrul Romadoni (1603114)
 
-​                                                                D3 Teknik Informatika
+​                                                               ** D3 Teknik Informatika**
 
-​                                                            ​Politeknik Negeri Indramayu
+​                                                            ​**Politeknik Negeri Indramayu**
+</div>
 
 #### SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
 
@@ -67,13 +69,13 @@ Version 1.0
 
   ​	A. Mockup Android.
 
-  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315) |
+  | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=) </div>| <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315) | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a03.png?w=156&h=315) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a05.png?w=209&h=426) | ![mg](https://oksareinaldi.files.wordpress.com/2018/02/a06.png?w=208&h=426) |
-  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a17.png?w=158&h=313) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a18.png?w=210&h=420) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a07.png?w=211&h=426) |
-  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a09.png?w=155&h=316) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a10.png?w=157&h=316) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a24.png?w=155&h=312) |
-  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a25.png?w=211&h=421) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a11.png?w=156&h=316) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a12.png?w=315&h=631) |
-  | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a14.png?w=156&h=313) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a15.png?w=156&h=313) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a16.png?w=154&h=313) |
+  | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a03.png?w=156&h=315) | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a05.png?w=209&h=426) | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a06.png?w=208&h=426) |
+  |<div style="width:150px;"> ![img](https://oksareinaldi.files.wordpress.com/2018/02/a17.png?w=158&h=313) |<div style="width:150px;"> ![img](https://oksareinaldi.files.wordpress.com/2018/02/a18.png?w=210&h=420) | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a07.png?w=211&h=426) |
+  | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a09.png?w=155&h=316) |<div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a10.png?w=157&h=316) | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a24.png?w=155&h=312) |
+  |<div style="width:150px;"> ![img](https://oksareinaldi.files.wordpress.com/2018/02/a25.png?w=211&h=421) | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a11.png?w=156&h=316) | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a12.png?w=315&h=631) |
+  | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a14.png?w=156&h=313) |<div style="width:150px;"> ![img](https://oksareinaldi.files.wordpress.com/2018/02/a15.png?w=156&h=313) |<div style="width:150px;"> ![img](https://oksareinaldi.files.wordpress.com/2018/02/a16.png?w=154&h=313) |
 
   ​	B. Mockup Website.
 
