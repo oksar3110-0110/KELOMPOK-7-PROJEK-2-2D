@@ -87,43 +87,62 @@ Version 1.0
  ** B. Mockup Website.**
  
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/login1.png?w=315&h=165">
- <p>Mockup</p>
+ <p>Mockup Login Guru/Admin </p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/register1.png?w=317&h=165">
- <p>Mockup</p>
+ <p>Mockup Register Guru</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/forgot2.png?w=640">
- <p>Mockup</p>
+ <p>Mockup Lupa Password</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tampilan11.png?w=316&h=165">
- <p>Mockup</p>
+ <p>Mockup Tampil Buku</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-buku1.png?w=318&h=164">
- <p>Mockup</p>
+ <p>Mockup Tambah Buku</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-guru1.png?w=316&h=165">
- <p>Mockup</p>
+ <p>Mockup Tambah Guru</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-siswa-siswi1.png?w=316&h=165">
- <p>Mockup</p>
+ <p>Mockup Tambah siswa</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-ketegori1.png?w=318&h=164">
- <p>Mockup</p>
+ <p>Mockup Tambah Kategori</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-penerbit1.png?w=318&h=164">
- <p>Mockup</p>
+ <p>Mockup Tambah Penerbit</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-penulis1.png?w=318&h=164">
- <p>Mockup</p>
+ <p>Mockup Tambah Penulis</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-wali-kelas1.png?w=319&h=164">
- <p>Mockup</p>
+ <p>Mockup Tambah Wali Kelas</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-mata-pelajaran1.png?w=319&h=164">
- <p>Mockup</p>
+ <p>Mockup Tambah mata Pelajaran</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-jurusan1.png?w=636&h=327">
- <p>Mockup</p>
+ <p>Mockup Tambah Jurusan</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/jurusan2.png?w=316&h=165">
- <p>Mockup</p>
+ <p>Mockup Jurusan</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/wali-kelas2.png?w=316&h=164">
- <p>Mockup</p>
+ <p>Mockup Wali Kelas</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/penulis2.png?w=316&h=165">
- <p>Mockup</p>
+ <p>Mockup Penulis</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/ketegori2.png?w=316&h=165">
- <p>Mockup</p>
+ <p>Mockup Kategori</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/ketegori2.png?w=316&h=165">
- <p>Mockup</p>
+ <p>Mockup Kategori</p>
+ 
  <img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tampilan-buku3.png?w=316&h=165">
- <p>Mockup</p>
+ <p>Mockup Tampil Buku</p>
+ 
    **2.1.3	Antarmuka Perangkat Keras**
 
    <img src="https://oksareinaldi.files.wordpress.com/2018/03/basic-use-case-diagram-page-2-e1519891968750.png?w=640">
