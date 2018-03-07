@@ -85,6 +85,7 @@ Version 1.0
 
 
  ** B. Mockup Website.**
+ <img src="https://oksareinaldi.files.wordpress.com/2018/03/login1.png?w=315&h=165">
 
    **2.1.3	Antarmuka Perangkat Keras**
 
