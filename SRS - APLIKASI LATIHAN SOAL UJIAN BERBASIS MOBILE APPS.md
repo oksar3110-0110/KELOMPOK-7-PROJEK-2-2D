@@ -52,7 +52,7 @@ Version 1.0
 -    Software Requirements Specification, "Web Publishing System", April 15, 2004.
 
 -    IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements
-  Specifications. IEEE Computer Society, 1998.
+  	Specifications. IEEE Computer Society, 1998.
 
 
    **1.5	Overview**
@@ -223,6 +223,20 @@ Version 1.0
 
   <img src="https://oksareinaldi.files.wordpress.com/2018/03/basic-use-case-diagram-page-1.jpeg?w=640">
 
+- Deskripsi
+| **NO** | **Deskripsi Fungsional**                                                |
+  | ------ | ------------------------------------------------------------ |
+  | 1      |  Aplikasi dapat menampikan halaman login Siswa |
+  | 2      | Aplikasi dapat menampikan halaman login Guru |
+  | 3      | Aplikasi dapat menampikan halaman login Admin |
+  | 4      |  Aplikasi dapat menampilkan grafik statistik nilai|
+  | 5      |  Aplikasi dapat menyediakan Live chat kepada user siswa  |
+  | 6      | Aplikasi dapat menampilkan soal dan latihan |
+  | 7      | Aplikasi dapat menampilkan materi |
+  | 8      |  Aplikasi terdapat fitur register siswa|
+  | 9      |  Aplikasi terdapat fitur tambah guru|
+
+
    **2.3	Spesifikasi Kebutuhan Non-Fungsional**
 
   | **NO** | **Deskripsi**                                                |
@@ -241,8 +255,13 @@ Version 1.0
   Untuk admin diharapkan dapat mengelola server dengan baik. admin diharapkan dapat mengerti tentang tata cara mengelola sistem dan melakukan troubleshooting ketika terjadi masalah pada sistem.
 
    **2.5	Batasan - Batasan**
+   
+   - Aplikasi mobile hannya dapat dijalankan pada platform android Kitkat (API 19 Keatas).
+   - Aplikasi WEB dapat dijalankan dengan optimal pada web browser chrome dengan OS Windows dan Linux.
+   - Tidak semua fungsi bisa terlaksana karena keterbatasan waktu.
 
    **2.6	Asumsi - Asumsi Keterkaitan**
+   
 
 ##   **BAB III Requirement Specification**
 
