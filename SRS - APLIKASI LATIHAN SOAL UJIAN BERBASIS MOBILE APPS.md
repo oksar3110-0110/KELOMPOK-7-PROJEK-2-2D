@@ -67,12 +67,16 @@ Version 1.0
    Aplikasi Latihan Ujian Berbasis Mobile Apps bertujuan untuk sekolah-sekolah yang masih belum memiliki fasilitas sekolah yang memadai terutama di bagian fasilitas komputer dan alat-alat electroniklainya, dan juga terutama untuk siswa/siswi yang masih belum memiliki komputer/laptop di rumahnya maka dari itu aplikasi ujian berbasisi mobile ini siswa/siswi bisa latihan ujian nasional dimana saja dan kapan saja karna latihan ujian nasional ini berbasis android yang bisa dibawa kemana saja oleh siswa/siswi.
 
    **2.1.1	Antarmuka Sistem**
+   
+   <img src="https://oksareinaldi.files.wordpress.com/2018/03/selection_051.png">
+   
+   Dari diagram diatas dijabarkan bahwa siswa hanya bisa mengakses view buku, view ujian, view latihan, view statistik, dan chatting. Guru dan admin dalam sistem ini bisa mengakses keseluruhan dari menu yang ada seperti pada diagram kecuali chatting.
 
    **2.1.2	Antarmuka Pengguna (MOCKUP)**
 
   ​	**A. Mockup Android.**
 
-  | <img src="https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315" width="90"> </div>| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315" width="90">|
+  | <img src="https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315" width="90">|
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
   |<img src="https://oksareinaldi.files.wordpress.com/2018/02/a03.png?w=156&h=315" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a05.png?w=209&h=426" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a06.png?w=208&h=426" width="90">|
   |<img src="https://oksareinaldi.files.wordpress.com/2018/02/a17.png?w=158&h=313" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a18.png?w=210&h=420" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a07.png?w=211&h=426" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a09.png?w=155&h=316" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a10.png?w=157&h=316" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a24.png?w=155&h=312" width="90"> |
