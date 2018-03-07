@@ -85,8 +85,27 @@ Version 1.0
 
 
  ** B. Mockup Website.**
+ 
  <img src="https://oksareinaldi.files.wordpress.com/2018/03/login1.png?w=315&h=165">
-
+ <img src"https://oksareinaldi.files.wordpress.com/2018/03/register1.png?w=317&h=165">
+ <img src"https://oksareinaldi.files.wordpress.com/2018/03/forgot2.png?w=640">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
+ <img src"">
    **2.1.3	Antarmuka Perangkat Keras**
 
    <img src="https://oksareinaldi.files.wordpress.com/2018/03/basic-use-case-diagram-page-2-e1519891968750.png?w=640">
