@@ -511,7 +511,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 
 
 | **DATA ITEM** | **Type** | **Deskripsi**|
-  | ------ | ------------------------------------------------------------ |
+  | ------ | ----------|-------------------------------------------------- |
   | id_guru  | int | sebagai identitas guru |
   | id_wali_kelas      | int | sebagai identitas kelas |
   | id_mata_pelajaran      | int | sebagai identitas pelajaran |
@@ -528,7 +528,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 
 
 | **DATA ITEM** | **Type** | **Deskripsi**|
-  | ------ | ------------------------------------------------------------ |
+  | ------ | -------------|----------------------------------------------- |
   | id_siswa_siswi | int | sebagai penempatan id siswa/siswi|
   | id_jurusan | int | sebagai penempatan id jurusan|
   | nama_siswa_siswi | varchar | sebagai penempatan nama siswa/siswi|
@@ -553,7 +553,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 
 
 | **DATA ITEM** | **Type** | **Deskripsi**|
-  | ------ | ------------------------------------------------------------ |
+  | ------ | ---------------|--------------------------------------------- |
   | id_buku| int| sebagai penempatan id buku|
   | id_kategori| int| sebagai penempatan id kategori|
   | id_penerbit| int| sebagai penempatansebagai penempatan id penerbit|
@@ -568,7 +568,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 
 
 | **DATA ITEM** | **Type** | **Deskripsi**|
-  | ------ | ------------------------------------------------------------ |
+  | ------ | --------------|---------------------------------------------- |
   | id_latihan_ujian| int| sebagai penempatan id soal latihhan ujian|
   | nama_ujian| varchar| sebagai penempatan nama ujian|
   | kategori| varchar| sebagai penempatan kategori ujian|
@@ -583,7 +583,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 
 
 | **DATA ITEM** | **Type** | **Deskripsi**|
-  | ------ | ------------------------------------------------------------ |
+  | ------ | --------------|---------------------------------------------- |
   | id_ujian| int| sebagai penempatan id soal ujian|
   | nama_ujian| varchar| sebagai penempatan nama ujian|
   | kategori| varchar| sebagai penempatan kategori ujian|
