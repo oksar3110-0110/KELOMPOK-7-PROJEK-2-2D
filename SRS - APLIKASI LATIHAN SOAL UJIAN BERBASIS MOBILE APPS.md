@@ -292,6 +292,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 3.2 Functional Requirements
 
 3.2.1 Login Siswa
+
 |Use Case Name    |Login                                 |
 |-----------------|--------------------------------------|
 |X Ref            |Section 2.2.1, Login Siswa            |
@@ -350,6 +351,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Alternative Paths|Tidak ada                                         |
 
 3.2.5 Registrasi Guru
+
 |Use Case Name    |Daftar                                            |
 |-----------------|--------------------------------------------------|
 |X Ref            |Section 2.2.5, Daftar Guru                        |
@@ -380,6 +382,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Alternative Paths|Tidak ada                                |
 
 3.2.7 View Buku Use Case
+
 |Use Case Name    |View Buku                     |
 |-----------------|------------------------------|
 |X Ref            |Section 2.2.7, Daftar Guru    |
@@ -393,6 +396,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Alternative Paths|Tidak ada                     |
 
 3.2.8 Manage Buku
+
 |Use Case Name    |Manage Buku                                    |
 |-----------------|-----------------------------------------------|
 |X Ref            |Section 2.2.8, Daftar Guru                     |
@@ -439,6 +443,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Alternative Paths|Tidak ada                                   |
 
 3.2.11 View Ujian
+
 |Use Case Name    |View Ujian                                 |
 |-----------------|-------------------------------------------|
 |X Ref            |Section 2.2.11, Daftar Guru                |
@@ -588,7 +593,3 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
   | cover| varchar| sebagai penempatan cover ujian|
   | jawaban_soal| varchar| sebagai penempatan jawaban dari soal latihan jian|
   | kelas| varchar| sebagai penempatan soal ujian untuk kelas berapa|
-
-   ​
-
-   ​
