@@ -284,7 +284,96 @@ Version 1.0
    
 
 ##   **BAB III Requirement Specification**
+**3.3.1 Logika Struktur Data**
 
+<img src="https://oksareinaldi.files.wordpress.com/2018/03/erd.png?w=640">
+
+- Tabel Guru
+
+
+| **DATA ITEM** | **Type** | **Deskripsi**
+  | ------ | ------------------------------------------------------------ |
+  | id_guru  | int | sebagai identitas guru |
+  | id_wali_kelas      | int | sebagai identitas kelas |
+  | id_mata_pelajaran      | int | sebagai identitas pelajaran |
+  | nama_kelas      | varchar | sebagai penempatan kelas |
+  | nama      | varchar | sebagai penempatan nama guru |
+  | password      | varchar | sebagai penempatan password |
+  | foto      | varchar | sebagai penempatan foto |
+  | wali_kelas     | varchar | sebagai penempatan nama wali kelas |
+  | no_hp     | varchar | sebagai penempatan nomer hp |
+  | alamat      | varchar | sebagai penempatan alamat |
+  | email     | varchar | sebagai penempatan email |
+  
+- Tabel Siswa/Siswi
+
+
+| **DATA ITEM** | **Type** | **Deskripsi**
+  | ------ | ------------------------------------------------------------ |
+  | id_siswa_siswi | int | sebagai penempatan id siswa/siswi|
+  | id_jurusan | int | sebagai penempatan id jurusan|
+  | nama_siswa_siswi | varchar | sebagai penempatan nama siswa/siswi|
+  | password | varchar | sebagai penempatan password|
+  | nisn | int | sebagai penempatan nomer id siswa/siswi|
+  | kelas | varchar | sebagai penempatan kelas siswa/siswi|
+  | jurusan | varchar | sebagai penempatan jurusan siswa/siswi|
+  | wali_kelas | varchar | sebagai penempatan wali kelas siswa/siswi|
+  | alamat | varchar | sebagai penempatan alamat siswa/siswi|
+  | email | varchar | sebagai penempatan email siswa/siswi|
+  | nama_ayah | varchar | sebagai penempatan nama ayah siswa/siwi|
+  | nama_ibu | varchar | sebagai penempatan nama ibu siswi/siswi|
+  | nama_wali | varchar | sebagai penempatan nama wali dari siswa/siswi|
+  | no_hp_ortu | int | sebagai penempatan nomer telepon orang tua siswa/siswi|
+  | nama_wali_kelas | varchar | sebagai penempatan nama wali kelas|
+  | no_hp_wali_kelas | int| sebagai penempatan nomer wali kelas|
+  | alamat_wali_kelas| varchar | sebagai penempatan alamat siswa/siswi|
+  | email_wali_kelas | varchar | sebagai penempatan email siswa/siswi|
+  | cover| varchar | sebagai penempatan file foto siswa/siswi|
+  
+- Tabel Buku
+
+
+| **DATA ITEM** | **Type** | **Deskripsi**
+  | ------ | ------------------------------------------------------------ |
+  | id_buku| int| sebagai penempatan id buku|
+  | id_kategori| int| sebagai penempatan id kategori|
+  | id_penerbit| int| sebagai penempatansebagai penempatan id penerbit|
+  | id_penulis| int| sebagai penempatan penulis|
+  | judul_buku| varchar| sebagai penempatan memasukan judul buku|
+  | kategori| varchar| sebagai penempatan memasukan kategori|
+  | penerbit| varchar| sebagai penempatan memasukan penerbit|
+  | penulis| varchar| sebagai penempatan memasukan penulis|
+  | cover| varchar| sebagai penempatan memasukan cover buku|
+  
+- Tabel Latihan Soal Ujian
+
+
+| **DATA ITEM** | **Type** | **Deskripsi**
+  | ------ | ------------------------------------------------------------ |
+  | id_latihan_ujian| int| sebagai penempatan id soal latihhan ujian|
+  | nama_ujian| varchar| sebagai penempatan nama ujian|
+  | kategori| varchar| sebagai penempatan kategori ujian|
+  | mata_pelajaran| varchar| sebagai penempatan nama mata pelajaran|
+  | file| varchar| sebagai penempatan memasuka file ujian|
+  | jurusan| varchar| sebagai penempatan soal jurusan|
+  | cover| varchar| sebagai penempatan cover ujian|
+  | jawaban_soal| varchar| sebagai penempatan jawaban dari soal latihan jian|
+  | kelas| varchar| sebagai penempatan soal ujian untuk kelas berapa|
+  
+- Tabel Soal Ujian
+
+
+| **DATA ITEM** | **Type** | **Deskripsi**
+  | ------ | ------------------------------------------------------------ |
+  | id_ujian| int| sebagai penempatan id soal ujian|
+  | nama_ujian| varchar| sebagai penempatan nama ujian|
+  | kategori| varchar| sebagai penempatan kategori ujian|
+  | mata_pelajaran| varchar| sebagai penempatan nama mata pelajaran|
+  | file| varchar| sebagai penempatan memasuka file ujian|
+  | jurusan| varchar| sebagai penempatan soal jurusan|
+  | cover| varchar| sebagai penempatan cover ujian|
+  | jawaban_soal| varchar| sebagai penempatan jawaban dari soal latihan jian|
+  | kelas| varchar| sebagai penempatan soal ujian untuk kelas berapa|
 
    ​
 
