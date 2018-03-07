@@ -1,4 +1,4 @@
-## **iSOFTWARE REQUIREMENTS SPECIFICATION**
+## **SOFTWARE REQUIREMENTS SPECIFICATION**
 
 Version 1.0
 
@@ -6,21 +6,21 @@ Version 1.0
 
 ![](https://oksareinaldi.files.wordpress.com/2018/02/polindra.png?w=421&h=421&crop=1)
 
-​					APLIKASI LATIHAN UJIAN BERBASIS MOBILE APPS
+​                                                 APLIKASI LATIHAN UJIAN BERBASIS MOBILE APPS
 
-​						Disusun Oleh :
+​                                                      Disusun Oleh :
 
-​							Bahrainsyah Oksareinaldi (1603092)
+​                                                           Bahrainsyah Oksareinaldi (1603092)
 
-​							Dodi Hodayat (1603095)
+​                                                           Dodi Hodayat (1603095)
 
-​							Muhroz Al Farizi (1603108)
+​                                                           Muhroz Al Farizi (1603108)
 
-​							Syahrul Romadoni (1603114)
+​                                                           Syahrul Romadoni (1603114)
 
-​								D3 Teknik Informatika
+​                                                                D3 Teknik Informatika
 
-​							  Politeknik Negeri Indramayu
+​                                                            ​Politeknik Negeri Indramayu
 
 #### SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
 
@@ -41,9 +41,10 @@ Version 1.0
    **1.3	Definisi, Akronim, Singkatan**
 - Mobile Apps : Aplikasi perangkat bergerak meliputi IOS, Android.
   Firebase	 : Database realtime dari google yang tidak berbasis DBMS.
-- Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
+   Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
 
    **1.4	Referensi**
+
 -    Software Requirements Specification, "Web Publishing System", April 15, 2004.
 
 -    IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements
@@ -62,7 +63,7 @@ Version 1.0
 
    **2.1.1	Antarmuka Sistem**
 
-   **2.1.2	Antarmuka Pengguna (MOC**
+   **2.1.2	Antarmuka Pengguna (MOCKUP)**
 
   | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315) | ![img](https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -84,9 +85,13 @@ Version 1.0
 
    **2.1.5	Antarmuka Komunikasi**
 
-   Antarmuka komunikasi Aplikasi Latihan Ujian Berbasis Mobile Apps ini admin dan user harus tersambung internet terutama untuk admin untuk mengupload materi pelajaran dan menginputakan data seperti menabah materi-materi pelajaran dan mengupload ujian dan latihan ujian yang akan di jalankan oleh siswa/siswi, Dan user tidak harus online si user hanya bisa ujian, latihan ujian dan mendownload meteri-materi pelajaran yang di upload oleh si guru.
+   Antarmuka komunikasi Aplikasi Latihan Ujian Berbasis Mobile Apps
+
+  ​     Admin dan user harus tersambung internet terutama untuk admin untuk mengupload materi pelajaran dan menginputakan data seperti menabah materi-materi pelajaran dan mengupload ujian dan latihan ujian yang akan di jalankan oleh siswa/siswi, Dan user tidak harus online si user hanya bisa ujian, latihan ujian dan mendownload meteri-materi pelajaran yang di upload oleh si guru.
 
    **2.1.6	Batasan Memory**
+
+  Skip
 
    **2.1.7	Operasi -Operasi**
 
@@ -167,8 +172,6 @@ Version 1.0
   | 71   |                                   | Input Nomer HP Orangtua      | Berfungsi sebagai merubah nomer orang tua ayah/ibu ke databases. |
 
    **2.2	Spesifikasi Kebutuhan Fungsional**
-
-  ​
 
    **2.3	Spesifikasi Kebutuhan Non-Fungsional**
 
