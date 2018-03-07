@@ -44,7 +44,7 @@
 
 Model proses yang diterapkan pada proses pembuatan aplikasi ini ialah model V-Model karena dianggap cukup mudah dalam setiap langkahnya. Model V-Model sendiri memudahkan perancang ketika terjadi suatu perubahan yang memungkinkan kembali ke proses sebelumnya. Berikut Uraiannya :
 
-![](ALUR.png)
+<img src="https://oksareinaldi.files.wordpress.com/2018/03/alur.png?w=636&h=291">
 
 	a)	Requirement 			: Menentukan permintaan sistem yang akan dibuat 								  berdasarkan batasan masalah yang ada.
 
@@ -66,7 +66,8 @@ Model proses yang diterapkan pada proses pembuatan aplikasi ini ialah model V-Mo
 
 **2.2 Struktur Organisasi**
 
-![](Struktur Organisasi.png)
+<img src="https://oksareinaldi.files.wordpress.com/2018/03/struktur-organisasi.png?w=417&h=215">
+
 Gambar 2.1 Struktur Organisasi
 
 **2.3 Batasan dan Antarmuka Organisasi**
@@ -165,5 +166,6 @@ II. BIAYA LANGSUNG NON PERSONIL
 
  **5.3 Jadwal.**
  
-![](Jadwal.png)
+ <img src="https://oksareinaldi.files.wordpress.com/2018/03/jadwal.png?w=636&h=185">
+
  
