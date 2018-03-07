@@ -43,8 +43,9 @@ Version 1.0
 
    **1.3	Definisi, Akronim, Singkatan**
 - Mobile Apps : Aplikasi perangkat bergerak meliputi IOS, Android.
-  Firebase	 : Database realtime dari google yang tidak berbasis DBMS.
-   Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
+- Firebase	 : Database realtime dari google yang tidak berbasis DBMS.
+- Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
+
 
    **1.4	Referensi**
 
@@ -52,6 +53,7 @@ Version 1.0
 
 -    IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements
   Specifications. IEEE Computer Society, 1998.
+
 
    **1.5	Overview**
    Didalam dokumen ini memuat 3 bab yang masing - masing bab menjelaskan fungsi dan desain darri aplikasi latihan ujian berbasis mobile apps. Pada bab 1 menjelaskan tentang tujuan, lingkup, definisi singkatan, referensi pembuatan dokumen ini dan gambaran tentang dokumen ini.
@@ -68,7 +70,7 @@ Version 1.0
 
    **2.1.2	Antarmuka Pengguna (MOCKUP)**
 
-  ​	A. Mockup Android.
+  ​	**A. Mockup Android.**
 
   | <img src="https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315" width="90"> </div>| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315" width="90">|
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -76,6 +78,7 @@ Version 1.0
   |<img src="https://oksareinaldi.files.wordpress.com/2018/02/a17.png?w=158&h=313" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a18.png?w=210&h=420" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a07.png?w=211&h=426" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a09.png?w=155&h=316" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a10.png?w=157&h=316" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a24.png?w=155&h=312" width="90"> |
   |<img src="https://oksareinaldi.files.wordpress.com/2018/02/a25.png?w=211&h=421" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a11.png?w=156&h=316" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a12.png?w=315&h=631" width="90">|
   | <img src="https://oksareinaldi.files.wordpress.com/2018/02/a14.png?w=156&h=313" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a15.png?w=156&h=313" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a16.png?w=154&h=313" width="90">|
+
 
  ** B. Mockup Website.**
 
