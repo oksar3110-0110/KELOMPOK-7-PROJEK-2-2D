@@ -1,11 +1,12 @@
 <div align="center">
-**SOFTWARE REQUIREMENTS SPECIFICATION**
+
+## **SOFTWARE REQUIREMENTS SPECIFICATION**
 
 Version 1.0
 
 22 Februari 2018
 
-<div style="width:250px;">![](https://oksareinaldi.files.wordpress.com/2018/02/polindra.png?w=421&h=421&crop=1)</div>
+<img src="https://oksareinaldi.files.wordpress.com/2018/02/polindra.png?w=421&h=421&crop=1" width="250" height="250">
 
 ​                                                 APLIKASI LATIHAN UJIAN BERBASIS MOBILE APPS
 
