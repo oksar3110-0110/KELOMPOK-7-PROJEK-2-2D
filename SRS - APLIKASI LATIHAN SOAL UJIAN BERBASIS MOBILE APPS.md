@@ -77,7 +77,7 @@ Version 1.0
   |<div style="width:150px;"> ![img](https://oksareinaldi.files.wordpress.com/2018/02/a25.png?w=211&h=421)</div> | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a11.png?w=156&h=316) </div>| <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a12.png?w=315&h=631)</div> |
   | <div style="width:150px;">![img](https://oksareinaldi.files.wordpress.com/2018/02/a14.png?w=156&h=313) </div>|<div style="width:150px;"> ![img](https://oksareinaldi.files.wordpress.com/2018/02/a15.png?w=156&h=313) </div>|<div style="width:150px;"> ![img](https://oksareinaldi.files.wordpress.com/2018/02/a16.png?w=154&h=313)</div> |
 
-  ​	B. Mockup Website.
+ ** B. Mockup Website.**
 
    **2.1.3	Antarmuka Perangkat Keras**
 
@@ -95,11 +95,8 @@ Version 1.0
 
   ​     Admin dan user harus tersambung internet terutama untuk admin untuk mengupload materi pelajaran dan menginputakan data seperti menabah materi-materi pelajaran dan mengupload ujian dan latihan ujian yang akan di jalankan oleh siswa/siswi, Dan user tidak harus online si user hanya bisa ujian, latihan ujian dan mendownload meteri-materi pelajaran yang di upload oleh si guru.
 
-   **2.1.6	Batasan Memory**
 
-  Skip
-
-   **2.1.7	Operasi -Operasi**
+   **2.1.6	Operasi -Operasi**
 
    ​	
 
