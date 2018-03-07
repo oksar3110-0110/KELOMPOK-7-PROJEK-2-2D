@@ -177,6 +177,8 @@ Version 1.0
 
    **2.2	Spesifikasi Kebutuhan Fungsional**
 
+  ![img](https://oksareinaldi.files.wordpress.com/2018/03/basic-use-case-diagram-page-1.png?w=640)
+
    **2.3	Spesifikasi Kebutuhan Non-Fungsional**
 
   Aplikasi Latihan Ujian Berbasis Mobile Apps (ALTIS) menggunakan database yang di hosting
