@@ -1,3 +1,64 @@
+## **2.Deskripsi Umum**
+
+**2.1 Prespektif Produk**
+
+Produk dari SDD ini sebuah aplikasi yang berbasis Website dan Mobile Apps, yang di jalankan dan berfungsi sebagai APLIKASI LATIHAN SOAL UJIAN BERBASIS MOBILE APPS, seperti yang telah dijelaskan pada pendahuluan. Produk ini akan bisa di akses dari aplikasi yang sudah di buat di Smartphone dan juga bisa dijalankan di browser WEB sebagai Admin, dan Aplikasi ini bisa berjalan di Smartphone android.
+
+**2.2 Manfaat Produk**
+
+Manfaat dalam menggunkan sistem atau aplikasi 'APLIKASI LATIHAN SOAL UJIAN BERBASIS MOBILE APPS' ini adalah:
+
+- Siswa/siswi bisa dapat belajar dengan mudah memalui Smartphone.
+- Siswa/siswi bisa ujian/latihan ujian dengan budah dan tidak rumit.
+- Siswa/siswi bisa mendapatkan module atau materi dari guru dengan mudah.
+- Siswa/siswi bisa mendapatkan buku pelajaran dengan mudah dengan memalui smartphone.
+- Siswa/siswi bisa belajar ujian bersama dengan siswa/siswi lain.
+- Siswa/siswi bisa memantau nilai dari smartphone.
+- siswa/siswi bisa bersaing dengan siswa/siswi lain.
+- Siswa/siswi bisa dengan buda membuka aplikasi ini dimana saja.
+- Guru bisa dengan mudah memberi module/materi pelajaran ke siswa/siswi.
+- Guru bisa dengan mudah membuat soal ujian pelajaran.
+- Guru bisa dengan mudah melihat nilai siswa/siswi di manasaja.
+- Guru bisa dengan mudah bisa mengupload buku pelajaran.
+- Gueu bisa dengan mudah bisa melakukan kegiatan dimana saja. 
+
+**2.3 Karakteristik User dan Stakeholder**
+
+User yang terlibat dalam APLIKASI LATIHAN SOAL UJIAN BERBASIS MOBILE + 
+APPS ini sebagai berikut :
+
+- Siswa/Siswi.
+- Guru.
+- Admin.
+
+Stackholder yang terkain dengan PLIKASI LATIHAN SOAL UJIAN BERBASIS 
+MOBILE + APPS ini sebagai berikut :
+- Sebagai pengguna aplikasi.
+- Sebagai pengelolah aplikasi dan memberi materi/module.
+- Sebagai pengelolah aplikasi dan pembaruan aplikasi.
+
+**2.4 Batasan-batasan**
+
+- Aplikasi ini hanya sebagai Simulasi Ujian saja.
+- Membangun aplikasi latihan ujian berbasis mobile apps dengan fitur 
+  live chat.
+- Soal - soal yang disediakan merupakan soal latihan untuk SMK jurusan
+  Multimedia.
+- Hanya tersedia latihan soal, kunci jawaban, sekilas materi dan live 
+  chat.
+
+**2.5 Asumsi**
+
+- Siswa/siswi atau Guru dalam mengunuakan APLIKASI LATIHAN SOAL UJIAN 
+  BERBASIS MOBILE + APPS ini bisa paham, dan dapat mengoprasikan 
+  simulasi ujian atau mengelolah website/ aplikasi tersebut.
+- Setiap Siswa/siswi atau guru mempunyai ID login dan password sebagai 
+  Identitas dari aplikasi/website tersebut.
+- Guru dianjurkan untuk koneksi internet untuk mengupload 
+  materi/module pelajaran yang mau dimasukan.
+- Siswa/Siswi dianjurkan untuk koneksi internet untuk mendownload 
+  meteri/module yang di upload oleh guru.
+
 ## **3.Software Design**
 
 **3.1 	Kebutuhan Fungsional**
@@ -20,7 +81,7 @@ Kebutuhan fungsional (Fungsional Requirements) ini adalah kebutuhan utama yang d
 - Terintegrasi dengan E-mail untuk keperluan Chatting (Konfirmasi email diperlukan pada fitur chat).
 - Khusus user guru dapat dilakukan oleh admin melalui fitur tambah guru.
 
-**3.1.2	Spesifikasi yang diharapkan pada Login User**
+	*3.1.2	Spesifikasi yang diharapkan pada Login User**
 
 - Dapat membedakan antara user yang sudah terdaftar dan belum.
 - Proses login dapat merespon dengan cepat.
@@ -111,8 +172,8 @@ Antar muka untuk aplikasi ALTIS dibagi dua yaitu :
 Sistem dapat bekerja dengan baik pada lingkungan operasi Sbb :
 
 - OS	: Windows/Linux/Android Kitkat 4.0.
-- DBMS	: MySQL dan Firebase.
-- Pemrograman	: Java, PHP, HTML.
+	 DBMS	: MySQL dan Firebase.
+	 Pemrograman	: Java, PHP, HTML.
 
 **3.5 Batasan Perancangan**
 
