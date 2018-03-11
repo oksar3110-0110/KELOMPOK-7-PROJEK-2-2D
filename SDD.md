@@ -264,16 +264,12 @@ Pada DFD level 1 ini , proses-proses yang didekomposisi dari DFD level 0 yaitu:
 
 9. Proses View Materi
 
-0. Proses Manajemen Siswa
+10. Proses Manajemen Siswa
 
-1. Proses Manajemen Guru 
+11. Proses Manajemen Guru 
 
 Yang masing-masing entitas dan prosesnya dapat digambarkan sebagai berikut:
 
-- Entitas Registrasi User :
-
-- Entitas Login User :
-
-- Entitas Manajemen Soal :
+<img src="https://oksareinaldi.files.wordpress.com/2018/03/blank-diagram-lvl-1.png?w=640" width="600">
 
 
