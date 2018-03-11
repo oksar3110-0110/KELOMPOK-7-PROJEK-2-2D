@@ -1,3 +1,49 @@
+<div align="center">
+
+## **SOFTWARE DESIGN DESCRIPTIONS**
+
+Version 1.0
+
+22 Februari 2018
+
+<img src="https://oksareinaldi.files.wordpress.com/2018/02/polindra.png?w=421&h=421&crop=1" width="250" height="250">
+
+**APLIKASI LATIHAN UJIAN BERBASIS MOBILE APPS**
+
+​                                                      Disusun Oleh :
+
+​                                                           Bahrainsyah Oksareinaldi (1603092)
+
+​                                                           Dodi Hodayat (1603095)
+
+​                                                           Muhroz Al Farizi (1603108)
+
+​                                                           Syahrul Romadoni (1603114)
+
+​                                                               **D3 Teknik Informatika**
+
+​                                                            ​**Politeknik Negeri Indramayu**
+</div>
+
+## **BAB I Pendahuluan**
+
+ Pada bagian ini memberikan deskripsi dan gambaran mengenai apapun yang terdapat pada dokumen SRS. Juga tujuan dari pembuatan dari dokumen ini di gambarkan dan di urutkan juga didefinisikan.
+ 
+ **1.1	Lingkup**
+
+   "Aplikasi Latihan Ujian Berbasis Mobile Apps" merupakan sebuah aplikasi mobile yang dibuat bekerja sama dengan mitra yaitu SMK RISTEK MULTIMEDIA Indramayu. Pada aplikasi ini disediakan materi, latihan soal dan soal - soal yang diharapkan dapat meningkatkan mutu dari siswa - siswa dalam kompetensinya.
+
+   Batasan dari aplikasi ini ialah pada soal - soal dan materi, hanya berkaitan dengan bidang multimedia dan beberapa materi pelajaran wajib. Pada aplikasi inipun disediakan juga fitur live chat antar sesama siswa. Juga disediakan fitur perangkingan berbasis grafik.
+   
+  **1.2	Tujuan**
+
+   Tujuan dari pembuatan dokumen ini adalah untuk memberikan detail dari System Requirement dari "Aplikasi Latihan Ujian Nasional Berbasis Mobile Apps". Pada dokumen ini mengilustrasikan tujuan dan pernyataan lengkap dari pembuatan sistem. Dokumen ini juga menjelaskan spesifikasi system, interface dan hubungan dengan aplikasi lainnya.
+   
+  **1.3	Definisi, Akronim, Singkatan**
+- Mobile Apps : Aplikasi perangkat bergerak meliputi IOS, Android.
+- Firebase	 : Database realtime dari google yang tidak berbasis DBMS.
+- Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
+
 ## **2.Deskripsi Umum**
 
 **2.1 Prespektif Produk**
