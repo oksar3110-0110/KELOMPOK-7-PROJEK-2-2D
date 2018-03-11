@@ -66,7 +66,7 @@ Manfaat dalam menggunkan sistem atau aplikasi 'APLIKASI LATIHAN SOAL UJIAN BERBA
 - Guru bisa dengan mudah membuat soal ujian pelajaran.
 - Guru bisa dengan mudah melihat nilai siswa/siswi di manasaja.
 - Guru bisa dengan mudah bisa mengupload buku pelajaran.
-- Gueu bisa dengan mudah bisa melakukan kegiatan dimana saja. 
+- Guru bisa dengan mudah bisa melakukan kegiatan dimana saja. 
 
 **2.3 Karakteristik User dan Stakeholder**
 
@@ -96,7 +96,7 @@ MOBILE + APPS ini sebagai berikut :
 **2.5 Asumsi**
 
 - Siswa/siswi atau Guru dalam mengunuakan APLIKASI LATIHAN SOAL UJIAN 
-  BERBASIS MOBILE + APPS ini bisa paham, dan dapat mengoprasikan 
+  BERBASIS MOBILE APPS ini bisa paham, dan dapat mengoprasikan 
   simulasi ujian atau mengelolah website/ aplikasi tersebut.
 - Setiap Siswa/siswi atau guru mempunyai ID login dan password sebagai 
   Identitas dari aplikasi/website tersebut.
@@ -112,13 +112,21 @@ MOBILE + APPS ini sebagai berikut :
 Kebutuhan fungsional (Fungsional Requirements) ini adalah kebutuhan utama yang diharapkan dari sistem ini, yang terkait langsung dengan sistem ini. Kebutuhan fungsional dari sistem ini adalah sebagai berikut :
 
 1.Registrasi User
+
 2.Login User
+
 3.Manajemen Soal
+
 4.Manajemen Materi
+
 5.Statistik
+
 6.Chatting Area
+
 7.View Soal latihan
+
 8.View Soal ujian
+
 9.View Materi
 
 **3.1.1	Spesifikasi yang diharapkan pada Registrasi User**
@@ -127,7 +135,7 @@ Kebutuhan fungsional (Fungsional Requirements) ini adalah kebutuhan utama yang d
 - Terintegrasi dengan E-mail untuk keperluan Chatting (Konfirmasi email diperlukan pada fitur chat).
 - Khusus user guru dapat dilakukan oleh admin melalui fitur tambah guru.
 
-	*3.1.2	Spesifikasi yang diharapkan pada Login User**
+**3.1.2	Spesifikasi yang diharapkan pada Login User**
 
 - Dapat membedakan antara user yang sudah terdaftar dan belum.
 - Proses login dapat merespon dengan cepat.
