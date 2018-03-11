@@ -71,3 +71,54 @@ Kebutuhan fungsional (Fungsional Requirements) ini adalah kebutuhan utama yang d
 - Tiap Thumbnail memiliki keterangan dibawahnya.
 - Tiap user siswa dapat mengakses View Materi untuk pembelajaran.
 
+**3.2 Kebutuhan Non Fungsional**
+
+Kebutuhan yang mendukung kelancaran sistem ini didefinisikan sebagai berikut :
+
+- Availabilty  : Ketersediaan sistem selama 24 Jam Non - Stop dengan kondisi jaringan internet yang stabil dan tidak bermasalah.
+
+- Reliability  : Sistem data reliabel berhubungan dengan materi ddan soal yang ada juga nilai yang tampil sesuai yang didapat.
+
+- Ergonomy     : Tampilan dibuat user friendly memperhatikan aspek interaksi manusia komputer.
+
+- Portability  : Halaman admin dapat diakses berbagai macam browser yang mendukung JS dan Bootstrap. Untuk aplikasi mobile dapat diakses pada platform android 4.0 Keatas.
+
+- Memory       : Minimum memory yang dipakai oleh sistem tidak sampai 100 MB.
+
+- Response Time : Waktu Response dari sistem tidak lebih dari 5 detik.
+
+- Security     : Login dan verifikasi password dan juga verifikasi email untuk chat.
+
+**3.3 Kebutuhan Antar Muka (Interfaces)**
+
+Antar muka untuk aplikasi ALTIS dibagi dua yaitu :
+
+1. Software Interface : Adalah kebutuhan perangkat lunak untuk mengimplementasikan sistem ALTIS : 
+
+-  MySQL dan PHP 7
+-  Framework CI
+-  Sublime Text
+-  Android Studio
+
+2. Hardware Interface : Adalah kebutuhan Hardware untuk mengimplementasikan sistem ALTIS :
+
+- PC / Laptop.
+- Modem untuk koneksi internet.
+- Adroid Smartphone.
+
+**3.4 Lingkungan Operasi**
+
+Sistem dapat bekerja dengan baik pada lingkungan operasi Sbb :
+
+- OS	: Windows/Linux/Android Kitkat 4.0.
+- DBMS	: MySQL dan Firebase.
+- Pemrograman	: Java, PHP, HTML.
+
+**3.5 Batasan Perancangan**
+
+Pada perancangan program ini adalah berbasis Mobile dan WEB. Bahasa Pemrograman yang dipakai adalah java dan PHP dengan Framework CI.
+
+**3.6 Model Proses**
+
+Untuk menggambarkan pemodelan proses digunakan DFD (Data Flow Diagram), yang
+untuk masing-masing level akan digambarkan sebagai berikut:
