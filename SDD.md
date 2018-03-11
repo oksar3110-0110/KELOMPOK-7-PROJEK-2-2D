@@ -122,3 +122,15 @@ Pada perancangan program ini adalah berbasis Mobile dan WEB. Bahasa Pemrograman 
 
 Untuk menggambarkan pemodelan proses digunakan DFD (Data Flow Diagram), yang
 untuk masing-masing level akan digambarkan sebagai berikut:
+
+**DFD Level 0 (Context Diagram)**
+
+Dalam perancangan DFD Level 0, entitas eksternal yang terlihat adalah :
+
+1. Siswa
+2. Guru
+3. Admin
+
+Yang dapat digambarkan sebagai berikut :
+
+<img src="https://oksareinaldi.files.wordpress.com/2018/03/picture11.png?w=640" align="center" width="500">
