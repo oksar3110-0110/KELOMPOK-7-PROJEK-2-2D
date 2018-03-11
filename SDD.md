@@ -4,7 +4,7 @@
 
 Version 1.0
 
-22 Februari 2018
+11 Maret 2018
 
 <img src="https://oksareinaldi.files.wordpress.com/2018/02/polindra.png?w=421&h=421&crop=1" width="250" height="250">
 
@@ -27,7 +27,7 @@ Version 1.0
 
 ## **BAB I Pendahuluan**
 
- Pada bagian ini memberikan deskripsi dan gambaran mengenai apapun yang terdapat pada dokumen SRS. Juga tujuan dari pembuatan dari dokumen ini di gambarkan dan di urutkan juga didefinisikan.
+ Pada bagian ini memberikan deskripsi dan gambaran mengenai apapun yang terdapat pada dokumen SDD. Juga tujuan dari pembuatan dari dokumen ini di gambarkan dan di urutkan juga didefinisikan.
  
  **1.1	Lingkup**
 
