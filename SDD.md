@@ -240,4 +240,40 @@ Dalam perancangan DFD Level 0, entitas eksternal yang terlihat adalah :
 
 Yang dapat digambarkan sebagai berikut :
 
-<img src="https://oksareinaldi.files.wordpress.com/2018/03/picture11.png?w=640" align="center" width="500">
+<img src="https://oksareinaldi.files.wordpress.com/2018/03/blank-diagram-1.jpeg?w=640" align="center" width="500">
+
+**DFD Level 1**
+
+Pada DFD level 1 ini , proses-proses yang didekomposisi dari DFD level 0 yaitu:
+
+1. Proses Registrasi User
+
+2. Proses Login User
+
+3. Proses Manajemen Soal
+
+4. Proses Manajemen Materi
+
+5. Proses Statistik
+
+6. Proses Chatting Area
+
+7. Proses View Soal latihan
+
+8. Proses View Soal ujian
+
+9. Proses View Materi
+
+0. Proses Manajemen Siswa
+
+1. Proses Manajemen Guru 
+
+Yang masing-masing entitas dan prosesnya dapat digambarkan sebagai berikut:
+
+- Entitas Registrasi User :
+
+- Entitas Login User :
+
+- Entitas Manajemen Soal :
+
+
