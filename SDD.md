@@ -28,21 +28,21 @@ Version 1.0
 ## **BAB I Pendahuluan**
 
  Pada bagian ini memberikan deskripsi dan gambaran mengenai apapun yang terdapat pada dokumen SDD. Juga tujuan dari pembuatan dari dokumen ini di gambarkan dan di urutkan juga didefinisikan.
- 
+
  **1.1	Lingkup**
 
    "Aplikasi Latihan Ujian Berbasis Mobile Apps" merupakan sebuah aplikasi mobile yang dibuat bekerja sama dengan mitra yaitu SMK RISTEK MULTIMEDIA Indramayu. Pada aplikasi ini disediakan materi, latihan soal dan soal - soal yang diharapkan dapat meningkatkan mutu dari siswa - siswa dalam kompetensinya.
 
    Batasan dari aplikasi ini ialah pada soal - soal dan materi, hanya berkaitan dengan bidang multimedia dan beberapa materi pelajaran wajib. Pada aplikasi inipun disediakan juga fitur live chat antar sesama siswa. Juga disediakan fitur perangkingan berbasis grafik.
-   
+
   **1.2	Tujuan**
 
    Tujuan dari pembuatan dokumen ini adalah untuk memberikan detail dari System Requirement dari "Aplikasi Latihan Ujian Nasional Berbasis Mobile Apps". Pada dokumen ini mengilustrasikan tujuan dan pernyataan lengkap dari pembuatan sistem. Dokumen ini juga menjelaskan spesifikasi system, interface dan hubungan dengan aplikasi lainnya.
-   
+
   **1.3	Definisi, Akronim, Singkatan**
 - Mobile Apps : Aplikasi perangkat bergerak meliputi IOS, Android.
-- Firebase	 : Database realtime dari google yang tidak berbasis DBMS.
-- Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
+	 Firebase	 : Database realtime dari google yang tidak berbasis DBMS.
+	 Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
 
 ## **2.Deskripsi Umum**
 
@@ -135,7 +135,7 @@ Kebutuhan fungsional (Fungsional Requirements) ini adalah kebutuhan utama yang d
 - Terintegrasi dengan E-mail untuk keperluan Chatting (Konfirmasi email diperlukan pada fitur chat).
 - Khusus user guru dapat dilakukan oleh admin melalui fitur tambah guru.
 
-**3.1.2	Spesifikasi yang diharapkan pada Login User**
+	*3.1.2	Spesifikasi yang diharapkan pada Login User**
 
 - Dapat membedakan antara user yang sudah terdaftar dan belum.
 - Proses login dapat merespon dengan cepat.
@@ -280,4 +280,100 @@ Yang masing-masing entitas dan prosesnya dapat digambarkan sebagai berikut:
 
 <img src="https://oksareinaldi.files.wordpress.com/2018/03/blank-diagram-lvl-1.png?w=640" width="600">
 
+**3.10 Interface Design Input Page Design**
 
+Pada Bagian ini akan menjelaskan bagaimana interface (antarmuka), beberapa 
+berupa Page (halaman website) dan apps (aplikasi) untuk interaksi Siswa/Siswi, 
+Guru dan Admin yang akan direncanakan produk ini, yang meliputi :
+
+- Desain untuk Frontpage Website (Halaman Login Guru dan Admin).
+- Desain untuk Frontpage Website (Halaman Utama Website Guru dan Admin).
+- Desain untuk Frontpage Website (Halaman Tambah Buku Guru dan Admin).
+- Desain untuk Frontpage Website (Halaman Tambah Siswa/siswi Guru dan Admin).
+- Desain untuk Frontpage Website (Halaman Tambah Guru Admin).
+- Desain untuk Frontpage Android (Halaman Login Siswa/Siswi).
+- Desain untuk Frontpage Android (Halaman Tampilan Utama Aplikasi).
+- Desain untuk Frontpage Android (Halaman Buku Pelajaran).
+- Desain untuk Frontpage Android (Halaman latihan Ujian).
+- Desain untuk Frontpage Android (Halaman Ujian).
+- Desain untuk Frontpage Android (Halaman Statistic).
+
+**Input Page Design**
+
+Desain page input ini merupakan semua page input yang akan digunakan pada 
+sistem 'APLIKASI LATIHAN SOAL UJIAN BERBASIS MOBILE APPS'. Page input ini 
+meliputi :
+
+- Page Tambah Buku (Guru dan Admin).
+- Page Tambah Siswa/siswi (Guru dan Admin).
+- Page Tambah Guru (Admin).
+- Page Tambah Soal Latihan Ujina (Guru dan Admin).
+- Page Tambah Soal Ujian (Guru dan Admin).
+
+**Page Halaman Login Website**
+
+Interface ini merupakan halaman Login buat Admin atau Guru yang sudah memiliki Email atau Password yang sudah di bikin oleh Admin.
+
+<img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/login1.png?w=315&h=165">
+
+
+
+**Page Halaman Utama**
+
+Interface ini merupakan halaman Utama dari website Admin atau Guru yang sudah berhasil login saat Page Login.
+
+<img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tampilan11.png?w=316&h=165">
+
+**Page Halaman Tambah Buku**
+
+Interface ini merupakan halaman Tambah Buku ini untuk membuat Buku Pelajaran yang tar akan di upload oleh Guru atau Admin.
+
+<img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-buku1.png?w=318&h=164">
+
+**Page Halaman Tambah  Siswa/Siswi**
+
+Interface ini merupakan halaman Tambah Siswa/Siswi ini buat Guru atau Admin yang mau menambah Siswa/Siswi yang mau ditambah.
+
+<img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-siswa-siswi1.png?w=316&h=165">
+
+**Page Halaman Tambah Guru**
+
+Interface ini merupakan halaman Tambah Guru yang bisa dilakukan Oleh Admin saja.
+
+<img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-guru1.png?w=316&h=165">
+
+**Page Halaman Login Android**
+
+Interface ini merupakan halaman Merupakan Halaman Utama Masuk ke Aplikasi tersebut hanya untuk Siswa/Siswi.
+
+<img src="https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=" width="190">
+
+**Page Halaman Utama Android**
+
+Interface ini merupakan halaman ini adalah tampilan awal saat masuk aplikasi.
+
+<img src="https://oksareinaldi.files.wordpress.com/2018/02/a05.png?w=209&h=426" width="190">
+
+**Page Halaman Tampilan Buku Pelajaran**
+
+Interface ini merupakan halaman ini Siswa/siswi bisa memilih buku mana yang mau dulu dibaca.
+
+<img src="https://oksareinaldi.files.wordpress.com/2018/02/a06.png?w=208&h=426" width="190">
+
+**Page Halaman Statistic**
+
+Interface ini merupakan halaman ini Siswa/siswi bisa melihat nilai meraka dan bisa melihat daftar list rangking antar kelas.
+
+<img src="https://oksareinaldi.files.wordpress.com/2018/02/a07.png?w=211&h=426" width="190">
+
+**Page Halaman Latihan Ujina**
+
+Interface ini merupakan halaman ini Siswa/siswi hanya latihan ujian yang akan di jalankan di ujian nanti.
+
+<img src="https://oksareinaldi.files.wordpress.com/2018/02/a12.png?w=315&h=631" width="190">
+
+**Page Halaman Ujian**
+
+Interface ini merupakan halaman ini Siswa/siswi saat ujian yang akan di jalankan nanti.
+
+<img src="https://oksareinaldi.files.wordpress.com/2018/02/a15.png?w=156&h=313" width="190">
