@@ -843,7 +843,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 
 **3.3 Logika Struktur Data**
 
-<img src="https://oksareinaldi.files.wordpress.com/2018/03/erd.png?w=640">
+![enter image description here](/ERD.png)
 
 - Tabel Guru
 
