@@ -31,7 +31,8 @@ Version 1.0
 
    **1.1 Gambaran Proyek**
 
-   Aplikasi latihan ujian nasional SMK berbasis mobile ini dikembangkan untuk memudahkan siswa SMK dalam belajar maupun untuk mengevaluasi mata pelajaran guna menghadapi ujian nasional mendatang. Didalam aplikasi ini tidak hanya disediakan latihan soal saja namun disertakan chat room untuk diskusi kelompok.
+   Aplikasi latihan ujian berbasis mobile apps (ALTIS) merupakan aplikasi yang ditujukan untuk pelajar SMK. Aplikasi ini dapat dijalankan melalui platform android dan disediakan dashboard admin berbasis web untuk pengelolaan administrasinya. Didalam aplikasi ini memuat soal - soal latihan ujian dan beberapa materi mata pelajaran yang berkaitan dengan multimedia. Pada proses pembuatan aplikasi ini kami bekerjasama dengan SMK RISTEK MULTIMEDIA Indramayu.
+Didalam aplikasi ini selain menyediakan fitur latihan soal dan materi, terdapat juga fitur penyajian nilai tiap - tiap siswa yang berupa grafik dan sistem perangkingan perolehan nilai.
 
    **1.2 Dokumen Dokumen dalam Proyek**
    
@@ -58,8 +59,6 @@ Version 1.0
    
 
    **1.5 Definisi dan Akronim \(Singkatan\)**
-
--    Firebase : Database Realtime dari google
  
 -    AVD : Android Virtual Device
  
@@ -133,11 +132,12 @@ Gambar 2.1 Struktur Organisasi
 
 **3.5 Perencanaan Staff**
 
-- Project Leader : Bahrainsyah Oksareinaldi
-- Web Developer  : Syahrul Romadoni
-- Database       : Muhroz Al Farizi
-- Android Developer : Dodi Hidayat & Bahrainsyah Oksareinaldi
-- UI Design  : Syahrul Romadoni & Bahrainsyah Oksareinaldi
+- Ketua Sekaligus manager	: Bahrainsyah Oksareinaldi
+- Aplikasi Mobile		: Bahrainsyah Oksareinaldi & Dodi Hidayat
+- Database			: Dodi Hidayat & Syahrul Romadoni
+- User Interface/desain	: Syahrul Romadoni & Bahrainsyah Oksareinaldi
+- Dokumen			: Muhroz Al Farizi & Dodi Hidayat
+
 
 **BAB 4 Proses Teknis** 
 
@@ -155,15 +155,16 @@ Gambar 2.1 Struktur Organisasi
 - Ahli Android Programming
 - Ahli Design UI
 - Ahli Database
+- Ahli Dokumen
 
 **BAB 5 UNSUR, KERJA, dan ANGGARAN** 
 
 **5.1 Paket Pekerjaan**
 
-- Bahrainsyah Oksareinaldi : Project Leader, Coding Fungsi System.
-- Dodi Hidayat				: Alur System, Database, Coding.
-- Muhroz Al Farizi			: Database.
-- Syahrul Romadoni			: UI Design, System.
+- Bahrainsyah Oksareinaldi : Project Leader, Mobile Developer, UI Design.
+- Dodi Hidayat				: Database, Mobile Developer .
+- Muhroz Al Farizi			: Dokumen.
+- Syahrul Romadoni			: UI Design, Web Developer.
 
 
 **5.2 RENCANA ANGGARAN BIAYA**
