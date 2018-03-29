@@ -104,10 +104,10 @@ Gambar 2.1 Struktur Organisasi
 
 **2.4 Lingkup Tanggung Jawab**
 
-- Bahrainsyah Oksareinaldi : Project Leader, Coding Fungsi System.
-- Dodi Hidayat				: Alur System, Database, Coding.
-- Muhroz Al Farizi			: Database.
-- Syahrul Romadoni			: UI Design, System.
+- Bahrainsyah Oksareinaldi : Project Leader, Mobile Developer, UI Design
+- Dodi Hidayat				  : Database, Mobile Developer, Dokumen
+- Muhroz Al Farizi			: Dokumen
+- Syahrul Romadoni			: UI Design, Database, Web Developer
 
 
 **BAB 3 Proses Menajerial** 
@@ -160,12 +160,10 @@ Gambar 2.1 Struktur Organisasi
 **BAB 5 UNSUR, KERJA, dan ANGGARAN** 
 
 **5.1 Paket Pekerjaan**
-
-- Bahrainsyah Oksareinaldi : Project Leader, Mobile Developer, UI Design.
-- Dodi Hidayat				: Database, Mobile Developer .
-- Muhroz Al Farizi			: Dokumen.
-- Syahrul Romadoni			: UI Design, Web Developer.
-
+- Bahrainsyah Oksareinaldi : Project Leader, Mobile Developer, UI Design
+- Dodi Hidayat				  : Database, Mobile Developer, Dokumen
+- Muhroz Al Farizi			: Dokumen
+- Syahrul Romadoni			: UI Design, Database, Web Developer
 
 **5.2 RENCANA ANGGARAN BIAYA**
 
