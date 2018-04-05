@@ -45,9 +45,11 @@ fitur live chat antar sesama siswa. Juga disediakan fitur perangkingan berbasis 
 
  **1.3 Definisi dan Istilah**
 
+Abah
+
 Mobile Apps   : Aplikasi perangkat bergerak meliputi IOS, Android.
 Firebase 	 : Database realtime dari google yang tidak berbasis DBMS.
- Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
+Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
 
  **1.4 Aturan Penamaan dan Penomoran**
 
