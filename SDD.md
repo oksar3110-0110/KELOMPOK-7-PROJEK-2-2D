@@ -27,86 +27,70 @@ Version 1.0
 
 ## **BAB I Pendahuluan**
 
- Pada bagian ini memberikan deskripsi dan gambaran mengenai apapun yang terdapat pada dokumen SDD. Juga tujuan dari pembuatan dari dokumen ini di gambarkan dan di urutkan juga didefinisikan.
+Pada bagian ini memberikan deskripsi dan gambaran mengenai apapun yang terdapat pada dokumen SDD. Juga tujuan dari pembuatan dari dokumen ini di gambarkan dan di urutkan juga 
+didefinisikan.
 
- **1.1	Lingkup**
+ **1.1	Tujuan Penulisan Dokumen**
 
-"Aplikasi Latihan Ujian Berbasis Mobile Apps" merupakan sebuah aplikasi mobile yang dibuat bekerja sama dengan mitra yaitu SMK RISTEK MULTIMEDIA Indramayu. Pada aplikasi ini disediakan materi, latihan soal dan soal - soal yang diharapkan dapat meningkatkan mutu dari siswa - siswa dalam kompetensinya.
+Tujuan dari pembuatan dokumen ini adalah untuk memberikan detail dari System Requirement dari "Aplikasi Latihan Ujian Nasional Berbasis Mobile Apps". Pada dokumen ini 
+mengilustrasikan tujuan dan pernyataan lengkap dari pembuatan sistem. Dokumen ini juga menjelaskan spesifikasi system, interface dan hubungan dengan aplikasi lainnya.
 
-Batasan dari aplikasi ini ialah pada soal - soal dan materi, hanya berkaitan dengan bidang multimedia dan beberapa materi pelajaran wajib. Pada aplikasi inipun disediakan juga fitur live chat antar sesama siswa. Juga disediakan fitur perangkingan berbasis grafik.
+  **1.2	Lingkup Masalah**
 
-  **1.2	Tujuan**
+"Aplikasi Latihan Ujian Berbasis Mobile Apps" merupakan sebuah aplikasi mobile yang dibuat bekerja sama dengan mitra yaitu SMK RISTEK MULTIMEDIA Indramayu. Pada aplikasi ini 
+disediakan materi, latihan soal dan soal - soal yang diharapkan dapat meningkatkan mutu dari siswa - siswa dalam kompetensinya.
 
-Tujuan dari pembuatan dokumen ini adalah untuk memberikan detail dari System Requirement dari "Aplikasi Latihan Ujian Nasional Berbasis Mobile Apps". Pada dokumen ini mengilustrasikan tujuan dan pernyataan lengkap dari pembuatan sistem. Dokumen ini juga menjelaskan spesifikasi system, interface dan hubungan dengan aplikasi lainnya.
+Batasan dari aplikasi ini ialah pada soal - soal dan materi, hanya berkaitan dengan bidang multimedia dan beberapa materi pelajaran wajib. Pada aplikasi inipun disediakan juga 
+fitur live chat antar sesama siswa. Juga disediakan fitur perangkingan berbasis grafik.
 
-  **1.3	Definisi, Akronim, Singkatan**
+ **1.3 Definisi dan Istilah**
 
-Mobile Apps : Aplikasi perangkat bergerak meliputi IOS, Android.
-Firebase	 : Database realtime dari google yang tidak berbasis DBMS.
+Mobile Apps   : Aplikasi perangkat bergerak meliputi IOS, Android.
+Firebase 	 : Database realtime dari google yang tidak berbasis DBMS.
  Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
 
-## **2.Deskripsi Umum**
+ **1.4 Aturan Penamaan dan Penomoran**
 
-**2.1 Prespektif Produk**
+ **1.5 Referensi**
 
-Produk dari SDD ini sebuah aplikasi yang berbasis Website dan Mobile Apps, yang di jalankan dan berfungsi sebagai APLIKASI LATIHAN SOAL UJIAN BERBASIS MOBILE APPS, seperti yang telah dijelaskan pada pendahuluan. Produk ini akan bisa di akses dari aplikasi yang sudah di buat di Smartphone dan juga bisa dijalankan di browser WEB sebagai Admin, dan Aplikasi ini bisa berjalan di Smartphone android.
+- IEEE Draft Standard for Software Design Descriptions,12 December 2005
+- Pressman, Roger S. 2001. Software engineering: a practitioner’s approach 5th ed. New York : McGraw-Hill Companies, Inc.
 
-**2.2 Manfaat Produk**
+ **1.6 Ikhtisar Dokumen**
 
-Manfaat dalam menggunkan sistem atau aplikasi 'APLIKASI LATIHAN SOAL UJIAN BERBASIS MOBILE APPS' ini adalah:
 
-- Siswa/siswi bisa dapat belajar dengan mudah memalui Smartphone.
-- Siswa/siswi bisa ujian/latihan ujian dengan budah dan tidak rumit.
-- Siswa/siswi bisa mendapatkan module atau materi dari guru dengan mudah.
-- Siswa/siswi bisa mendapatkan buku pelajaran dengan mudah dengan memalui smartphone.
-- Siswa/siswi bisa belajar ujian bersama dengan siswa/siswi lain.
-- Siswa/siswi bisa memantau nilai dari smartphone.
-- siswa/siswi bisa bersaing dengan siswa/siswi lain.
-- Siswa/siswi bisa dengan buda membuka aplikasi ini dimana saja.
-- Guru bisa dengan mudah memberi module/materi pelajaran ke siswa/siswi.
-- Guru bisa dengan mudah membuat soal ujian pelajaran.
-- Guru bisa dengan mudah melihat nilai siswa/siswi di manasaja.
-- Guru bisa dengan mudah bisa mengupload buku pelajaran.
-- Guru bisa dengan mudah bisa melakukan kegiatan dimana saja. 
 
-**2.3 Karakteristik User dan Stakeholder**
+## **BAB 2 Global**
 
-User yang terlibat dalam APLIKASI LATIHAN SOAL UJIAN BERBASIS MOBILE + 
-APPS ini sebagai berikut :
+**2.1 Rangcangan Lingkungan Implementasi**
 
-- Siswa/Siswi.
-- Guru.
-- Admin.
+- Windows 7
+- Windows 10
+- Xubuntu 16.04LT
+- Android Studio
+- Xampp
+- Sublem
+- HTML
+- PHP
+- Java
+- Javascript
+- SQL
 
-Stackholder yang terkain dengan PLIKASI LATIHAN SOAL UJIAN BERBASIS 
-MOBILE + APPS ini sebagai berikut :
-- Sebagai pengguna aplikasi.
-- Sebagai pengelolah aplikasi dan memberi materi/module.
-- Sebagai pengelolah aplikasi dan pembaruan aplikasi.
+**2.2 Deskripsi Data**
 
-**2.4 Batasan-batasan**
+**2.2.1 Definisi Domain Model**
 
-- Aplikasi ini hanya sebagai Simulasi Ujian saja.
-- Membangun aplikasi latihan ujian berbasis mobile apps dengan fitur 
-  live chat.
-- Soal - soal yang disediakan merupakan soal latihan untuk SMK jurusan
-  Multimedia.
-- Hanya tersedia latihan soal, kunci jawaban, sekilas materi dan live 
-  chat.
+**2.2.2 Conceptual Data Model**
 
-**2.5 Asumsi**
+**2.2.3 Physical Data Model**
 
-- Siswa/siswi atau Guru dalam mengunuakan APLIKASI LATIHAN SOAL UJIAN 
-  BERBASIS MOBILE APPS ini bisa paham, dan dapat mengoprasikan 
-  simulasi ujian atau mengelolah website/ aplikasi tersebut.
-- Setiap Siswa/siswi atau guru mempunyai ID login dan password sebagai 
-  Identitas dari aplikasi/website tersebut.
-- Guru dianjurkan untuk koneksi internet untuk mengupload 
-  materi/module pelajaran yang mau dimasukan.
-- Siswa/Siswi dianjurkan untuk koneksi internet untuk mendownload 
-  meteri/module yang di upload oleh guru.
+**2.2.4 Daftar Tabel Aplikasi**
 
-## **3.Software Design**
+**2.3 Deskripsi Model**
+
+
+
+## **BAB 3 Perancangan Rinci**
 
 **3.1 	Kebutuhan Fungsional**
 
