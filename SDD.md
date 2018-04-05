@@ -113,6 +113,8 @@ Firebase 	 : Database realtime dari google yang tidak berbasis DBMS.
 
 **3.2 Deskripsi Rinci Tabel**
 
+
+
 **3.3 Matriks Rinci Modul**
 
 **3.3.1 Modul**
