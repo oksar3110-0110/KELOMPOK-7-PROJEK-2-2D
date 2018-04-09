@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ## **SOFTWARE REQUIREMENTS SPECIFICATION**
@@ -33,7 +34,7 @@ Version 1.0
 
    **1.1	Tujuan**
 
-   Tujuan dari pembuatan dokumen ini adalah untuk memberikan detail dari System Requirement dari "Aplikasi Latihan Ujian Nasional Berbasis Mobile Apps". Pada dokumen ini mengilustrasikan tujuan dan pernyataan lengkap dari pembuatan sistem. Dokumen ini juga menjelaskan spesifikasi system, interface dan hubungan dengan aplikasi lainnya.
+   Tujuan dari pembuatan dokumen ini adalah untuk memberikan detail dari System Requirement dari "Aplikasi Latihan Ujian Nasional Berbasis Mobile Apps". Pada dokumen ini mengilustrasikan tujuan dan pernyataan lengkap dari pembuatan sistem. Dokumen ini juga menjelaskan spesifikasi sistem, interface dan hubungan dengan aplikasi lainnya.
 
    **1.2	Lingkup**
 
@@ -50,7 +51,7 @@ Version 1.0
 
    **1.4	Referensi**
 
--    Software Requirements Specification, "Web Publishing System", April 15, 2004.
+-    Software Requirements Specification, "Web Publishing Sistem", April 15, 2004.
 
 -    IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements
   	Specifications. IEEE Computer Society, 1998.
@@ -71,7 +72,7 @@ Version 1.0
    
    <img src="https://oksareinaldi.files.wordpress.com/2018/03/selection_051.png">
    
-   Dari diagram diatas dijabarkan bahwa siswa hanya bisa mengakses view buku, view ujian, view latihan, view statistik, dan chatting. Guru dan admin dalam sistem ini bisa mengakses keseluruhan dari menu yang ada seperti pada diagram kecuali chatting.
+   Dari diagram diatas dijabarkan bahwa siswa hanya bisa mengakses view buku, view ujian, view latihan, dan view statistik. Guru dan admin dalam sistem ini bisa mengakses keseluruhan dari menu yang ada seperti pada diagram.
 
    **2.1.2	Antarmuka Pengguna (MOCKUP)**
 
@@ -192,52 +193,43 @@ Version 1.0
   | 23   |                                   | Button Icon latihan          | Berfungsi sebagai buttom yang akan mengarahkan ke latihan ujian yang  sudah di pelajari dan akan muncul di soal Ujian. |
   | 24   |                                   | Button Icon Ujian            | Berfungsi sebagai buttom yang akan meagarahkan ke Simulasi Ujian asli  yang akan muncul di Ujian Online. |
   | 25   |                                   | Button Icon Static           | Berfungsi sebagai buttom yang akan mengarahkan ke static grafic latihan  ujian dan rangking yang sudah di kerjakan. |
-  | 26   |                                   | Button Icon Chatting         | Berfungsi sebagai chatting user, fitur ini bisa digunakan untuk chatting  sesama userlain yang dapat di diskusian bersama userlain dan bisa membuat  group user. |
-  | 27   |                                   | Button Icon Setting          | berfungsi sebagai mengatur pengaturan yang ada di aplikasi tersebut. |
-  | 28   |                                   | Button Icon About            | Berfungsi sebagai yang akan mengarahkan informasi aplikasi.  |
-  | 29   | Tampilan Buku                     | Button icon buku             | Berfungsi sebagai buku pelajaran yang bisa dibaca lewat hp selain buku  normal biasanya. |
-  | 30   | Tampilan Statistic                |                              | Berfungsi sebagai melihat grafic statistic ujian, latihan,rangking dll. |
-  | 31   | Tampilan About                    |                              | Berfungsi sebagai menampilkan informasi aplikasi seperi aplikasi servi  berapa, dibuat siapa dll. |
-  | 32   | Tampilan Chatting                 | Button Priver Cahtting       | Berfungsi sebagai private chattting (Chat) sesama user.      |
-  | 33   |                                   | Button Group Chatting        | Berfungsi sebagai group chatting (chat) ke semua user yang sudah  ditambahkan ke group chatting tersebut. |
-  | 34   | Tampilan Setting                  |                              | Berfungsi sebagai menampilkan settingan beberapa penganturan yang mau  akan dirubah oleh user. |
-  | 35   | Tampilan Latihan Ujian            | Timedown                     | Berfungsi sebagai menampilakan waktu yang akan diujian oleh latihan ujian  aplikasi. |
-  | 36   |                                   | Button Icon Play             | Berfungsi sebagai akan dimulainya latihan ujian.             |
-  | 37   |                                   | Button icon pause            | Berfungsi sebagai mulai laginya ujian yang sudah pause sebelunya pada  saata latihan ujian sedang berlangsung. |
-  | 38   | Tampilan saat mulai latihan ujian | Timedown                     | Berfungsu sebagai waktu mundur yang sedang berjalan.         |
-  | 39   |                                   | Button icon pause            | Berfungsi sebagai di pausenya latihan ujian untuk memberhentikan  sementara time down latihan ujian dan akan mengarahkan ke tampilan Mulai  latihan ujian. |
-  | 40   |                                   | Button icon panah kanan/kiri | Berfungsi sebagai menggati soal yand ada di latihan ujiantersebut. |
-  | 41   |                                   | Button icon Pilihan          | Berfungsi sebagai pilihan jawan user.                        |
-  | 42   | Tampilan selesai latihan ujian    | Button icon ya               | Berfungsi sebagai jika jawaban sudah fik buttom ini akan mengarahkan ke  Tampilan Awal Aplikasi. |
-  | 43   |                                   | Button icon tidak            | Berfungsi sebagai jika jawaban salah maka buttom ini akan mengarahkan ke  tampilan mulai ujian atau kembali mengerjakan latihan ujian. |
-  | 44   | Tampilan ujian                    | Timedown                     | Berfungsi sebagai jangka waktu pengerjaan ujian latihan.     |
-  | 45   |                                   | Buttom Icon Play             | berfungsi sebagai mulainya ujian.                            |
-  | 46   | Tampilan saat mulai Ujian         | Timedown                     | Berfungsu sebagai waktu mundur yang sedang berjalan.         |
-  | 47   |                                   | Button icon panah kanan/kiri | Berfungsi sebagai menggati soal yand ada di latihan ujiantersebut. |
-  | 48   |                                   | Button icon Pilihan          | Berfungsi sebagai pilihan jawan user.                        |
-  | 49   | Tampilan selesai ujian            | Button icon ya               | Berfungsi sebagai jika jawaban sudah fik buttom ini akan mengarahkan ke  Tampilan Awal Aplikasi. |
-  | 50   |                                   | Button icon tidak            | Berfungsi sebagai jika jawaban salah maka buttom ini akan mengarahkan ke  tampilan mulai ujian atau kembali mengerjakan latihan ujian. |
-  | 51   | Tampilan Pilih Latihan Ujian      | Button icon Pilihan Ujian    | Berfungsi sebagai memilih latihan soal ujian yang akan dipilih. |
-  | 52   | Tampilan Pilih Ujian              | Button icon Pilihan Ujian    | Berfungsi sebagai memilih soal ujian yang akan dipilih.      |
-  | 53   | Tampilan Lihat Buku               |                              | Berfungsi sebagai menampilkan buku pelajaran.                |
-  | 54   | Tampilan Tambah Chatting Private  | Button chatting              | Interaksi user dan user yang sedang dijalan.                 |
-  | 55   |                                   | Button Tambah Chatting       | Berfungsi sebagai menabha kontak baru dari private chatting. |
-  | 56   |                                   | Button kurang chatting       | Berfungsi sebagai mengurangi beberapa kontak  Chatting Private. |
-  | 57   | Tampilan Tambah Chatting group    | Button chatting Group        | Interaksi user dan user yang sedang dijalan.                 |
-  | 58   |                                   | Button Tambah Chatting Group | Berfungsi sebagai menabha kontak baru dari group chatting.   |
-  | 59   |                                   | Button kurang chatting       | Berfungsi sebagai mengurangi beberapa kontak group chatting. |
-  | 60   | Tampilan Profile                  | Button Back                  | Berfungsi sebagai kembali ke Tampilan Awal Aplikasi.         |
-  | 61   |                                   |                              | Menampikan informasi user.                                   |
-  | 62   |                                   | Button Setting               | Berfungsi sebagai mengedit Profile user.                     |
-  | 63   | Tampilan EditUser                 | Button Back                  | Berfungsi kembali ke Tampilan Profile.                       |
-  | 64   |                                   | Input Username               | Berfungsi sebagai merubah username.ke databases.             |
-  | 65   |                                   | Input Password               | Berfungsi sebagai merubah password ke databases.             |
-  | 66   |                                   | Input Email                  | Berfungsi sebagai merubah email ke databases.                |
-  | 67   |                                   | Input Nomer HP               | Berfungsi sebagai merubah nomer hp ke databases.             |
-  | 68   |                                   | Input Alamat                 | Berfungsi sebagai merubah alamat ke databases.               |
-  | 69   |                                   | Input Ayah                   | Berfungsi sebagai merubah nama orang tua ayah ke databases.  |
-  | 70   |                                   | Input Ibu                    | Berfungsi sebagai merubah nama orang tua ibu ke databases.   |
-  | 71   |                                   | Input Nomer HP Orangtua      | Berfungsi sebagai merubah nomer orang tua ayah/ibu ke databases. |
+  | 26   |                                   | Button Icon Setting          | berfungsi sebagai mengatur pengaturan yang ada di aplikasi tersebut. |
+  | 27   |                                   | Button Icon About            | Berfungsi sebagai yang akan mengarahkan informasi aplikasi.  |
+  | 28   | Tampilan Buku                     | Button icon buku             | Berfungsi sebagai buku pelajaran yang bisa dibaca lewat hp selain buku  normal biasanya. |
+  | 29   | Tampilan Statistic                |                              | Berfungsi sebagai melihat grafic statistic ujian, latihan,rangking dll. |
+  | 30   | Tampilan About                    |                              | Berfungsi sebagai menampilkan informasi aplikasi seperi aplikasi servi  berapa, dibuat siapa dll. |
+  | 31   | Tampilan Setting                  |                              | Berfungsi sebagai menampilkan settingan beberapa penganturan yang mau  akan dirubah oleh user. |
+  | 32   | Tampilan Latihan Ujian            | Timedown                     | Berfungsi sebagai menampilakan waktu yang akan diujian oleh latihan ujian  aplikasi. |
+  | 33   |                                   | Button Icon Play             | Berfungsi sebagai akan dimulainya latihan ujian.             |
+  | 34   |                                   | Button icon pause            | Berfungsi sebagai mulai laginya ujian yang sudah pause sebelunya pada  saata latihan ujian sedang berlangsung. |
+  | 35   | Tampilan saat mulai latihan ujian | Timedown                     | Berfungsu sebagai waktu mundur yang sedang berjalan.         |
+  | 36   |                                   | Button icon pause            | Berfungsi sebagai di pausenya latihan ujian untuk memberhentikan  sementara time down latihan ujian dan akan mengarahkan ke tampilan Mulai  latihan ujian. |
+  | 37   |                                   | Button icon panah kanan/kiri | Berfungsi sebagai menggati soal yand ada di latihan ujiantersebut. |
+  | 38   |                                   | Button icon Pilihan          | Berfungsi sebagai pilihan jawan user.                        |
+  | 39   | Tampilan selesai latihan ujian    | Button icon ya               | Berfungsi sebagai jika jawaban sudah fik buttom ini akan mengarahkan ke  Tampilan Awal Aplikasi. |
+  | 40   |                                   | Button icon tidak            | Berfungsi sebagai jika jawaban salah maka buttom ini akan mengarahkan ke  tampilan mulai ujian atau kembali mengerjakan latihan ujian. |
+  | 41   | Tampilan ujian                    | Timedown                     | Berfungsi sebagai jangka waktu pengerjaan ujian latihan.     |
+  | 42   |                                   | Buttom Icon Play             | berfungsi sebagai mulainya ujian.                            |
+  | 43   | Tampilan saat mulai Ujian         | Timedown                     | Berfungsu sebagai waktu mundur yang sedang berjalan.         |
+  | 44   |                                   | Button icon panah kanan/kiri | Berfungsi sebagai menggati soal yand ada di latihan ujiantersebut. |
+  | 45   |                                   | Button icon Pilihan          | Berfungsi sebagai pilihan jawan user.                        |
+  | 46   | Tampilan selesai ujian            | Button icon ya               | Berfungsi sebagai jika jawaban sudah fik buttom ini akan mengarahkan ke  Tampilan Awal Aplikasi. |
+  | 47   |                                   | Button icon tidak            | Berfungsi sebagai jika jawaban salah maka buttom ini akan mengarahkan ke  tampilan mulai ujian atau kembali mengerjakan latihan ujian. |
+  | 48   | Tampilan Pilih Latihan Ujian      | Button icon Pilihan Ujian    | Berfungsi sebagai memilih latihan soal ujian yang akan dipilih. |
+  | 49   | Tampilan Pilih Ujian              | Button icon Pilihan Ujian    | Berfungsi sebagai memilih soal ujian yang akan dipilih.      |
+  | 50   | Tampilan Lihat Buku               |                              | Berfungsi sebagai menampilkan buku pelajaran.                |
+  | 61   | Tampilan Profile                  | Button Back                  | Berfungsi sebagai kembali ke Tampilan Awal Aplikasi.         |
+  | 62   |                                   |                              | Menampikan informasi user.                                   |
+  | 63   |                                   | Button Setting               | Berfungsi sebagai mengedit Profile user.                     |
+  | 64   | Tampilan EditUser                 | Button Back                  | Berfungsi kembali ke Tampilan Profile.                       |
+  | 65   |                                   | Input Username               | Berfungsi sebagai merubah username.ke databases.             |
+  | 66   |                                   | Input Password               | Berfungsi sebagai merubah password ke databases.             |
+  | 67   |                                   | Input Email                  | Berfungsi sebagai merubah email ke databases.                |
+  | 68   |                                   | Input Nomer HP               | Berfungsi sebagai merubah nomer hp ke databases.             |
+  | 69   |                                   | Input Alamat                 | Berfungsi sebagai merubah alamat ke databases.               |
+  | 70   |                                   | Input Ayah                   | Berfungsi sebagai merubah nama orang tua ayah ke databases.  |
+  | 71   |                                   | Input Ibu                    | Berfungsi sebagai merubah nama orang tua ibu ke databases.   |
+  | 72   |                                   | Input Nomer HP Orangtua      | Berfungsi sebagai merubah nomer orang tua ayah/ibu ke databases. |
 
    **2.2	Spesifikasi Kebutuhan Fungsional**
 
@@ -251,11 +243,10 @@ Version 1.0
   | 2      | Aplikasi dapat menampikan halaman login Guru |
   | 3      | Aplikasi dapat menampikan halaman login Admin |
   | 4      |  Aplikasi dapat menampilkan grafik statistik nilai|
-  | 5      |  Aplikasi dapat menyediakan Live chat kepada user siswa  |
-  | 6      | Aplikasi dapat menampilkan soal dan latihan |
-  | 7      | Aplikasi dapat menampilkan materi |
-  | 8      |  Aplikasi terdapat fitur register siswa|
-  | 9      |  Aplikasi terdapat fitur tambah guru|
+  | 5      | Aplikasi dapat menampilkan soal dan latihan |
+  | 6      | Aplikasi dapat menampilkan materi |
+  | 7      |  Aplikasi terdapat fitur register siswa|
+  | 8      |  Aplikasi terdapat fitur tambah guru|
 
 2.2.1  Login Siswa
 
@@ -277,7 +268,7 @@ deskripsi  langkah-langkah:
 
 4\. User menekan tombol login
 
-5\. System menuju data user
+5\. Sistem menuju data user
 
 X Ref: Section 3.2.1, Login Siswa
 
@@ -301,7 +292,7 @@ deskripsi  langkah-langkah:
 
 4\. User menekan tombol login
 
-5\. System menuju data user
+5\. Sistem menuju data user
 
 X Ref: Section 3.2.2, Login Guru
 
@@ -325,7 +316,7 @@ deskripsi  langkah-langkah:
 
 4\. User menekan tombol login
 
-5\. System menuju data user
+5\. Sistem menuju data user
 
 X Ref: Section 3.2.3, Login Admin
 
@@ -349,9 +340,9 @@ deskripsi  langkah-langkah:
 
 4\. User menekan tombol daftar untuk menyimpan data
 
-5\. System menyimpan data ke dalam database user
+5\. Sistem menyimpan data ke dalam database user
 
-6\. System mengirimkan data verifikasi kepada guru
+6\. Sistem mengirimkan data verifikasi kepada guru
 
 7\. Guru menyetujui verifikasi
 
@@ -393,9 +384,9 @@ deskripsi  langkah-langkah:
 
 4\. User menekan tombol daftar untuk menyimpan data
 
-5\. System menyimpan data ke dalam database user
+5\. Sistem menyimpan data ke dalam database user
 
-6\. System mengirimkan data verifikasi kepada guru
+6\. Sistem mengirimkan data verifikasi kepada guru
 
 7\. Guru menyetujui verifikasi
 
@@ -417,13 +408,13 @@ deskripsi  langkah-langkah:
 
 1\. User memilih menu kelola siswa
 
-2\. System menampilkan list siswa
+2\. Sistem menampilkan list siswa
 
 3\. User mengelola siswa
 
 4\. User memperbarui siswa
 
-5\. System menyimpan data kedalam database
+5\. Sistem menyimpan data kedalam database
 
 X Ref: Section 3.2.7, Lihat Buku
 
@@ -465,7 +456,7 @@ deskripsi  langkah-langkah:
 
 1\. User memilih menu buku
 
-2\. System menampilkan menu kelola data buku
+2\. Sistem menampilkan menu kelola data buku
 
 3\. User memilih data yang akan di kelola
 
@@ -473,7 +464,7 @@ deskripsi  langkah-langkah:
 
 5\. User memperbarui data
 
-6\. System menyimpan pembaruan ke dalam database
+6\. Sistem menyimpan pembaruan ke dalam database
 
 X Ref: Section 3.2.9, Lihat Latihan
 
@@ -547,34 +538,6 @@ deskripsi  langkah-langkah:
 
 X Ref: Section 3.2.12, Kelola Ujian
 
-2.2.13 Chat
-
-use case: Chat
-
-diagram:
-
-![enter image description here](/HUBUNGAN/chat.png)
-
-deskripsi singkat: siswa saling chat untuk berbagi informasi seputar latihan
-
-deskripsi  langkah-langkah:
-
-1\. User memilih menu chat
-
-2\. User memilih pengguna chat
-
-3\. User menulis chat
-
-4\. User menekan tombol kirim
-
-5\. System menyimpan chat kedalam database
-
-6\. System menampilkan chat ke penerima
-
-7\. User penerima menerima chat
-
-X Ref: Section 3.2.13, Chat
-
 2.2.14  Statistik
 
 use case: Statistik
@@ -589,7 +552,7 @@ deskripsi  langkah-langkah:
 
 1\. User memilih menu Statistik
 
-2\. System menampilkan statistic siswa
+2\. Sistem menampilkan statistic siswa
 
 3\. User melihat statistic siswa
 
@@ -600,10 +563,9 @@ X Ref: Section 3.2.14, Statistik
 
   | **NO** | **Deskripsi**                                                |
   | ------ | ------------------------------------------------------------ |
-  | 1      | Antar muka Bahasa pada system menggunakan Bahasa Indonesia   |
-  | 2      | Sistem mampu mengupdate chat selama dalam kurun waktu kurang dari 5  detik (tidak termasuk masalah koneksi) |
-  | 3      | Sistem aplikasi dapat memvalidasi email dan password yang diinputkan |
-  | 4      | Perangkat lunak dapat berjalan pada platform android kitkat dan web  browser chrome atau firefox |
+  | 1      | Antar muka Bahasa pada sistem menggunakan Bahasa Indonesia   |
+  | 2      | Sistem aplikasi dapat memvalidasi email dan password yang diinputkan |
+  | 3      | Perangkat lunak dapat berjalan pada platform android kitkat dan web  browser chrome atau firefox |
 
    **2.4	Karakteristik Pengguna**
 
@@ -626,7 +588,7 @@ X Ref: Section 3.2.14, Statistik
 
 3.1 External Interface Requirements
 
-Link ke external system adalah link ke webstore database untuk memverifikasi keanggotaan dari siswa, guru, dan admin
+Link ke external sistem adalah link ke webstore database untuk memverifikasi keanggotaan dari siswa, guru, dan admin
 
 3.2 Functional Requirements
 
@@ -641,7 +603,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |                 |2. Sistem menampilkan form isian login|
 |                 |3. User mengisi data login            |
 |                 |4. User menekan tombol login          |
-|                 |5. System menuju data user            |
+|                 |5. Sistem menuju data user            |
 |Alternative Paths|Tidak ada                             |
 
 3.2.2 Login Guru
@@ -655,7 +617,8 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |                 |2. Sistem menampilkan form isian login|
 |                 |3. User mengisi data login            |
 |                 |4. User menekan tombol login          |
-|                 |5. System menuju data user            |
+|                 |5. Sistem menuju data user            |
+|				|6. Sistem menampilkan data user	|
 |Alternative Paths|Tidak ada                             |
 
 3.2.3 Login Admin
@@ -669,7 +632,8 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |                 |2. Sistem menampilkan form isian login|
 |                 |3. User mengisi data login            |
 |                 |4. User menekan tombol login          |
-|                 |5. System menuju data user            |
+|                 |5. Sistem menuju data user            |
+|	|6. Sistem menampilkan data user	|
 |Alternative Paths|Tidak ada                             |
 
 3.2.4 Registrasi Siswa
@@ -683,8 +647,8 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |                 |2. Sistem menampilkan form daftar                 |
 |                 |3. User mengisi form data                         |
 |                 |4. User menekan tombol daftar untuk menyimpan data|
-|                 |5. System menyimpan data ke dalam database user   |
-|                 |6. System mengirimkan data verifikasi kepada guru |
+|                 |5. Sistem menyimpan data ke dalam database user   |
+|                 |6. Sistem mengirimkan data verifikasi kepada guru |
 |                 |7. Guru menyetujui verifikasi                     |
 |                 |8. User sudah bisa menggunakan fitur aplikasi     |
 |Alternative Paths|Tidak ada                                         |
@@ -700,8 +664,8 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |                 |2. Sistem menampilkan form daftar                 |
 |                 |3. User mengisi form data                         |
 |                 |4. User menekan tombol daftar untuk menyimpan data|
-|                 |5. System menyimpan data ke dalam database user   |
-|                 |6. System mengirimkan data verifikasi kepada guru |
+|                 |5. Sistem menyimpan data ke dalam database user   |
+|                 |6. Sistem mengirimkan data verifikasi kepada guru |
 |                 |7. Guru menyetujui verifikasi                     |
 |                 |8. User sudah bisa menggunakan fitur aplikasi     |
 |Alternative Paths|Tidak ada                                         |
@@ -714,10 +678,10 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User(Guru) memilih menu Kelola Siswa     |
 |Precondition     |Aplikasi menampilkan menu kelola siswa   |
 |Basic Path       |1. User memilih menu kelola siswa        |
-|                 |2. System menampilkan list siswa         |
+|                 |2. Sistem menampilkan list siswa         |
 |                 |3. User mengelola siswa                  |
 |                 |4. User memperbarui siswa                |
-|                 |5. System menyimpan data kedalam database|
+|                 |5. Sistem menyimpan data kedalam database|
 |Alternative Paths|Tidak ada                                |
 
 3.2.7 View Buku Use Case
@@ -728,10 +692,13 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Siswa) memilih menu buku|
 |Precondition     |Aplikasi menampilkan menu buku|
 |Basic Path       |1. User memilih menu buku     |
-|                 |2. User memilih kategori buku |
-|                 |3. User memilih buku          |
-|                 |4. Sistem menampilkan buku    |
-|                 |5. User melihat buku          |
+|	|2. Sistem menampilkan menu buku |
+|                 |3. User memilih kategori buku |
+|	|4. Sistem menampilkan kategori buku |
+|                 |5. User memilih buku          |
+|                 |6. Sistem menampilkan buku    |
+|                 |7. User melihat buku          |
+|	|8. Sistem menampilkan buku |
 |Alternative Paths|Tidak ada                     |
 
 3.2.8 Manage Buku
@@ -742,11 +709,14 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Guru) memilih menu buku                  |
 |Precondition     |Aplikasi menampilkan menu buku                 |
 |Basic Path       |1. User memilih menu buku                      |
-|                 |2. System menampilkan menu kelola data buku    |
-|                 |3. User memilih data yang akan di kelola       |
-|                 |4. User mengedit data                          |
+|	|2. sistem menampilkan menu buku |
+|	|3. user memilih kelola data buku|
+|                 |4. Sistem menampilkan menu kelola data buku    |
+|                 |5. User memilih data yang akan di kelola       |
+|	|6. sistem menampilkan data yang akan di kelola |
+|                 |7. User mengedit data                          |
 |                 |5. User memperbarui data                       |
-|                 |6. System menyimpan pembaruan ke dalam database|
+|                 |6. Sistem menyimpan pembaruan ke dalam database|
 |Alternative Paths|Tidak ada                                      |
 
 3.2.9 View Latihan
@@ -757,13 +727,15 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Siswa) memilih menu Latihan            |
 |Precondition     |Aplikasi menampilkan menu  Latihan           |
 |Basic Path       |1. User memilih menu Latihan                 |
-|                 |2. User memilih kategori Latihan             |
-|                 |3. User memilih Latihan                      |
-|                 |4. Sistem menampilkan Latihan                |
-|                 |5. User Menjawab Latihan                     |
-|                 |6. User Menyimpan Latihan                    |
-|                 |7. Sistem menyimpan Latihan ke dalam database|
-|                 |8. User melihat tampilan berhasil disimpan   |
+|	|2. Sistem menampilkan menu latihan |
+|                 |3. User memilih kategori Latihan             |
+|	|4. Sistem menampilkan kategori Latihan |
+|                 |5. User memilih Latihan                      |
+|                 |6. Sistem menampilkan Latihan                |
+|                 |7. User Menjawab Latihan                     |
+|                 |8. User Menyimpan Latihan                    |
+|                 |9. Sistem menyimpan Latihan ke dalam database|
+|                 |10. User melihat tampilan berhasil disimpan   |
 |Alternative Paths|Tidak ada                                    |
 
 3.2.10 Manage Latihan
@@ -774,11 +746,14 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Guru) memilih menu Latihan            |
 |Precondition     |Aplikasi menampilkan menu Latihan           |
 |Basic Path       |1. User memilih menu Latihan                |
-|                 |2. User memilih kategori Latihan            |
-|                 |3. User memperbarui Latihan                 |
-|                 |4. User Menyimpan Latihan                   |
-|                 |5. Sistem menyimpan latihan kedalam database|
-|                 |6. User melihat tampilan berhasil disimpan  |
+|	|2. Sistem menampilkan menu Latihan	|
+|                 |3. User memilih kategori Latihan            |
+|	|4. Sistem menampilkan kategori latihan	|
+|	|5. User menambahkan Latihan
+|                 |6. User memperbarui Latihan                 |
+|                 |7. User Menyimpan Latihan                   |
+|                 |8. Sistem menyimpan latihan kedalam database|
+|                 |9. User melihat tampilan berhasil disimpan  |
 |Alternative Paths|Tidak ada                                   |
 
 3.2.11 View Ujian
@@ -789,7 +764,9 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Siswa) memilih menu Ujian            |
 |Precondition     |Aplikasi menampilkan menu  Ujian           |
 |Basic Path       |1. User memilih menu Ujian                 |
+|	|2. Sistem menampilkan menu Ujian	|
 |                 |2. User memilih kategori Ujian             |
+|	|4. Sistem menampilkan kategori Ujian	|
 |                 |3. User memilih Ujian                      |
 |                 |4. Sistem menampilkan Ujian                |
 |                 |5. User Menjawab Ujian                     |
@@ -806,28 +783,16 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Guru) memilih menu Ujian            |
 |Precondition     |Aplikasi menampilkan menu Ujian           |
 |Basic Path       |1. User memilih menu Ujian                |
-|                 |2. User memilih kategori Ujian            |
+|	|2. Sistem menampilkan menu Ujian	|
+|                 |3. User memilih kategori Ujian            |
+|	|4. Sistem menampilkan kategori Ujian	|
+|	|5. User Menambahkan Ujian |
 |                 |3. User memperbarui Ujian                 |
 |                 |4. User Menyimpan Ujian                   |
 |                 |5. Sistem menyimpan Ujian kedalam database|
 |                 |6. User melihat tampilan berhasil disimpan|
 |Alternative Paths|Tidak ada                                 |
 
-3.2.13 View Chat
-
-|Use Case Name    |Lihat Chat                               |
-|-----------------|-----------------------------------------|
-|X Ref            |Section 2.2.13, Daftar Guru              |
-|Trigger          |User (Siswa) memilih menu Chat           |
-|Precondition     |Aplikasi menampilkan menu Chat           |
-|Basic Path       |1. User memilih menu chat                |
-|                 |2. User memilih pengguna chat            |
-|                 |3. User menulis chat                     |
-|                 |4. User menekan tombol kirim             |
-|                 |5. System menyimpan chat kedalam database|
-|                 |6. System menampilkan chat ke penerima   |
-|                 |7. User penerima menerima chat           |
-|Alternative Paths|Tidak ada                                |
 
 3.2.14 Statistik
 
@@ -837,7 +802,7 @@ Link ke external system adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User(Siswa, Guru)  memilih menu Statistik|
 |Precondition     |Aplikasi menampilkan Statistik           |
 |Basic Path       |1. User memilih menu Statistik           |
-|                 |2. System menampilkan statistic siswa    |
+|                 |2. Sistem menampilkan statistic siswa    |
 |                 |3. User melihat statistic siswa          |
 |Alternative Paths|Tidak ada                                |
 
