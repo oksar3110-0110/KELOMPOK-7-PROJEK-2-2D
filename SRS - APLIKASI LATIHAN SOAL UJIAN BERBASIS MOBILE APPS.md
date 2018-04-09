@@ -715,8 +715,8 @@ Link ke external sistem adalah link ke webstore database untuk memverifikasi kea
 |                 |5. User memilih data yang akan di kelola       |
 |	|6. sistem menampilkan data yang akan di kelola |
 |                 |7. User mengedit data                          |
-|                 |5. User memperbarui data                       |
-|                 |6. Sistem menyimpan pembaruan ke dalam database|
+|                 |8. User memperbarui data                       |
+|                 |9. Sistem menyimpan pembaruan ke dalam database|
 |Alternative Paths|Tidak ada                                      |
 
 3.2.9 View Latihan
@@ -765,14 +765,14 @@ Link ke external sistem adalah link ke webstore database untuk memverifikasi kea
 |Precondition     |Aplikasi menampilkan menu  Ujian           |
 |Basic Path       |1. User memilih menu Ujian                 |
 |	|2. Sistem menampilkan menu Ujian	|
-|                 |2. User memilih kategori Ujian             |
+|                 |3. User memilih kategori Ujian             |
 |	|4. Sistem menampilkan kategori Ujian	|
-|                 |3. User memilih Ujian                      |
-|                 |4. Sistem menampilkan Ujian                |
-|                 |5. User Menjawab Ujian                     |
-|                 |6. User Menyimpan Ujian                    |
-|                 |7. Sistem menyimpan Ujian ke dalam database|
-|                 |8. User melihat tampilan berhasil disimpan |
+|                 |5. User memilih Ujian                      |
+|                 |6. Sistem menampilkan Ujian                |
+|                 |7. User Menjawab Ujian                     |
+|                 |8. User Menyimpan Ujian                    |
+|                 |9. Sistem menyimpan Ujian ke dalam database|
+|                 |10. User melihat tampilan berhasil disimpan |
 |Alternative Paths|Tidak ada                                  |
 
 3.2.12 Manage Ujian
@@ -787,10 +787,10 @@ Link ke external sistem adalah link ke webstore database untuk memverifikasi kea
 |                 |3. User memilih kategori Ujian            |
 |	|4. Sistem menampilkan kategori Ujian	|
 |	|5. User Menambahkan Ujian |
-|                 |3. User memperbarui Ujian                 |
-|                 |4. User Menyimpan Ujian                   |
-|                 |5. Sistem menyimpan Ujian kedalam database|
-|                 |6. User melihat tampilan berhasil disimpan|
+|                 |6. User memperbarui Ujian                 |
+|                 |7. User Menyimpan Ujian                   |
+|                 |8. Sistem menyimpan Ujian kedalam database|
+|                 |9. User melihat tampilan berhasil disimpan|
 |Alternative Paths|Tidak ada                                 |
 
 
