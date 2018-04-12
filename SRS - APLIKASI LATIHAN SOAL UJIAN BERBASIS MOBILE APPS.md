@@ -82,73 +82,63 @@ Version 1.0
 
   ​	**A. Mockup Android.**
 
-  | <img src="https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315" width="90">|
+  | <img src="https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=" width="90"><p>Form Login</p>| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315" width="90"><p>Form Register Siswa</p>| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315" width="90"><p>Form Lupa Password</p>|
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  |<img src="https://oksareinaldi.files.wordpress.com/2018/02/a03.png?w=156&h=315" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a05.png?w=209&h=426" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a06.png?w=208&h=426" width="90">|
-  |<img src="https://oksareinaldi.files.wordpress.com/2018/02/a17.png?w=158&h=313" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a18.png?w=210&h=420" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a07.png?w=211&h=426" width="90">| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a09.png?w=155&h=316" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a10.png?w=157&h=316" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a24.png?w=155&h=312" width="90"> |
-  |<img src="https://oksareinaldi.files.wordpress.com/2018/02/a25.png?w=211&h=421" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a11.png?w=156&h=316" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a12.png?w=315&h=631" width="90">|
-  | <img src="https://oksareinaldi.files.wordpress.com/2018/02/a14.png?w=156&h=313" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a15.png?w=156&h=313" width="90">|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a16.png?w=154&h=313" width="90">|
+  |<img src="https://oksareinaldi.files.wordpress.com/2018/02/a03.png?w=156&h=315" width="90"><p>Form Rubah Password</p>| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a05.png?w=209&h=426" width="90"><p>Menu Utama Aplikasi</p>|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a06.png?w=208&h=426" width="90"><p>Menu View Buku</p>|
+  |<img src="https://oksareinaldi.files.wordpress.com/2018/02/a17.png?w=158&h=313" width="90"><p>Menu Pilih Latihan Ujian</p>|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a18.png?w=210&h=420" width="90"><p>Menu Pilih Ujian</p>| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a07.png?w=211&h=426" width="90"><p>Menu Statistik Nilai</p>| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a09.png?w=155&h=316" width="90"><p>Menu Lihat Profil</p>|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a10.png?w=157&h=316" width="90"><p>Menu Times Up</p>|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a24.png?w=155&h=312" width="90"> <p>Soal Latihan</p>|
+  |<img src="https://oksareinaldi.files.wordpress.com/2018/02/a25.png?w=211&h=421" width="90"><p>Menu Times Up</p>|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a11.png?w=156&h=316" width="90"><p>Soal Ujian</p>|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a12.png?w=315&h=631" width="90"><p>Konfirmasi Submit Jawaban</p>|
+  | <img src="https://oksareinaldi.files.wordpress.com/2018/02/a14.png?w=156&h=313" width="90"><p>Times Up</p>|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a15.png?w=156&h=313" width="90"><p>Tampilan Soal</p>|<img src="https://oksareinaldi.files.wordpress.com/2018/02/a16.png?w=154&h=313" width="90"><p>Konfirmasi jawaban</p>|
 
 
  ** B. Mockup Website.**
 
  <table>
         <tr>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/login1.png?w=315&h=165">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w01.png?w=1000&h=">
  <p>Mockup Login Guru/Admin </p></td>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/register1.png?w=317&h=165">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w02.png?w=700&h=">
  <p>Mockup Register Guru</p></td>
         </tr>
         <tr>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/forgot2.png?w=640">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w03.png?w=700&h=">
  <p>Mockup Lupa Password</p></td>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tampilan11.png?w=316&h=165">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w06.png?w=150&h=99">
  <p>Mockup Tampil Buku</p></td>
         </tr>
         <tr>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-buku1.png?w=318&h=164">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w07.png?w=150&h=100">
  <p>Mockup Tambah Buku</p></td>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-guru1.png?w=316&h=165">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w16.png?w=150&h=99">
  <p>Mockup Tambah Guru</p></td>
         </tr>
         <tr>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-siswa-siswi1.png?w=316&h=165">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w26.png?w=770&h=">
  <p>Mockup Tambah siswa</p></td>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-ketegori1.png?w=318&h=164">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w09.png?w=770&h=">
  <p>Mockup Tambah Kategori</p></td>
         </tr>
         <tr>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-penerbit1.png?w=318&h=164">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w13.png?w=770&h=">
  <p>Mockup Tambah Penerbit</p></td>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-penulis1.png?w=318&h=164">
- <p>Mockup Tambah Penulis</p></td>
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w08.png?w=770&h=">
+ <p>Mockup Kategori</p></td>
         </tr>
         <tr>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-wali-kelas1.png?w=319&h=164">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w18.png?w=770&h=">
  <p>Mockup Tambah Wali Kelas</p></td>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-mata-pelajaran1.png?w=319&h=164">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w20.png?w=770&h=">
  <p>Mockup Tambah mata Pelajaran</p></td>
         </tr>
         <tr>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tambah-jurusan1.png?w=636&h=327">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w25.png?w=392&h=">
  <p>Mockup Tambah Jurusan</p></td>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/jurusan2.png?w=316&h=165">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w25.png?w=392&h=">
  <p>Mockup Jurusan</p></td>
         </tr>
         <tr>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/wali-kelas2.png?w=316&h=164">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w17.png?w=770&h=">
  <p>Mockup Wali Kelas</p></td>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/penulis2.png?w=316&h=165">
- <p>Mockup Penulis</p></td>
-        </tr>
-        <tr>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/ketegori2.png?w=316&h=165">
- <p>Mockup Kategori</p></td>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/ketegori2.png?w=316&h=165">
- <p>Mockup Kategori</p></td>
-        </tr>
-        <tr>
-            <td><img style="width: 50%" src="https://oksareinaldi.files.wordpress.com/2018/03/tampilan-buku3.png?w=316&h=165">
+            <td><img style="width: 250; height: 200;" src="https://oksareinaldi.files.wordpress.com/2018/04/w05.png?w=770&h=">
  <p>Mockup Tampil Buku</p></td>
         </tr>
  </table>
