@@ -46,8 +46,6 @@ fitur live chat antar sesama siswa. Juga disediakan fitur perangkingan berbasis 
 
  **1.3 Definisi dan Istilah**
 
-Abah
-
 Mobile Apps   : Aplikasi perangkat bergerak meliputi IOS, Android.
 Firebase 	 : Database realtime dari google yang tidak berbasis DBMS.
 Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dalam waktu maksimal 5 detik.
@@ -80,132 +78,6 @@ Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dala
 - SQL
 
 **2.2 Deskripsi Data**
-
-##### Tabel Buku.
-
-| Identifikasi / Nama  : | tabel_buku                           |               |            |         |                     |
-| ---------------------- | ------------------------------------ | ------------- | ---------- | ------- | ------------------- |
-| Deskripsi Isi :        | Sebagai tempat penyimpanan data buku |               |            |         |                     |
-| Jenis :                | Tabel                                |               |            |         |                     |
-| Volume :               |                                      |               |            |         |                     |
-| Laju :                 |                                      |               |            |         |                     |
-| Primary Key :          | id_buku                              |               |            |         |                     |
-|                        |                                      |               |            |         |                     |
-| Id Field               | Deskripsi                            | Tipe & length | Boleh Null | Default | Keterangan          |
-| id_buku                | sebagai auto increment buku          | int (11)      | no         | none    | primary key         |
-| id_kategori            | sebagai forgen key dari t_kategori   | int (11)      | no         | none    | refer ke t_kategori |
-| judul_buku             | sebagai judul buku                   | varchar (45)  | no         | none    |                     |
-| nama_kategori          | sebagai menepatkan nama kategori     | varchar (45)  | no         | none    |                     |
-| nama_penerbit          | sebagai menepatkan nama penerbit     | varchar (45)  | no         | none    |                     |
-| nama_penulis           | sebagai menepatkan nama penulis      | varchar (45)  | no         | none    |                     |
-| file_buku              | sebagai menepatkan file buku         | varchar (50)  | no         | none    |                     |
-| cover_buku             | sebagai menepatkan cover buku        | varchar (50)  | no         | none    |                     |
-
-##### Tabel Guru.
-
-| Identifikasi / Nama  : | tabel_guru                           |               |            |         |                  |
-| ---------------------- | ------------------------------------ | ------------- | ---------- | ------- | ---------------- |
-| Deskripsi Isi :        | Sebagai tempat penyimpanan data guru |               |            |         |                  |
-| Jenis :                | Tabel                                |               |            |         |                  |
-| Volume :               |                                      |               |            |         |                  |
-| Laju :                 |                                      |               |            |         |                  |
-| Primary Key :          | id_guru                              |               |            |         |                  |
-|                        |                                      |               |            |         |                  |
-| Id Field               | Deskripsi                            | Tipe & length | Boleh Null | Default | Keterangan       |
-| id_guru                | sebagai auto increment guru          | int (11)      | no         | none    | primary key      |
-| id_user                | sebagai forgen key dari t_kategori   | int (11)      | no         | none    | refer ke t_user  |
-| id_mapel               | sebagai forgen key dari t_mapel      | int (11)      | no         | none    | refer ke t_mapel |
-| nama_guru              | sebagai menepatkan nama guru         | varchar (45)  | no         | none    |                  |
-| nip                    | sebagai menepatkan nip guru          | varchar (45)  | no         | none    |                  |
-| alamat                 | sebagai menepatkan alamat guru       | varchar (150) | no         | none    |                  |
-| no_hp                  | sebagai menepatkan no_hp guru        | varchar (45)  | no         | none    |                  |
-| foto                   | sebagai menepatkan foto guru         | varchar (50)  | yes        | null    |                  |
-
-##### Tabel Jurusan.
-
-| Identifikasi / Nama  : | tabel_jurusan                           |               |            |         |             |
-| ---------------------- | --------------------------------------- | ------------- | ---------- | ------- | ----------- |
-| Deskripsi Isi :        | Sebagai tempat penyimpanan data jurusan |               |            |         |             |
-| Jenis :                | Tabel                                   |               |            |         |             |
-| Volume :               |                                         |               |            |         |             |
-| Laju :                 |                                         |               |            |         |             |
-| Primary Key :          | id_jurusan                              |               |            |         |             |
-|                        |                                         |               |            |         |             |
-| Id Field               | Deskripsi                               | Tipe & length | Boleh Null | Default | Keterangan  |
-| id_jurusan             | sebagai auto increment jurusan          | int (11)      | no         | none    | primary key |
-| nama_jurusan           | sebagai menepatkan nama jurusan         | varchar (25)  | no         | none    |             |
-
-##### Tabel Kategori.
-
-| Identifikasi / Nama  : | tabel_kategori                           |               |            |         |             |
-| ---------------------- | ---------------------------------------- | ------------- | ---------- | ------- | ----------- |
-| Deskripsi Isi :        | Sebagai tempat penyimpanan data kategori |               |            |         |             |
-| Jenis :                | Tabel                                    |               |            |         |             |
-| Volume :               |                                          |               |            |         |             |
-| Laju :                 |                                          |               |            |         |             |
-| Primary Key :          | id_kategori                              |               |            |         |             |
-|                        |                                          |               |            |         |             |
-| Id Field               | Deskripsi                                | Tipe & length | Boleh Null | Default | Keterangan  |
-| id_kategori            | sebagai auto increment kategori          | int (11)      | no         | none    | primary key |
-| nama_kategori          | sebagai menepatkan nama kategori         | varchar (25)  | no         | none    |             |
-
-##### Tabel Maple.
-
-| Identifikasi / Nama  : | tabel_mapel                                    |               |            |         |             |
-| ---------------------- | ---------------------------------------------- | ------------- | ---------- | ------- | ----------- |
-| Deskripsi Isi :        | Sebagai tempat penyimpanan data mata pelajaran |               |            |         |             |
-| Jenis :                | Tabel                                          |               |            |         |             |
-| Volume :               |                                                |               |            |         |             |
-| Laju :                 |                                                |               |            |         |             |
-| Primary Key :          | id_mapel                                       |               |            |         |             |
-|                        |                                                |               |            |         |             |
-| Id Field               | Deskripsi                                      | Tipe & length | Boleh Null | Default | Keterangan  |
-| id_mapel               | sebagai auto increment mata pelajaran          | int (11)      | no         | none    | primary key |
-| nama_mapel             | sebagai menepatkan nama mata pelajaran         | varchar (25)  | no         | none    |             |
-
-##### Tabel Siswa/Siswi.
-
-| Identifikasi / Nama  : | tabel_siswa_siswi                           |               |            |         |                    |
-| ---------------------- | ------------------------------------------- | ------------- | ---------- | ------- | ------------------ |
-| Deskripsi Isi :        | Sebagai tempat penyimpanan data siswa siswi |               |            |         |                    |
-| Jenis :                | Tabel                                       |               |            |         |                    |
-| Volume :               |                                             |               |            |         |                    |
-| Laju :                 |                                             |               |            |         |                    |
-| Primary Key :          | id_siswa_siswi                              |               |            |         |                    |
-|                        |                                             |               |            |         |                    |
-| Id Field               | Deskripsi                                   | Tipe & length | Boleh Null | Default | Keterangan         |
-| id_siswa_siswi         | sebagai auto increment siswa siswi          | int (11)      | no         | none    | primary key        |
-| id_user                | sebagai forgen key dari user                | int (11)      | no         | none    | refer ke t_user    |
-| id_jurusan             | sebagai forgen key dari jurusan             | int (11)      | no         | none    | refer ke t_jurusan |
-| nama_siswa_siswi       | sebagai menepatkan nama siswa siswi         | varchar (45)  | no         | none    |                    |
-| nisn                   | sebagai menepatkan id nisn                  | varchar (45)  | no         | none    |                    |
-| nama_ayah              | sebagai menepatkan nama ayah                | varchar (45)  | no         | none    |                    |
-| nama_ibu               | sebagai menepatkan nama ibu                 | varchar (45)  | no         | none    |                    |
-| nama_wali              | sebagai menepatkan nama wali                | varchar (45)  | yes        | null    |                    |
-| ttl                    | sebagai menepatkan tempat tanggal lahir     | varchar (45)  | no         | none    |                    |
-| kelas                  | sebagai menepatkan kelas                    | varchar (45)  | no         | none    |                    |
-| alamat                 | sebagai menepatkan alamat                   | varchar (50)  | no         | none    |                    |
-| no_hp_s                | sebagai menepatkan nomer hp siswi siswi     | varchar (45)  | no         | none    |                    |
-| no_hp_ortu             | sebagai menepatkan nomer hp orangtua        | varchar (45)  | no         | none    |                    |
-| foto                   | sebagai menepatkan file foto                | varchar (50)  | yes        | null    |                    |
-
-##### Tabel User.
-
-| Identifikasi / Nama  : | tabel_user                           |               |            |         |             |
-| ---------------------- | ------------------------------------ | ------------- | ---------- | ------- | ----------- |
-| Deskripsi Isi :        | Sebagai tempat penyimpanan data user |               |            |         |             |
-| Jenis :                | Tabel                                |               |            |         |             |
-| Volume :               |                                      |               |            |         |             |
-| Laju :                 |                                      |               |            |         |             |
-| Primary Key :          | id_user                              |               |            |         |             |
-|                        |                                      |               |            |         |             |
-| Id Field               | Deskripsi                            | Tipe & length | Boleh Null | Default | Keterangan  |
-| id_user                | sebagai auto increment user          |               |            |         | primary key |
-| username               | sebagai menepatkan username          |               |            |         |             |
-| password               | sebagai menepatkan password          |               |            |         |             |
-| email                  | sebagai menepatkan email             |               |            |         |             |
-| level                  | sebagai menepatkan level             |               |            |         |             |
-
 **2.2.1 Definisi Domain Model**
 
 ##### Buku.
@@ -313,6 +185,7 @@ Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dala
 ![enter image description here](/gambarSDD/diagramkonteks.png)
 
 **3.1.1 DFD Level 0**
+
 ![enter image description here](/gambarSDD/0.png)
 
 **3.1.2 DFD Level 1 Proses Data Guru**
@@ -340,6 +213,133 @@ Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dala
 ![enter image description here](/gambarSDD/6.png)
 
 **3.2 Deskripsi Rinci Tabel**
+
+**3.2.1 Tabel Buku**
+
+| Identifikasi / Nama  : | tabel_buku                           |               |            |         |                     |
+| ---------------------- | ------------------------------------ | ------------- | ---------- | ------- | ------------------- |
+| Deskripsi Isi :        | Sebagai tempat penyimpanan data buku |               |            |         |                     |
+| Jenis :                | Tabel                                |               |            |         |                     |
+| Volume :               |                                      |               |            |         |                     |
+| Laju :                 |                                      |               |            |         |                     |
+| Primary Key :          | id_buku                              |               |            |         |                     |
+|                        |                                      |               |            |         |                     |
+| Id Field               | Deskripsi                            | Tipe & length | Boleh Null | Default | Keterangan          |
+| id_buku                | sebagai auto increment buku          | int (11)      | no         | none    | primary key         |
+| id_kategori            | sebagai forgen key dari t_kategori   | int (11)      | no         | none    | refer ke t_kategori |
+| judul_buku             | sebagai judul buku                   | varchar (45)  | no         | none    |                     |
+| nama_kategori          | sebagai menepatkan nama kategori     | varchar (45)  | no         | none    |                     |
+| nama_penerbit          | sebagai menepatkan nama penerbit     | varchar (45)  | no         | none    |                     |
+| nama_penulis           | sebagai menepatkan nama penulis      | varchar (45)  | no         | none    |                     |
+| file_buku              | sebagai menepatkan file buku         | varchar (50)  | no         | none    |                     |
+| cover_buku             | sebagai menepatkan cover buku        | varchar (50)  | no         | none    |                     |
+
+**3.2.2 Tabel Guru**
+
+| Identifikasi / Nama  : | tabel_guru                           |               |            |         |                  |
+| ---------------------- | ------------------------------------ | ------------- | ---------- | ------- | ---------------- |
+| Deskripsi Isi :        | Sebagai tempat penyimpanan data guru |               |            |         |                  |
+| Jenis :                | Tabel                                |               |            |         |                  |
+| Volume :               |                                      |               |            |         |                  |
+| Laju :                 |                                      |               |            |         |                  |
+| Primary Key :          | id_guru                              |               |            |         |                  |
+|                        |                                      |               |            |         |                  |
+| Id Field               | Deskripsi                            | Tipe & length | Boleh Null | Default | Keterangan       |
+| id_guru                | sebagai auto increment guru          | int (11)      | no         | none    | primary key      |
+| id_user                | sebagai forgen key dari t_kategori   | int (11)      | no         | none    | refer ke t_user  |
+| id_mapel               | sebagai forgen key dari t_mapel      | int (11)      | no         | none    | refer ke t_mapel |
+| nama_guru              | sebagai menepatkan nama guru         | varchar (45)  | no         | none    |                  |
+| nip                    | sebagai menepatkan nip guru          | varchar (45)  | no         | none    |                  |
+| alamat                 | sebagai menepatkan alamat guru       | varchar (150) | no         | none    |                  |
+| no_hp                  | sebagai menepatkan no_hp guru        | varchar (45)  | no         | none    |                  |
+| foto                   | sebagai menepatkan foto guru         | varchar (50)  | yes        | null    |                  |
+
+**3.2.3 Tabel Jurusan**
+
+| Identifikasi / Nama  : | tabel_jurusan                           |               |            |         |             |
+| ---------------------- | --------------------------------------- | ------------- | ---------- | ------- | ----------- |
+| Deskripsi Isi :        | Sebagai tempat penyimpanan data jurusan |               |            |         |             |
+| Jenis :                | Tabel                                   |               |            |         |             |
+| Volume :               |                                         |               |            |         |             |
+| Laju :                 |                                         |               |            |         |             |
+| Primary Key :          | id_jurusan                              |               |            |         |             |
+|                        |                                         |               |            |         |             |
+| Id Field               | Deskripsi                               | Tipe & length | Boleh Null | Default | Keterangan  |
+| id_jurusan             | sebagai auto increment jurusan          | int (11)      | no         | none    | primary key |
+| nama_jurusan           | sebagai menepatkan nama jurusan         | varchar (25)  | no         | none    |             |
+
+**3.2.4 Tabel Kategori**
+
+| Identifikasi / Nama  : | tabel_kategori                           |               |            |         |             |
+| ---------------------- | ---------------------------------------- | ------------- | ---------- | ------- | ----------- |
+| Deskripsi Isi :        | Sebagai tempat penyimpanan data kategori |               |            |         |             |
+| Jenis :                | Tabel                                    |               |            |         |             |
+| Volume :               |                                          |               |            |         |             |
+| Laju :                 |                                          |               |            |         |             |
+| Primary Key :          | id_kategori                              |               |            |         |             |
+|                        |                                          |               |            |         |             |
+| Id Field               | Deskripsi                                | Tipe & length | Boleh Null | Default | Keterangan  |
+| id_kategori            | sebagai auto increment kategori          | int (11)      | no         | none    | primary key |
+| nama_kategori          | sebagai menepatkan nama kategori         | varchar (25)  | no         | none    |             |
+
+**3.2.5 Tabel Mapel**
+
+| Identifikasi / Nama  : | tabel_mapel                                    |               |            |         |             |
+| ---------------------- | ---------------------------------------------- | ------------- | ---------- | ------- | ----------- |
+| Deskripsi Isi :        | Sebagai tempat penyimpanan data mata pelajaran |               |            |         |             |
+| Jenis :                | Tabel                                          |               |            |         |             |
+| Volume :               |                                                |               |            |         |             |
+| Laju :                 |                                                |               |            |         |             |
+| Primary Key :          | id_mapel                                       |               |            |         |             |
+|                        |                                                |               |            |         |             |
+| Id Field               | Deskripsi                                      | Tipe & length | Boleh Null | Default | Keterangan  |
+| id_mapel               | sebagai auto increment mata pelajaran          | int (11)      | no         | none    | primary key |
+| nama_mapel             | sebagai menepatkan nama mata pelajaran         | varchar (25)  | no         | none    |             |
+
+**3.2.6 Tabel Siswa/Siswi**
+
+| Identifikasi / Nama  : | tabel_siswa_siswi                           |               |            |         |                    |
+| ---------------------- | ------------------------------------------- | ------------- | ---------- | ------- | ------------------ |
+| Deskripsi Isi :        | Sebagai tempat penyimpanan data siswa siswi |               |            |         |                    |
+| Jenis :                | Tabel                                       |               |            |         |                    |
+| Volume :               |                                             |               |            |         |                    |
+| Laju :                 |                                             |               |            |         |                    |
+| Primary Key :          | id_siswa_siswi                              |               |            |         |                    |
+|                        |                                             |               |            |         |                    |
+| Id Field               | Deskripsi                                   | Tipe & length | Boleh Null | Default | Keterangan         |
+| id_siswa_siswi         | sebagai auto increment siswa siswi          | int (11)      | no         | none    | primary key        |
+| id_user                | sebagai forgen key dari user                | int (11)      | no         | none    | refer ke t_user    |
+| id_jurusan             | sebagai forgen key dari jurusan             | int (11)      | no         | none    | refer ke t_jurusan |
+| nama_siswa_siswi       | sebagai menepatkan nama siswa siswi         | varchar (45)  | no         | none    |                    |
+| nisn                   | sebagai menepatkan id nisn                  | varchar (45)  | no         | none    |                    |
+| nama_ayah              | sebagai menepatkan nama ayah                | varchar (45)  | no         | none    |                    |
+| nama_ibu               | sebagai menepatkan nama ibu                 | varchar (45)  | no         | none    |                    |
+| nama_wali              | sebagai menepatkan nama wali                | varchar (45)  | yes        | null    |                    |
+| ttl                    | sebagai menepatkan tempat tanggal lahir     | varchar (45)  | no         | none    |                    |
+| kelas                  | sebagai menepatkan kelas                    | varchar (45)  | no         | none    |                    |
+| alamat                 | sebagai menepatkan alamat                   | varchar (50)  | no         | none    |                    |
+| no_hp_s                | sebagai menepatkan nomer hp siswi siswi     | varchar (45)  | no         | none    |                    |
+| no_hp_ortu             | sebagai menepatkan nomer hp orangtua        | varchar (45)  | no         | none    |                    |
+| foto                   | sebagai menepatkan file foto                | varchar (50)  | yes        | null    |                    |
+
+**3.2.7 Tabel User**
+
+| Identifikasi / Nama  : | tabel_user                           |               |            |         |             |
+| ---------------------- | ------------------------------------ | ------------- | ---------- | ------- | ----------- |
+| Deskripsi Isi :        | Sebagai tempat penyimpanan data user |               |            |         |             |
+| Jenis :                | Tabel                                |               |            |         |             |
+| Volume :               |                                      |               |            |         |             |
+| Laju :                 |                                      |               |            |         |             |
+| Primary Key :          | id_user                              |               |            |         |             |
+|                        |                                      |               |            |         |             |
+| Id Field               | Deskripsi                            | Tipe & length | Boleh Null | Default | Keterangan  |
+| id_user                | sebagai auto increment user          |               |            |         | primary key |
+| username               | sebagai menepatkan username          |               |            |         |             |
+| password               | sebagai menepatkan password          |               |            |         |             |
+| email                  | sebagai menepatkan email             |               |            |         |             |
+| level                  | sebagai menepatkan level             |               |            |         |             |
+
+
 
 **3.3 Matriks Rinci Modul**
 
