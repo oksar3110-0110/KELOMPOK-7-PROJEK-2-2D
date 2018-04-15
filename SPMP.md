@@ -2,9 +2,8 @@
 
 ## **SOFTWARE PROJECT MANAJEMEN PLAN**
 
-Version 1.0
-
-22 Februari 2018
+Version 2.2
+15 April 2018
 
 <img src="https://oksareinaldi.files.wordpress.com/2018/02/polindra.png?w=421&h=421&crop=1" width="250" height="250">
 
