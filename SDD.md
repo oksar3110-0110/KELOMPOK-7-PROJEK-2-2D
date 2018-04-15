@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ## **SOFTWARE DESIGN DESCRIPTIONS**
@@ -308,6 +309,7 @@ Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dala
 ## **BAB 3 Perancangan Rinci**
 
 **3.1 Diagram Konteks**
+![enter image description here](/image/diagramkonteks.png = 250x250)
 
 **3.1.1 DFD Level 0**
 
@@ -414,3 +416,4 @@ Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dala
 | 69   |                                   | Input Nomer HP Orangtua      | Berfungsi sebagai merubah nomer orang tua ayah/ibu ke databases. |
 
 **3.4 Matriks Kerunutan**
+
