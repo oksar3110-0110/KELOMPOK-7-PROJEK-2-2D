@@ -309,7 +309,7 @@ Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dala
 ## **BAB 3 Perancangan Rinci**
 
 **3.1 Diagram Konteks**
-![enter image description here](/image/diagramkonteks.png = 250x250)
+![enter image description here](/gambarSDD/diagramkonteks.png = 250x250)
 
 **3.1.1 DFD Level 0**
 
