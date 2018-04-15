@@ -33,35 +33,36 @@ Version 1.0
 
    Pada bagian ini memberikan deskripsi dan gambaran mengenai apapun yang terdapat pada dokumen SRS. Juga tujuan dari pembuatan dari dokumen ini di gambarkan dan di urutkan juga didefinisikan.
 
-   **1.1	Tujuan**
+   **1.1  Tujuan**
 
    Tujuan dari pembuatan dokumen ini adalah untuk memberikan detail dari System Requirement dari "Aplikasi Latihan Ujian Nasional Berbasis Mobile Apps". Pada dokumen ini mengilustrasikan tujuan dan pernyataan lengkap dari pembuatan sistem. Dokumen ini juga menjelaskan spesifikasi sistem, interface dan hubungan dengan aplikasi lainnya.
 
-   **1.2	Lingkup**
+   **1.2  Lingkup**
 
    "Aplikasi Latihan Ujian Berbasis Mobile Apps" merupakan sebuah aplikasi mobile yang dibuat bekerja sama dengan mitra yaitu SMK RISTEK MULTIMEDIA Indramayu. Pada aplikasi ini disediakan materi, latihan soal dan soal - soal yang diharapkan dapat meningkatkan mutu dari siswa - siswa dalam kompetensinya.
 
    Batasan dari aplikasi ini ialah pada soal - soal dan materi, hanya berkaitan dengan bidang multimedia dan beberapa materi pelajaran wajib, Juga disediakan fitur perangkingan berbasis grafik.
 
-   **1.3	Definisi, Akronim, Singkatan**
+   **1.3  Definisi, Akronim, Singkatan**
    
 | Akronim | Singkatan | Definisi |
    |-----------|-------------|-------|
-   |Mobile Apps |	| Aplikasi perangkat bergerak meliputi IOS, Android.|
-   | Android Virtual Device | AVD| konfigurasi dari emulator sehingga kita dapat menjalankan perangkat Android sesuai model yang dipilih	 |
-   | Software Development Kit | SDK | bekal utama bagi developer untuk membuat suatu program dan menjalankan program java	|
-   |	Application Programming Interface| API | sekumpulan perintah, fungsi, dan protokol yang dapat digunakan oleh programmer saat membangun perangkat lunak untuk sistem operasi tertentu|
+   |Mobile Apps | | Aplikasi perangkat bergerak meliputi IOS, Android.|
+   | Android Virtual Device | AVD| konfigurasi dari emulator sehingga kita dapat menjalankan perangkat Android sesuai model yang dipilih   |
+   | Software Development Kit | SDK | bekal utama bagi developer untuk membuat suatu program dan menjalankan program java |
+   |  Application Programming Interface| API | sekumpulan perintah, fungsi, dan protokol yang dapat digunakan oleh programmer saat membangun perangkat lunak untuk sistem operasi tertentu|
 
 
-   **1.4	Referensi**
+   **1.4  Referensi**
 
 -    Software Requirements Specification, "Web Publishing Sistem", April 15, 2004.
 
 -    IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements
-  	Specifications. IEEE Computer Society, 1998.
+    Specifications. IEEE Computer Society, 1998.
 
 
-   **1.5	Overview**
+   **1.5  Overview**
+   
    Didalam dokumen ini memuat 3 bab yang masing - masing bab menjelaskan fungsi dan desain darri aplikasi latihan ujian berbasis mobile apps. Pada bab 1 menjelaskan tentang tujuan, lingkup, definisi singkatan, referensi pembuatan dokumen ini dan gambaran tentang dokumen ini.
    Pada bab ke-2 menjelaskan tentang gambaran dari produk yang akan dibuuat, interface yang digunakan, btasan memory dan operasi - oerasi yang ada pada sistem.
    Pada bab ke-3 menjelaskan tentang spesifikasi yang terdapat pada sistem ini.
@@ -72,15 +73,15 @@ Version 1.0
 
    Aplikasi Latihan Ujian Berbasis Mobile Apps bertujuan untuk sekolah-sekolah yang masih belum memiliki fasilitas sekolah yang memadai terutama di bagian fasilitas komputer dan alat-alat electroniklainya, dan juga terutama untuk siswa/siswi yang masih belum memiliki komputer/laptop di rumahnya maka dari itu aplikasi ujian berbasisi mobile ini siswa/siswi bisa latihan ujian nasional dimana saja dan kapan saja karna latihan ujian nasional ini berbasis android yang bisa dibawa kemana saja oleh siswa/siswi.
 
-   **2.1.1	Antarmuka Sistem**
+   **2.1.1  Antarmuka Sistem**
    
-   <img src="https://oksareinaldi.files.wordpress.com/2018/03/selection_051.png">
+   <img src="https://oksareinaldi.files.wordpress.com/2018/04/untitled-diagram.png?w=640">
    
    Dari diagram diatas dijabarkan bahwa siswa hanya bisa mengakses view buku, view ujian, view latihan, dan view statistik. Guru dan admin dalam sistem ini bisa mengakses keseluruhan dari menu yang ada seperti pada diagram.
 
-   **2.1.2	Antarmuka Pengguna (MOCKUP)**
+   **2.1.2  Antarmuka Pengguna (MOCKUP)**
 
-  ​	**A. Mockup Android.**
+  ​ **A. Mockup Android.**
 
   | <img src="https://oksareinaldi.files.wordpress.com/2018/02/a01.png?w=370&h=" width="90"><p>Form Login</p>| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a04.png?w=156&h=315" width="90"><p>Form Register Siswa</p>| <img src="https://oksareinaldi.files.wordpress.com/2018/02/a02.png?w=156&h=315" width="90"><p>Form Lupa Password</p>|
   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -144,26 +145,27 @@ Version 1.0
  </table>
 
  
-   **2.1.3	Antarmuka Perangkat Keras**
+   **2.1.3  Antarmuka Perangkat Keras**
 
-   <img src="https://oksareinaldi.files.wordpress.com/2018/03/basic-use-case-diagram-page-2-e1519891968750.png?w=640">
+   <img align="center" src="https://oksareinaldi.files.wordpress.com/2018/04/untitled-diagram.jpg?w=640">
+   <p align="center">Gambar 2.1.3.1 Antar Muka Perangkat Keras</p>
 
   ​
 
-   **2.1.4	Antarmuka Perangkat Lunak**
+   **2.1.4  Antarmuka Perangkat Lunak**
 
    Aplikasi Latihan Ujian Berbasis Mobile Apps ini hanya bisa di instal di android versi 4.0.3 (Ice Cream Sandwich) karna simulasi aplikasi ujian ini bisa di jalankan hanya untuk ver 4 ke atas tidak bisa android ver 4 kebawah.
 
-   **2.1.5	Antarmuka Komunikasi**
+   **2.1.5  Antarmuka Komunikasi**
 
    Antarmuka komunikasi Aplikasi Latihan Ujian Berbasis Mobile Apps
 
-  ​     Admin dan user harus tersambung internet terutama untuk admin untuk mengupload materi pelajaran dan menginputakan data seperti menabah materi-materi pelajaran dan mengupload ujian dan latihan ujian yang akan di jalankan oleh siswa/siswi, Dan user tidak harus online si user hanya bisa ujian, latihan ujian dan mendownload meteri-materi pelajaran yang di upload oleh si guru.
+  ​     Admin dan user harus tersambung internet terutama untuk admin untuk mengupload materi pelajaran dan menginputakan data seperti menabah materi-materi pelajaran dan mengupload ujian dan latihan ujian yang akan di jalankan oleh siswa/siswi, Dan user tidak harus online si user hanya bisa ujian, latihan ujian dan mendownload materi-materi pelajaran yang di upload oleh si guru.
 
 
-   **2.1.6	Operasi -Operasi**
+   **2.1.6  Operasi -Operasi**
 
-   ​	
+   ​  
 
   | No   | Tampilan                          | Operasi                      | Fungsi                                                       |
   | ---- | --------------------------------- | ---------------------------- | ------------------------------------------------------------ |
@@ -174,7 +176,7 @@ Version 1.0
   | 5    | Tampilan Lupa Password            | Input Username               | Berfungsi sebagai ID username security yang ada di databases. |
   | 6    |                                   | Input Nomer HP               | Berfungsi sebagai ID nomer security yang ada di databases.   |
   | 7    |                                   | Input Email                  | Berfungsi sebagai ID email security yang ada di databases.   |
-  | 8    |                                   | Button Canlce                | Berfungsi sebagai tidak jadi untuk lupa password.            |
+  | 8    |                                   | Button Cancel                | Berfungsi sebagai tidak jadi untuk lupa password.            |
   | 9    |                                   | Button Send                  | Berfungsi sebagai mengirim data yang telah di input oleh user, jika benar  buttom ini akan mengarah ke rubah password jika tidak buttom ini akan kembali  ke tampilan lupa password. |
   | 10   | Tampilan Rubah Password Dll       | Input Password               | Berfungsi sebagai perubahan password yang tadi lupa jadi biki lagin  dengan akun yang sama, yang telah di inputkan di Tampilan Lupa Password. |
   | 11   |                                   | Input Nomer HP               | Berfungsi sebagai perubahan nomer hp biasanya nomernya udah muncul, jika  mau dirubah nomernya silahkan ganti nomernya jika tidak dirubah maka jangan  dihapus atau dirubah. |
@@ -230,9 +232,9 @@ Version 1.0
   | 71   |                                   | Input Ibu                    | Berfungsi sebagai merubah nama orang tua ibu ke databases.   |
   | 72   |                                   | Input Nomer HP Orangtua      | Berfungsi sebagai merubah nomer orang tua ayah/ibu ke databases. |
 
-   **2.2	Spesifikasi Kebutuhan Fungsional**
+   **2.2  Spesifikasi Kebutuhan Fungsional**
 
-  <img src="https://oksareinaldi.files.wordpress.com/2018/03/basic-use-case-diagram-page-1.jpeg?w=640">
+  <img src="https://oksareinaldi.files.wordpress.com/2018/04/untitled-diagram1.png?w=640">
 
 - Deskripsi
 
@@ -558,7 +560,7 @@ deskripsi  langkah-langkah:
 X Ref: Section 3.2.14, Statistik
 
 
-   **2.3	Spesifikasi Kebutuhan Non-Fungsional**
+   **2.3  Spesifikasi Kebutuhan Non-Fungsional**
 
   | **NO** | **Deskripsi**                                                |
   | ------ | ------------------------------------------------------------ |
@@ -566,7 +568,7 @@ X Ref: Section 3.2.14, Statistik
   | 2      | Sistem aplikasi dapat memvalidasi email dan password yang diinputkan |
   | 3      | Perangkat lunak dapat berjalan pada platform android kitkat dan web  browser chrome atau firefox |
 
-   **2.4	Karakteristik Pengguna**
+   **2.4  Karakteristik Pengguna**
 
   Siswa diharapkan dapat menggunakan aplikasi smartphone android dan sambungan internet pada smartphone dengan baik. Pada halaman utama menampilkan menu - menu dari aplikasi, disini siswa diharapkan sudah mengerti tentang tata cara penggunaan dari aplikasi android.
 
@@ -574,13 +576,13 @@ X Ref: Section 3.2.14, Statistik
 
   Untuk admin diharapkan dapat mengelola server dengan baik. admin diharapkan dapat mengerti tentang tata cara mengelola sistem dan melakukan troubleshooting ketika terjadi masalah pada sistem.
 
-   **2.5	Batasan - Batasan**
+   **2.5  Batasan - Batasan**
    
    - Aplikasi mobile hannya dapat dijalankan pada platform android Kitkat (API 19 Keatas).
    - Aplikasi WEB dapat dijalankan dengan optimal pada web browser chrome dengan OS Windows dan Linux.
    - Tidak semua fungsi bisa terlaksana karena keterbatasan waktu.
 
-   **2.6	Asumsi - Asumsi Keterkaitan**
+   **2.6  Asumsi - Asumsi Keterkaitan**
    
 
 ##   **BAB III Requirement Specification**
@@ -617,7 +619,7 @@ Link ke external sistem adalah link ke webstore database untuk memverifikasi kea
 |                 |3. User mengisi data login            |
 |                 |4. User menekan tombol login          |
 |                 |5. Sistem menuju data user            |
-|				|6. Sistem menampilkan data user	|
+|       |6. Sistem menampilkan data user  |
 |Alternative Paths|Tidak ada                             |
 
 3.2.3 Login Admin
@@ -632,7 +634,7 @@ Link ke external sistem adalah link ke webstore database untuk memverifikasi kea
 |                 |3. User mengisi data login            |
 |                 |4. User menekan tombol login          |
 |                 |5. Sistem menuju data user            |
-|	|6. Sistem menampilkan data user	|
+| |6. Sistem menampilkan data user  |
 |Alternative Paths|Tidak ada                             |
 
 3.2.4 Registrasi Siswa
@@ -691,13 +693,13 @@ Link ke external sistem adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Siswa) memilih menu buku|
 |Precondition     |Aplikasi menampilkan menu buku|
 |Basic Path       |1. User memilih menu buku     |
-|	|2. Sistem menampilkan menu buku |
+| |2. Sistem menampilkan menu buku |
 |                 |3. User memilih kategori buku |
-|	|4. Sistem menampilkan kategori buku |
+| |4. Sistem menampilkan kategori buku |
 |                 |5. User memilih buku          |
 |                 |6. Sistem menampilkan buku    |
 |                 |7. User melihat buku          |
-|	|8. Sistem menampilkan buku |
+| |8. Sistem menampilkan buku |
 |Alternative Paths|Tidak ada                     |
 
 3.2.8 Manage Buku
@@ -708,11 +710,11 @@ Link ke external sistem adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Guru) memilih menu buku                  |
 |Precondition     |Aplikasi menampilkan menu buku                 |
 |Basic Path       |1. User memilih menu buku                      |
-|	|2. sistem menampilkan menu buku |
-|	|3. user memilih kelola data buku|
+| |2. sistem menampilkan menu buku |
+| |3. user memilih kelola data buku|
 |                 |4. Sistem menampilkan menu kelola data buku    |
 |                 |5. User memilih data yang akan di kelola       |
-|	|6. sistem menampilkan data yang akan di kelola |
+| |6. sistem menampilkan data yang akan di kelola |
 |                 |7. User mengedit data                          |
 |                 |8. User memperbarui data                       |
 |                 |9. Sistem menyimpan pembaruan ke dalam database|
@@ -726,9 +728,9 @@ Link ke external sistem adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Siswa) memilih menu Latihan            |
 |Precondition     |Aplikasi menampilkan menu  Latihan           |
 |Basic Path       |1. User memilih menu Latihan                 |
-|	|2. Sistem menampilkan menu latihan |
+| |2. Sistem menampilkan menu latihan |
 |                 |3. User memilih kategori Latihan             |
-|	|4. Sistem menampilkan kategori Latihan |
+| |4. Sistem menampilkan kategori Latihan |
 |                 |5. User memilih Latihan                      |
 |                 |6. Sistem menampilkan Latihan                |
 |                 |7. User Menjawab Latihan                     |
@@ -745,10 +747,10 @@ Link ke external sistem adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Guru) memilih menu Latihan            |
 |Precondition     |Aplikasi menampilkan menu Latihan           |
 |Basic Path       |1. User memilih menu Latihan                |
-|	|2. Sistem menampilkan menu Latihan	|
+| |2. Sistem menampilkan menu Latihan |
 |                 |3. User memilih kategori Latihan            |
-|	|4. Sistem menampilkan kategori latihan	|
-|	|5. User menambahkan Latihan
+| |4. Sistem menampilkan kategori latihan |
+| |5. User menambahkan Latihan
 |                 |6. User memperbarui Latihan                 |
 |                 |7. User Menyimpan Latihan                   |
 |                 |8. Sistem menyimpan latihan kedalam database|
@@ -763,9 +765,9 @@ Link ke external sistem adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Siswa) memilih menu Ujian            |
 |Precondition     |Aplikasi menampilkan menu  Ujian           |
 |Basic Path       |1. User memilih menu Ujian                 |
-|	|2. Sistem menampilkan menu Ujian	|
+| |2. Sistem menampilkan menu Ujian |
 |                 |3. User memilih kategori Ujian             |
-|	|4. Sistem menampilkan kategori Ujian	|
+| |4. Sistem menampilkan kategori Ujian |
 |                 |5. User memilih Ujian                      |
 |                 |6. Sistem menampilkan Ujian                |
 |                 |7. User Menjawab Ujian                     |
@@ -782,10 +784,10 @@ Link ke external sistem adalah link ke webstore database untuk memverifikasi kea
 |Trigger          |User (Guru) memilih menu Ujian            |
 |Precondition     |Aplikasi menampilkan menu Ujian           |
 |Basic Path       |1. User memilih menu Ujian                |
-|	|2. Sistem menampilkan menu Ujian	|
+| |2. Sistem menampilkan menu Ujian |
 |                 |3. User memilih kategori Ujian            |
-|	|4. Sistem menampilkan kategori Ujian	|
-|	|5. User Menambahkan Ujian |
+| |4. Sistem menampilkan kategori Ujian |
+| |5. User Menambahkan Ujian |
 |                 |6. User memperbarui Ujian                 |
 |                 |7. User Menyimpan Ujian                   |
 |                 |8. Sistem menyimpan Ujian kedalam database|
