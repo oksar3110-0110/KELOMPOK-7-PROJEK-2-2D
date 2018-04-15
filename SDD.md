@@ -309,13 +309,35 @@ Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dala
 ## **BAB 3 Perancangan Rinci**
 
 **3.1 Diagram Konteks**
-![enter image description here](/gambarSDD/diagramkonteks.png = 250x250)
+
+![enter image description here](/gambarSDD/diagramkonteks.png)
 
 **3.1.1 DFD Level 0**
+![enter image description here](/gambarSDD/0.png)
 
-**3.1.2 DFD Level 1 Proses M**
+**3.1.2 DFD Level 1 Proses Data Guru**
 
-**3.1.3 DFD Level 1 Proses M**
+![enter image description here](/gambarSDD/1.png)
+
+**3.1.3 DFD Level 2 Proses Data Siswa**
+
+![enter image description here](/gambarSDD/2.png)
+
+**3.1.4 DFD Level 3 Proses Data Ujian**
+
+![enter image description here](/gambarSDD/3.png)
+
+**3.1.5 DFD Level 4 Proses Data Latihan**
+
+![enter image description here](/gambarSDD/4.png)
+
+**3.1.6 DFD Level 5 Proses Data Buku**
+
+![enter image description here](/gambarSDD/5.png)
+
+**3.1.7 DFD Level 6 Proses Data Statistik**
+
+![enter image description here](/gambarSDD/6.png)
 
 **3.2 Deskripsi Rinci Tabel**
 
