@@ -363,6 +363,7 @@ Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dala
 **3.3.1.3 Spesifikasi Query**
 
 **3.3.1.4 Spesifikasi Field Data Layar**
+
 |Label    |Field   |Tabel/Query|Validasi|Keterangan|
 |---------|--------|-----------|--------|----------|
 |IdSiswa  |id_Siswa|Data_Siswa |-       |-         |
