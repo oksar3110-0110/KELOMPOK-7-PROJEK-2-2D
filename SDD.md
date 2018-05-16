@@ -1,4 +1,5 @@
 
+
 <div align="center">
 
 ## **SOFTWARE DESIGN DESCRIPTIONS**
@@ -359,9 +360,23 @@ Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dala
 
 **3.3.1.2 Spesifikasi Layar utama**
 
-**3.3.1.3 Spesifikasi Query **
+**3.3.1.3 Spesifikasi Query**
 
 **3.3.1.4 Spesifikasi Field Data Layar**
+| Label | Field  | Tabel/Query | Validasi | Keterangan |
+|--|--|--|--|--|
+|  IdSiswa|id_Siswa  | Data_Siswa	| -	|-	|
+|	IdUser|id_User|Data_Siswa|-|-|
+|NamaSiswa|nm_siswa|Data_Siswa|-|-|
+|Nisn|nisn|Data_Siswa|-|-|
+|NamaAyah|ayah|Data_Siswa|-|-|
+|NamaIbu|ibu|Data_Siswa|-|-|
+|tglLahir|ttl|Data_Siswa|-|-|
+|Jurusan|jurusan|Data_Siswa|-|-|
+|Kelas|kelas|Data_Siswa|-|-|
+|NoHp|no_hp|Data_Siswa|-|-|
+|Poto|poto|Data_Siswa|-|-|
+
 
 **3.3.1.5 Spesifikasi Proses/Algoritma**
 
