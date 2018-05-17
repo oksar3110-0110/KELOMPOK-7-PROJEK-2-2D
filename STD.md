@@ -36,7 +36,10 @@ Version 1.0
 
  **1. 1 TUJUAN PEMBUATAN DOKUMEN**
  
+ Dokumen ini digunakan sebagai panduan untuk melakukan pengujian terhadap perangkat lunak LATIHAN UJIAN BERBASIS MOBILE APPS. Dokumen ini dipakai untuk melihat kemampuan dari program yang telah dirancang agar sesuai dengan keinginan dari pengguna. Pembuatan dokumen ini ditunjukan untuk menguji perangkat lunak LATIHAN UJIAN BERBASIS MOBILE APPS yang merupakan bagian dari mata kuliah Rekayasa Perangkat Lunak
+ 
  **1.2 DESKRIPSI UMUM SISTEM**
+ Perangkat lunak yang akan diuji adalah "LATIHAN UJIAN BERBASIS MOBILE APPS". Perangkat lunak ini adalah perangkat lunak yang digunakan untuk simulasi latihan ujian siswa dalam menghadapi ujian. 
  
 
  1.2.1 PERSPEKTIF UMUM SISTEM UJI
@@ -46,6 +49,33 @@ Version 1.0
  **1.3 DESKRIPSI DOKUMEN**
  
  **1.4 DEFINISI DAN SINGKATAN**
+ <table>
+ 	<tr>
+    	<td>V-Model</td>
+        <td>V-Model Merupakan salah satu model proses pembuatan software</td>
+    </tr>
+    <tr>
+    	<td>Google Playstore</td>
+    	<td>Google Playstore merupakan store aplikasi dari google yang menyediakan berbagai aplikasi Android baik yang gratis maupun yang berbayar</td>
+    </tr>
+    <tr>
+    	<td>ALTIS</td>
+        <td>ALTIS(APLIKASI LATIHAN UJIAN BERBASIS MOBILE APPS) merupakan aplikasi latihan ujian yang dirancang khusus untuk siswa SMK Ristek Multimedia dan Siswa SMK Pada Umumnya</td>
+    </tr>
+    <tr>
+    	<td>SDD</td>
+        <td>Software Design Description merupakan dokumen project software yang berisi tentang deskripsi desain software yang akan dirancang / dibuat</td>
+    </tr>
+    <tr>
+    	<td>SPMP</td>
+        <td>Software Project Manajemen Plan merupakan dokumen project software yang berisi tentang perencanaan pembangunan atau pengembangan software aplikasi secara umum</td>
+    <tr>
+    <tr>
+    	<td>SRS</td>
+        <td>Software Requirement Specification merupakan dokumen perangkat lunak yang berisi tentang requirement spesifikasi atau spesifikasi yang ada pada perangkat lunak yang akan dibangun atau dirancang</td>
+    </tr>
+ </table> 
+
  
  **1.5 DOKUMEN REFERENSI**
  
@@ -54,7 +84,17 @@ Version 1.0
 
 **2.1 PERANGKAT LUNAK PENGUJIAN (TOOLS & ENVIRONMENT)**
 
+Perangkat Lunak ini diujikan dengan beberapa perangkat lunak lain, yaitu
+
+ - Sistem operasi: Windows 7, Windows 10, Linux Subuntu 16
+ - Bahasa Pemrograman : PHP, JAVA
+ - Database : MySQL
+
 **2.2 PERANGKT KERAS PENGUJIAN**
+
+Perangkat keras yang di perlukan untuk menguji aplikasi ini adalah satu set komputer dengan spesifikasi:
+
+ - 
 
 **2.3 MATERIAL PENGUJIAN (OBJEK YANG DI UJI)**
 
