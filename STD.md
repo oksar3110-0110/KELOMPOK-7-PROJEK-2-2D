@@ -90,15 +90,28 @@ Perangkat Lunak ini diujikan dengan beberapa perangkat lunak lain, yaitu
  - Bahasa Pemrograman : PHP, JAVA
  - Database : MySQL
 
-**2.2 PERANGKT KERAS PENGUJIAN**
+**2.2 PERANGKAT KERAS PENGUJIAN**
 
-Perangkat keras yang di perlukan untuk menguji aplikasi ini adalah satu set komputer dengan spesifikasi:
-
- - 
+Perangkat keras yang di perlukan untuk menguji aplikasi ini adalah satu set komputer dan satu set smartphone Android dengan spesifikasi:
+ - Komputer
+ - Processor: Intel Pentium Dual Core
+ - Memory: 2 GB DDR3
+ - Hardisk : 320 GB
+ 
+ -  Android
+ 
+ - Processor : Snapdragon 435
+ - Memory : 2 GB
+ - API	: 20
 
 **2.3 MATERIAL PENGUJIAN (OBJEK YANG DI UJI)**
 
 **2.4 SUMBER DAYA MANUSIA (PELAKU PENGUJIAN)**
+Persyaratan sumber daya manusia yang akan terlibat dalam proses pengujian perangkat lunak ini adalah:
+
+ - Memahami konsep pemrograman berorientasi objek dalam PHP dan JAVA
+ - Memahami proses pengujian perangkat lunak berorientasi objek
+ - memahami konsep pemrograman data base MySQL
 
 **2.5 PROSEDUR UMUM PENGUJIAN**
 
@@ -107,8 +120,35 @@ Perangkat keras yang di perlukan untuk menguji aplikasi ini adalah satu set komp
 2.5.2 PERSIAPAN AWAL
 
 2.5.2.1 Persiapan Prosedural
+Pengujian ini dilakukan di luar lingkungan kampus. Dimana pengujian ini dilakukan oleh siswa dan guru. Alat yang digunakan 1 buah laptop dan Android dengan software yang telah di instalasi
+
 2.5.2.2 Persiapan Perangkat Keras
+
+Perangkat keras yang di perlukan untuk menguji aplikasi ini adalah satu set komputer dan satu set smartphone Android dengan spesifikasi:
+ - Komputer
+ - Processor: Intel Pentium Dual Core
+ - Memory: 2 GB DDR3
+ - Hardisk : 320 GB
+ 
+ -  Android
+ 
+ - Processor : Snapdragon 435
+ - Memory : 2 GB
+ - API	: 20
+
 2.5.2.3 Persiapan Perangkat Lunak
+Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk di uji dilingkungan sistem operasi Microsoft Windows 7 dan Smartphone Android adalah sebagai berikut:
+ 1. Windows 7
+ - Persiapkan sistem operasi Microsoft Windows
+ - Perangkat lunak yang akan di uji di copy ke dalam directory htdocs yang ada pada C:\XAMPP
+ - Browser Google Chrome
+ - Database di import kedalam phpmyadmin dengan nama database Altis_db
+ 2. Android
+ 
+ - Siapkan smartphone dengan sistem operasi Android
+ - copy kan file apk ke dalam smartphone android
+ - lakukan instalasi apk yang sudah di copy tadi
+
 ## BAB III
 ## IDENTIFIKASI DAN RENCANA PENGUJIAN
 
