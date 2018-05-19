@@ -113,7 +113,8 @@ Perangkat keras yang di perlukan untuk menguji aplikasi ini adalah satu set komp
 **2.3 MATERIAL PENGUJIAN**
 
 
-**2.4 SUMBER DAYA MANUSIA **
+**2.4 SUMBER DAYA MANUSIA**
+
 Sumber daya manusia yang dibutuhkan untuk menguji aplikasi ALTIS ini berjumlah empat orang dengan kriteria memahami konsep bahasa pemograman CSS, HTML, PHP, dan SQL.
 
 **2.5 PROSEDUR UMUM PENGUJIAN**
