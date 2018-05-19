@@ -32,7 +32,7 @@ Version 1.0
 ## BAB I 
 ## PENDAHULUAN
 
- 
+Dokumen ini akan berisi  perencanaan, deskripsi, dan hasil uji perangkat lunak (DUPL) atau Software Test Documentation (STD) untuk Sistem Rental Mobil (SRM). Untuk  penamaan dokumen ini selanjutnya akan digunakan istilah DUPL. Dokumen ini sebagian besar adalah adaptasi dari dokumen IEEE Std 8291998.  
 
  **1. 1 TUJUAN PEMBUATAN DOKUMEN**
  
@@ -42,11 +42,8 @@ Version 1.0
  Perangkat lunak yang akan diuji adalah "LATIHAN UJIAN BERBASIS MOBILE APPS". Perangkat lunak ini adalah perangkat lunak yang digunakan untuk simulasi latihan ujian siswa dalam menghadapi ujian. 
  
 
- 1.2.1 PERSPEKTIF UMUM SISTEM UJI
-1.2.2 SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
-1.2.3 ARSITEKTUR SISTEM
-
  **1.3 DESKRIPSI DOKUMEN**
+ Dokumen DUPL ini terdiri dari dua tahap yaitu tahap perencanaan (baik secara manajerial maupun perencanaan kasus ujinya sendiri) dan tahap pelaporan. Yang disebut dengan tahap pelaporan adalah pendokumentasian hasil uji yang didapat setelah pengujian itu sendiri berlangsung. Hal inilah yang harus menjadi perhatian bagi manajemen konfigurasi yang digunakan di projek. 
  
  **1.4 DEFINISI DAN SINGKATAN**
  <table>
@@ -78,17 +75,26 @@ Version 1.0
 
  
  **1.5 DOKUMEN REFERENSI**
+ Referensi yang digunakan pada perangkat lunak ini adalah: 
+
+ -  SKPL-SRM, 2013. Bogor: Teknik Komputer 
+ - DPPL-SRM, 2013. Bogor: Teknik Komputer 
+ - GL03AT, template dokumen Deskripsi Uji Perangkat Lunak (DUPL) 
+ - IEEE Std 610.12-1990 IEEE Standard Glossary of Software Engineering Terminology 
+ - IEEE Std 829-1998 IEEE Standard for Software Test Documentation 
  
  ## BAB II
  ## LINGKUNGAN PENGUJIAN PERANGKAT LUNAK
 
-**2.1 PERANGKAT LUNAK PENGUJIAN (TOOLS & ENVIRONMENT)**
+**2.1 PERANGKAT LUNAK PENGUJIAN**
 
 Perangkat Lunak ini diujikan dengan beberapa perangkat lunak lain, yaitu
 
- - Sistem operasi: Windows 7, Windows 10, Linux Subuntu 16
- - Bahasa Pemrograman : PHP, JAVA
- - Database : MySQL
+ - Sistem operasi: Windows 7
+ - Web server: XAMPP
+ - Web browser: Mozzila Firefox
+ - Scipting Language: PHP
+ - DBMS : MySQL
 
 **2.2 PERANGKAT KERAS PENGUJIAN**
 
@@ -104,22 +110,24 @@ Perangkat keras yang di perlukan untuk menguji aplikasi ini adalah satu set komp
  - Memory : 2 GB
  - API	: 20
 
-**2.3 MATERIAL PENGUJIAN (OBJEK YANG DI UJI)**
+**2.3 MATERIAL PENGUJIAN**
 
-**2.4 SUMBER DAYA MANUSIA (PELAKU PENGUJIAN)**
-Persyaratan sumber daya manusia yang akan terlibat dalam proses pengujian perangkat lunak ini adalah:
 
- - Memahami konsep pemrograman berorientasi objek dalam PHP dan JAVA
- - Memahami proses pengujian perangkat lunak berorientasi objek
- - memahami konsep pemrograman data base MySQL
+**2.4 SUMBER DAYA MANUSIA **
+Sumber daya manusia yang dibutuhkan untuk menguji aplikasi ALTIS ini berjumlah empat orang dengan kriteria memahami konsep bahasa pemograman CSS, HTML, PHP, dan SQL.
 
 **2.5 PROSEDUR UMUM PENGUJIAN**
 
-2.5.1 KEBIJAKAN, STRATEGI, DAN TEKNIK PENGUJIAN YANG DIPAKAI
+2.5.1 Pengenalan dan Latihan 
+
+Berhubung pihak yang terlibat dalam proses pengujian telah memenuhi persyaratan 2.4 dan dengan mempertimbangkan bahwa perngkat lunak dan keras yang dibutuhkan dalam pengujian sudah umum digunakan, maka pengenalan dan latihan tidak perlu dilakukan. 
 
 2.5.2 PERSIAPAN AWAL
 
+Persiapan awal yang khusus tidak dibutuhkan pada pengujian perangkat lunak ALTIS ini. 
+
 2.5.2.1 Persiapan Prosedural
+
 Pengujian ini dilakukan di luar lingkungan kampus. Dimana pengujian ini dilakukan oleh siswa dan guru. Alat yang digunakan 1 buah laptop dan Android dengan software yang telah di instalasi
 
 2.5.2.2 Persiapan Perangkat Keras
@@ -137,26 +145,33 @@ Perangkat keras yang di perlukan untuk menguji aplikasi ini adalah satu set komp
  - API	: 20
 
 2.5.2.3 Persiapan Perangkat Lunak
-Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk di uji dilingkungan sistem operasi Microsoft Windows 7 dan Smartphone Android adalah sebagai berikut:
- 1. Windows 7
- - Persiapkan sistem operasi Microsoft Windows
- - Perangkat lunak yang akan di uji di copy ke dalam directory htdocs yang ada pada C:\XAMPP
- - Browser Google Chrome
- - Database di import kedalam phpmyadmin dengan nama database Altis_db
+
+Perangkat lunak yang digunakan untuk menguji adalah XAMPP Sebelum melakukan pengujian, terlebih dahulu perangkat lunak ALTIS disimpan di folder “htdocs” tempat perangkat lunak XAMPP tersebut diinstal. Misal jika XAMPP diinstal di drive C, maka ALTIS yang disimpan dalam folder projek akan disimpan di dengan nama C:/xampp/htdocs/altis 
+Instruksi untuk mengaktifkan program: 
+1. Jalankan server Apache dan MySQL yang ada di XAMPP Control Panel. 
+2. Buka browser yang ada dan ketikkan: http://localhost/altis
+3. Coba lakukan proses login sesuai dengan data pada database. 
+
  2. Android
  
  - Siapkan smartphone dengan sistem operasi Android
  - copy kan file apk ke dalam smartphone android
  - lakukan instalasi apk yang sudah di copy tadi
+ 
+**2.5.3 Pelaksanaan**
+
+Pelaksanaan pengujian langsung dilakukan pada tahap pengujian sistem dengan menguji fungsi-fungsi yang terdapat di dalam aplikasi ALTIS ini.  
+
+**2.5.4 Pelaporan Hasil**
+
+Dokumen hasil pengujian akan diserahkan kepada asisten praktikum Rekayasa Perangkat Lunak sebagai laporan dan kepada tim pengembang aplikasi untuk diperbaiki. 
 
 ## BAB III
 ## IDENTIFIKASI DAN RENCANA PENGUJIAN
 
+
 ## BAB IV
 ## DESKRIPSI HASIL UJI
-
-## BAB V
-## ANALISIS HASIL
 
 
 
