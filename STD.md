@@ -109,29 +109,26 @@ Perangkat keras yang di perlukan untuk menguji aplikasi ini adalah satu set komp
  - Processor : Snapdragon 435
  - Memory : 2 GB
  - API	: 20
-
-**2.3 MATERIAL PENGUJIAN**
-
-
-**2.4 SUMBER DAYA MANUSIA**
+ 
+**2.3 SUMBER DAYA MANUSIA**
 
 Sumber daya manusia yang dibutuhkan untuk menguji aplikasi ALTIS ini berjumlah empat orang dengan kriteria memahami konsep bahasa pemograman CSS, HTML, PHP, dan SQL.
 
-**2.5 PROSEDUR UMUM PENGUJIAN**
+**2.4 PROSEDUR UMUM PENGUJIAN**
 
-2.5.1 Pengenalan dan Latihan 
+2.4.1 Pengenalan dan Latihan 
 
 Berhubung pihak yang terlibat dalam proses pengujian telah memenuhi persyaratan 2.4 dan dengan mempertimbangkan bahwa perngkat lunak dan keras yang dibutuhkan dalam pengujian sudah umum digunakan, maka pengenalan dan latihan tidak perlu dilakukan. 
 
-2.5.2 PERSIAPAN AWAL
+2.4.2 PERSIAPAN AWAL
 
 Persiapan awal yang khusus tidak dibutuhkan pada pengujian perangkat lunak ALTIS ini. 
 
-2.5.2.1 Persiapan Prosedural
+2.4.2.1 Persiapan Prosedural
 
 Pengujian ini dilakukan di luar lingkungan kampus. Dimana pengujian ini dilakukan oleh siswa dan guru. Alat yang digunakan 1 buah laptop dan Android dengan software yang telah di instalasi
 
-2.5.2.2 Persiapan Perangkat Keras
+2.4.2.2 Persiapan Perangkat Keras
 
 Perangkat keras yang di perlukan untuk menguji aplikasi ini adalah satu set komputer dan satu set smartphone Android dengan spesifikasi:
  - Komputer
@@ -145,7 +142,7 @@ Perangkat keras yang di perlukan untuk menguji aplikasi ini adalah satu set komp
  - Memory : 2 GB
  - API	: 20
 
-2.5.2.3 Persiapan Perangkat Lunak
+2.4.2.3 Persiapan Perangkat Lunak
 
 Perangkat lunak yang digunakan untuk menguji adalah XAMPP Sebelum melakukan pengujian, terlebih dahulu perangkat lunak ALTIS disimpan di folder “htdocs” tempat perangkat lunak XAMPP tersebut diinstal. Misal jika XAMPP diinstal di drive C, maka ALTIS yang disimpan dalam folder projek akan disimpan di dengan nama C:/xampp/htdocs/altis 
 Instruksi untuk mengaktifkan program: 
@@ -159,11 +156,11 @@ Instruksi untuk mengaktifkan program:
  - copy kan file apk ke dalam smartphone android
  - lakukan instalasi apk yang sudah di copy tadi
  
-**2.5.3 Pelaksanaan**
+**2.4.3 Pelaksanaan**
 
 Pelaksanaan pengujian langsung dilakukan pada tahap pengujian sistem dengan menguji fungsi-fungsi yang terdapat di dalam aplikasi ALTIS ini.  
 
-**2.5.4 Pelaporan Hasil**
+**2.4.4 Pelaporan Hasil**
 
 Dokumen hasil pengujian akan diserahkan kepada asisten praktikum Rekayasa Perangkat Lunak sebagai laporan dan kepada tim pengembang aplikasi untuk diperbaiki. 
 
@@ -205,6 +202,21 @@ Dokumen hasil pengujian akan diserahkan kepada asisten praktikum Rekayasa Perang
 ## BAB IV
 ## DESKRIPSI HASIL UJI
 
-
+| Identifikasi | Deskripsi | Prosedur Pengujian | Masukan | Keluaran yang diharapkab | Kriteria Evaluasi Hasil 1 | Kriteria Evaluasi Hasil 2 | Hasil Yang Didapat | Kesimpulan |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| STD-01 | Pengujian Login Siswa | Masukkan email dan password untuk masuk ke akun. Lihat form masuk ke menu login untuk pengecekan | Email dan Password | Notifikasi keberhasilan login | Apabila text field email dan password tidak di isi salah satu atau kedua nya, maka login akan gagal | Apabila email atau password salah, maka login akan gagal | Sukses | Diterima |
+| STD-03 | Pengujian Login Guru | Masukkan email dan password untuk masuk ke akun. Lihat form masuk ke menu login untuk pengecekan | Email dan Password | Notifikasi keberhasilan login | Apabila text field email dan password tidak di isi salah satu atau kedua nya, maka login akan gagal | Apabila email atau password salah, maka login akan gagal | Sukses | Diterima |
+| STD-05 | Pengujian Login Admin | Masukkan email dan password untuk masuk ke akun. Lihat form masuk ke menu login untuk pengecekan | Email dan Password | Notifikasi keberhasilan login | Apabila text field email dan password tidak di isi salah satu atau kedua nya, maka login akan gagal | Apabila email atau password salah, maka login akan gagal | Sukses | diterima |
+| STD-07 | Pengujian Daftar Siswa | Buka pada menu daftar siswa, Masukan data siswa, tekan tombol daftar | Masukkan username, nama siswa, password, nisn, jurusan,  nama ayah, nama ibu, nama wali, ttl, kelas, alamat, no hp, no hp orang tua, foto | Notifikasi keberhasilan daftar siswa | Apabila data ada yang kosong, maka akan ada perintah &quot;harap isi data dengan lengkap&quot; | Apabila tipe data tebalik, misalnya untuk nisn harusnya angka malah di isi huruf, maka data yang akan di daftar kan akan gagal | Sukses | Diterima |
+| STD-09 | Pengujian Daftar Guru | Buka pada menu daftar guru, Masukan data guru, tekan tombol daftar | Masukkan username, nama, password, nip, mata pelajaran 1, mata pelajaran 2, mata pelajaran 3, no hp, alamat, email, foto | Notifikasi keberhasilan daftar siswa | Apabila data ada yang kosong, maka akan ada perintah &quot;harap isi data dengan lengkap&quot; | Apabila tipe data tebalik, misalnya untuk nip harusnya angka malah di isi huruf, maka data yang akan di daftar kan akan gagal | Sukses | Diterima |
+| STD-11 | Pengujian Kelola Siswa | Pilih menu login siswa, pilih profil, pilih salah satu data yang ingin di ubah lalu tekan update | Masukkan username, nama siswa, password, nisn, jurusan,  nama ayah, nama ibu, nama wali, ttl, kelas, alamat, no hp, no hp orang tua, foto |   | Jika ada salah satu data yang kosong, ketika menekan tombol kelola maka akan ada peringatan &quot;harap lengkapi data yang kosong&quot; | Apabila tipe data tebalik, misalnya untuk nisn harusnya angka malah di isi huruf, maka data yang akan di daftar kan akan gagal | Sukses | diterima |
+| STD-13 | Pengujian Kelola Guru | Pilih menu login guru, pilih profil, pilih salah satu data yang ingin di ubah lalu tekan update | Masukkan username, nama, password, nip, mata pelajaran 1, mata pelajaran 2, mata pelajaran 3, no hp, alamat, email, foto | Notifikasi keberhasilan dalam mengelola data guru | Jika ada salah satu data yang kosong, ketika menekan tombol kelola maka akan ada peringatan &quot;harap lengkapi data yang kosong&quot; | Apabila tipe data tebalik, misalnya untuk nisn harusnya angka malah di isi huruf, maka data yang akan di daftar kan akan gagal | Sukses | Diterima |
+| STD-15 | Pengujian Lihat Buku | Pilih menu login siswa atau guru, pilih menu buku, pilih kategori, pilih buku yang akan di baca |   | Siswa atau guru dapat melihat buku yang akan dibaca | Koneksi internet error, buku tidak ditampilkan | Jika internet down, maka buku yang di muat akan lama untuk di tampilkan | Sukses | Diterima |
+| STD-17 | Pengujian Kelola Buku | Pilih menu login guru, pilih menu kelola buku,  masukkan data buku yang akan di kelola, tekan tombol kelola | Masukkan Judul Buku, Kategori, Penerbit, Penulis, File, Cover | Notifikasi keberhasilan dalam mengelola buku | Ketika ada data yang kosong, maka akan ada peringatan &quot;harap isi data dengan lengkap&quot;  | Jika cover ukurannya lebih dari  2 mb, maka data akan gagal tersimpan | Sukses | diterima |
+| STD-19 | Pengujian Lihat Latihan | Pilih menu login siswa atau guru, pilih menu latihan, pilih kategori latihan, pilih latihan |   | Siswa dapat melihat latihan yang ingin di kerjakan | Koneksi internet error, latihan tidak ditampilkan | Jika internet latihan, maka buku yang di muat akan lama untuk di tampilkan | Sukses | Diterima |
+| STD-21 | Pengujian Kelola Latihan | Pilih menu login guru, pilih menu kelola latihian,  masukkan data latihan yang akan di kelola, tekan tombol kelola | Masukkan jawaban a, jawaban b, jawaban c, jawaban d, foto, soal | Notifikasi keberhasilan dalam mengelola latihan | Ketika ada data yang kosong, maka akan ada peringatan &quot;harap isi data dengan lengkap&quot;  | Jika ada latihan dengan foto lebih dari 2 mb, maka data akan gagal tersimpan | Sukses | Diterima |
+| STD-23 | Pengujian Lihat Ujian | Pilih menu login siswa atau guru, pilih menu ujian, pilih kategori ujian, pilih ujian | | Siswa atau guru dapat melihat ujian yang akan dikerjakan | Koneksi internet error, ujian tidak ditampilkan | Jika internet down, maka ujian yang di muat akan lama untuk di tampilkan | Sukses | diterima |
+| STD-25 | Pengujian Kelola Ujian | Pilih menu login guru, pilih menu kelola ujian,  masukkan data ujian yang akan di kelola, tekan tombol kelola | Masukkan jawaban a, jawaban b, jawaban c, jawaban d, foto, soal | Notifikasi keberhasilan dalam mengelola data ujian | Ketika ada data yang kosong, maka akan ada peringatan &quot;harap isi data dengan lengkap&quot;  | Jika ada foto dengan ukuran lebih dari 2 mb, maka data akan gagal tersimpan | Sukses | Diterima |
+| STD-27 | Pengujian Lihat Statistik | Pilih menu login siswa, pilih menu statistik |   | Siswa dapat melihat statistik nilai | Koneksi internet error, statistik tidak ditampilkan | Jika internet down, maka statistik yang di muat akan lama untuk di tampilkan | Sukses | diterima |
 
  
