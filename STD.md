@@ -3,11 +3,11 @@
 
 <div align="center">
 
-## **DOCUMENT PENGUJIAN PERANGKAT LUNAK**
+## **SOFTWARE TEST DOCUMENT**
 
 Version 1.0
 
-11 Maret 2018
+20 Mei 2018
 
 <img src="https://oksareinaldi.files.wordpress.com/2018/02/polindra.png?w=421&h=421&crop=1" width="250" height="250">
 
@@ -39,10 +39,12 @@ Dokumen ini akan berisi  perencanaan, deskripsi, dan hasil uji perangkat lunak (
  Dokumen ini digunakan sebagai panduan untuk melakukan pengujian terhadap perangkat lunak LATIHAN UJIAN BERBASIS MOBILE APPS. Dokumen ini dipakai untuk melihat kemampuan dari program yang telah dirancang agar sesuai dengan keinginan dari pengguna. Pembuatan dokumen ini ditunjukan untuk menguji perangkat lunak LATIHAN UJIAN BERBASIS MOBILE APPS yang merupakan bagian dari mata kuliah Rekayasa Perangkat Lunak
  
  **1.2 DESKRIPSI UMUM SISTEM**
+ 
  Perangkat lunak yang akan diuji adalah "LATIHAN UJIAN BERBASIS MOBILE APPS". Perangkat lunak ini adalah perangkat lunak yang digunakan untuk simulasi latihan ujian siswa dalam menghadapi ujian. 
  
 
  **1.3 DESKRIPSI DOKUMEN**
+ 
  Dokumen DUPL ini terdiri dari dua tahap yaitu tahap perencanaan (baik secara manajerial maupun perencanaan kasus ujinya sendiri) dan tahap pelaporan. Yang disebut dengan tahap pelaporan adalah pendokumentasian hasil uji yang didapat setelah pengujian itu sendiri berlangsung. Hal inilah yang harus menjadi perhatian bagi manajemen konfigurasi yang digunakan di projek. 
  
  **1.4 DEFINISI DAN SINGKATAN**
@@ -75,6 +77,7 @@ Dokumen ini akan berisi  perencanaan, deskripsi, dan hasil uji perangkat lunak (
 
  
  **1.5 DOKUMEN REFERENSI**
+ 
  Referensi yang digunakan pada perangkat lunak ini adalah: 
 
  -  SKPL-SRM, 2013. Bogor: Teknik Komputer 
