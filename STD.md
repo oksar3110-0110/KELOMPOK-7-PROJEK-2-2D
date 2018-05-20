@@ -170,9 +170,9 @@ Dokumen hasil pengujian akan diserahkan kepada asisten praktikum Rekayasa Perang
 ## BAB III
 ## IDENTIFIKASI DAN RENCANA PENGUJIAN
 
-| Kelas Uji | Butir Uji | Identifikasi | Tingkat Pengujian | Jenis Pengujian | Penguji |
-| --- | --- | --- | --- | --- | --- |
-| SRS | STD |
+| Kelas Uji | Butir Uji | Identifikasi || Tingkat Pengujian | Jenis Pengujian | Penguji |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- |SRS | STD | --- | --- | --- |
 | Pengujian Login Siswa | Pengujian Login Siswa | SRS-ALTIS.K-0001 | STD-01 | Pengujian Sistem | Black box |   |
 | Kebenaran pengisian Username dan Password |   | STD-02 | Pengujian Sistem | Black box |   |
 | Pengujian Login Guru | Pengujian Login Guru | SRS-ALTIS.K-0002 | STD-03 | Pengujian Sistem | Black box |   |
