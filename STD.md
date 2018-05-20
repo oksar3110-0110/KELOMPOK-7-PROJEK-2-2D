@@ -174,33 +174,33 @@ Dokumen hasil pengujian akan diserahkan kepada asisten praktikum Rekayasa Perang
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- |SRS | STD | --- | --- | --- |
 | Pengujian Login Siswa | Pengujian Login Siswa | SRS-ALTIS.K-0001 | STD-01 | Pengujian Sistem | Black box |   |
-| Kebenaran pengisian Username dan Password |   | STD-02 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran pengisian Username dan Password |   | STD-02 | Pengujian Sistem | Black box |   |
 | Pengujian Login Guru | Pengujian Login Guru | SRS-ALTIS.K-0002 | STD-03 | Pengujian Sistem | Black box |   |
-| Kebenaran pengisian Username dan Password |   | STD-04 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran pengisian Username dan Password |   | STD-04 | Pengujian Sistem | Black box |   |
 | Pengujian Login Admin | Pengujian Login Admin | SRS-ALTIS.K-0003 | STD-05 | Pengujian Sistem | Black box |   |
-| Kebenaran pengisian Username dan Password |   | STD-06 | Pengujian Sistem | Black box | |
+| --- | Kebenaran pengisian Username dan Password |   | STD-06 | Pengujian Sistem | Black box | |
 | Pengujian Daftar Siswa | Pengujian Daftar Siswa | SRS-ALTIS.K-0004 | STD-07 | Pengujian Sistem | Black box |   |
-| Kebenaran dalan Daftar Siswa |   | STD-08 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran dalan Daftar Siswa |   | STD-08 | Pengujian Sistem | Black box |   |
 |  Pengujian Daftar Guru | Pengujian Daftar Guru | SRS-ALTIS.K-0005 | STD-09 | Pengujian Sistem | Black box |   |
-| Kebenaran dalan Daftar Guru |   | STD-10 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran dalan Daftar Guru |   | STD-10 | Pengujian Sistem | Black box |   |
 | Pengujian Kelola Siswa | Pengujian Kelola Siswa | SRS-ALTIS.K-0006 | STD-11 | Pengujian Sistem | Black box |   |
-| Kebenaran dalam Kelola Siswa |   | STD-12 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran dalam Kelola Siswa |   | STD-12 | Pengujian Sistem | Black box |   |
 | Pengujian Kelola Guru | Pengujian Kelola Guru | SRS-ALTIS.K-0007 | STD-13 | Pengujian Sistem | Black box |   |
-| Kebenaran dalam Kelola Guru |   | STD-14 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran dalam Kelola Guru |   | STD-14 | Pengujian Sistem | Black box |   |
 | Pengujian Lihat Buku | Pengujian Lihat Buku | SRS-ALTIS.K-0008 | STD-15 | Pengujian Sistem | Black box |   |
-| Kebenaran dalam Lihat Buku |   | STD-16 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran dalam Lihat Buku |   | STD-16 | Pengujian Sistem | Black box |   |
 | Pengujian Kelola Buku | Pengujian Kelola Buku | SRS-ALTIS.K-0009 | STD-17 | Pengujian Sistem | Black box |   |
-| Kebenaran dalam Kelola Buku |   | STD-18 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran dalam Kelola Buku |   | STD-18 | Pengujian Sistem | Black box |   |
 | Pengujian Lihat Latihan | Pengujian Lihat Latihan | SRS-ALTIS.K-0010 | STD-19 | Pengujian Sistem | Black box |   |
-| Kebenaran dalam Lihat Latihan |   | STD-20 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran dalam Lihat Latihan |   | STD-20 | Pengujian Sistem | Black box |   |
 | Pengujian Kelola Latihan | Pengujian Kelola Latihan | SRS-ALTIS.K-0011 | STD-21 | Pengujian Sistem | Black box |   |
-| Kebenaran dalam Kelola Latihan |   | STD-22 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran dalam Kelola Latihan |   | STD-22 | Pengujian Sistem | Black box |   |
 | Pengujian Lihat Ujian | Pengujian Lihat Ujian | SRS-ALTIS.K-0012 | STD-23 | Pengujian Sistem | Black box |   |
-| Kebenaran dalam Lihat Ujian |   | STD-24 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran dalam Lihat Ujian |   | STD-24 | Pengujian Sistem | Black box |   |
 | Pengujian Kelola Ujian | Pengujian Kelola Ujian | SRS-ALTIS.K-0013 | STD-25 | Pengujian Sistem | Black box |   |
-| Kebenaran dalam Kelola Ujian |   | STD-26 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran dalam Kelola Ujian |   | STD-26 | Pengujian Sistem | Black box |   |
 | Pengujian Lihat Statistik | Pengujian Lihat Statistik | SRS-ALTIS.K-0014 | STD-27 | Pengujian Sistem | Black box |   |
-| Kebenaran dalam Lihat Statistik |   | STD-28 | Pengujian Sistem | Black box |   |
+| --- | Kebenaran dalam Lihat Statistik |   | STD-28 | Pengujian Sistem | Black box |   |
 
 ## BAB IV
 ## DESKRIPSI HASIL UJI
