@@ -3,9 +3,9 @@
 
 <div align="center">
 
-## **SOFTWARE TEST DOCUMENT**
+## **SOFTWARE TESTING DOCUMENT**
 
-Version 1.0
+Version 1.1
 
 20 Mei 2018
 
