@@ -173,39 +173,39 @@ Dokumen hasil pengujian akan diserahkan kepada asisten praktikum Rekayasa Perang
 | Kelas Uji | Butir Uji | Identifikasi || Tingkat Pengujian | Jenis Pengujian | Penguji |
 | --- | --- | --- | --- | --- | --- | --- |
 | --- | --- |SRS | STD | --- | --- | --- |
-| Pengujian Login Siswa | Pengujian Login Siswa | SRS-ALTIS.K-0001 | STD-01 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran pengisian Username dan Password |   | STD-02 | Pengujian Sistem | Black box |   |
-| Pengujian Login Guru | Pengujian Login Guru | SRS-ALTIS.K-0002 | STD-03 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran pengisian Username dan Password |   | STD-04 | Pengujian Sistem | Black box |   |
-| Pengujian Login Admin | Pengujian Login Admin | SRS-ALTIS.K-0003 | STD-05 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran pengisian Username dan Password |   | STD-06 | Pengujian Sistem | Black box | |
-| Pengujian Daftar Siswa | Pengujian Daftar Siswa | SRS-ALTIS.K-0004 | STD-07 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran dalan Daftar Siswa |   | STD-08 | Pengujian Sistem | Black box |   |
-|  Pengujian Daftar Guru | Pengujian Daftar Guru | SRS-ALTIS.K-0005 | STD-09 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran dalan Daftar Guru |   | STD-10 | Pengujian Sistem | Black box |   |
-| Pengujian Kelola Siswa | Pengujian Kelola Siswa | SRS-ALTIS.K-0006 | STD-11 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran dalam Kelola Siswa |   | STD-12 | Pengujian Sistem | Black box |   |
-| Pengujian Kelola Guru | Pengujian Kelola Guru | SRS-ALTIS.K-0007 | STD-13 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran dalam Kelola Guru |   | STD-14 | Pengujian Sistem | Black box |   |
-| Pengujian Lihat Buku | Pengujian Lihat Buku | SRS-ALTIS.K-0008 | STD-15 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran dalam Lihat Buku |   | STD-16 | Pengujian Sistem | Black box |   |
-| Pengujian Kelola Buku | Pengujian Kelola Buku | SRS-ALTIS.K-0009 | STD-17 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran dalam Kelola Buku |   | STD-18 | Pengujian Sistem | Black box |   |
-| Pengujian Lihat Latihan | Pengujian Lihat Latihan | SRS-ALTIS.K-0010 | STD-19 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran dalam Lihat Latihan |   | STD-20 | Pengujian Sistem | Black box |   |
-| Pengujian Kelola Latihan | Pengujian Kelola Latihan | SRS-ALTIS.K-0011 | STD-21 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran dalam Kelola Latihan |   | STD-22 | Pengujian Sistem | Black box |   |
-| Pengujian Lihat Ujian | Pengujian Lihat Ujian | SRS-ALTIS.K-0012 | STD-23 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran dalam Lihat Ujian |   | STD-24 | Pengujian Sistem | Black box |   |
-| Pengujian Kelola Ujian | Pengujian Kelola Ujian | SRS-ALTIS.K-0013 | STD-25 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran dalam Kelola Ujian |   | STD-26 | Pengujian Sistem | Black box |   |
-| Pengujian Lihat Statistik | Pengujian Lihat Statistik | SRS-ALTIS.K-0014 | STD-27 | Pengujian Sistem | Black box |   |
-| --- | Kebenaran dalam Lihat Statistik |   | STD-28 | Pengujian Sistem | Black box |   |
+| Pengujian Login Siswa | Pengujian Login Siswa | SRS-ALTIS.K-0001 | STD-01 | Pengujian Sistem | Black box |Bahrainsyah   |
+| --- | Kebenaran pengisian Username dan Password |   | STD-02 | Pengujian Sistem | Black box |Bahrainsyah   |
+| Pengujian Login Guru | Pengujian Login Guru | SRS-ALTIS.K-0002 | STD-03 | Pengujian Sistem | Black box |Dody   |
+| --- | Kebenaran pengisian Username dan Password |   | STD-04 | Pengujian Sistem | Black box |Dody   |
+| Pengujian Login Admin | Pengujian Login Admin | SRS-ALTIS.K-0003 | STD-05 | Pengujian Sistem | Black box |Syahrul   |
+| --- | Kebenaran pengisian Username dan Password |   | STD-06 | Pengujian Sistem | Black box |Syahrul |
+| Pengujian Daftar Siswa | Pengujian Daftar Siswa | SRS-ALTIS.K-0004 | STD-07 | Pengujian Sistem | Black box |Bahrainsyah   |
+| --- | Kebenaran dalam Daftar Siswa |   | STD-08 | Pengujian Sistem | Black box |Bahrainsyah   |
+|  Pengujian Daftar Guru | Pengujian Daftar Guru | SRS-ALTIS.K-0005 | STD-09 | Pengujian Sistem | Black box |Syahrul   |
+| --- | Kebenaran dalan Daftar Guru |   | STD-10 | Pengujian Sistem | Black box |Syahrul   |
+| Pengujian Kelola Siswa | Pengujian Kelola Siswa | SRS-ALTIS.K-0006 | STD-11 | Pengujian Sistem | Black box |Dody   |
+| --- | Kebenaran dalam Kelola Siswa |   | STD-12 | Pengujian Sistem | Black box |Syahrul   |
+| Pengujian Kelola Guru | Pengujian Kelola Guru | SRS-ALTIS.K-0007 | STD-13 | Pengujian Sistem | Black box |Syahrul   |
+| --- | Kebenaran dalam Kelola Guru |   | STD-14 | Pengujian Sistem | Black box |Bahrain   |
+| Pengujian Lihat Buku | Pengujian Lihat Buku | SRS-ALTIS.K-0008 | STD-15 | Pengujian Sistem | Black box |Bahrain   |
+| --- | Kebenaran dalam Lihat Buku |   | STD-16 | Pengujian Sistem | Black box |Bahrain   |
+| Pengujian Kelola Buku | Pengujian Kelola Buku | SRS-ALTIS.K-0009 | STD-17 | Pengujian Sistem | Black box | Dody   |
+| --- | Kebenaran dalam Kelola Buku |   | STD-18 | Pengujian Sistem | Black box |Dody   |
+| Pengujian Lihat Latihan | Pengujian Lihat Latihan | SRS-ALTIS.K-0010 | STD-19 | Pengujian Sistem | Black box |Bahrain   |
+| --- | Kebenaran dalam Lihat Latihan |   | STD-20 | Pengujian Sistem | Black box |Bahrain   |
+| Pengujian Kelola Latihan | Pengujian Kelola Latihan | SRS-ALTIS.K-0011 | STD-21 | Pengujian Sistem | Black box |Dody   |
+| --- | Kebenaran dalam Kelola Latihan |   | STD-22 | Pengujian Sistem | Black box | Dody  |
+| Pengujian Lihat Ujian | Pengujian Lihat Ujian | SRS-ALTIS.K-0012 | STD-23 | Pengujian Sistem | Black box |Bahrain   |
+| --- | Kebenaran dalam Lihat Ujian |   | STD-24 | Pengujian Sistem | Black box |Bahrain  |
+| Pengujian Kelola Ujian | Pengujian Kelola Ujian | SRS-ALTIS.K-0013 | STD-25 | Pengujian Sistem | Black box |Dody   |
+| --- | Kebenaran dalam Kelola Ujian |   | STD-26 | Pengujian Sistem | Black box |Dody   |
+| Pengujian Lihat Statistik | Pengujian Lihat Statistik | SRS-ALTIS.K-0014 | STD-27 | Pengujian Sistem | Black box |Bahrain   |
+| --- | Kebenaran dalam Lihat Statistik |   | STD-28 | Pengujian Sistem | Black box |Bahrain   |
 
 ## BAB IV
 ## DESKRIPSI HASIL UJI
 
-| Identifikasi | Deskripsi | Prosedur Pengujian | Masukan | Keluaran yang diharapkab | Kriteria Evaluasi Hasil 1 | Kriteria Evaluasi Hasil 2 | Hasil Yang Didapat | Kesimpulan |
+| Identifikasi | Deskripsi | Prosedur Pengujian | Masukan | Keluaran yang diharapkan | Kriteria Evaluasi Hasil 1 | Kriteria Evaluasi Hasil 2 | Hasil Yang Didapat | Kesimpulan |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | STD-01 | Pengujian Login Siswa | Masukkan email dan password untuk masuk ke akun. Lihat form masuk ke menu login untuk pengecekan | Email dan Password | Notifikasi keberhasilan login | Apabila text field email dan password tidak di isi salah satu atau kedua nya, maka login akan gagal | Apabila email atau password salah, maka login akan gagal | Sukses | Diterima |
 | STD-03 | Pengujian Login Guru | Masukkan email dan password untuk masuk ke akun. Lihat form masuk ke menu login untuk pengecekan | Email dan Password | Notifikasi keberhasilan login | Apabila text field email dan password tidak di isi salah satu atau kedua nya, maka login akan gagal | Apabila email atau password salah, maka login akan gagal | Sukses | Diterima |
