@@ -164,6 +164,106 @@ Live Chat	 : Merupakan aplikasi Chatting yang up to date terhadap perubahan dala
 
 **2.2.4 Daftar Tabel Aplikasi**
 
+##### Buku
+
+| Nama  Tabel   | Primary Key | Data Store | E/R            | Deskripsi isi                                         |
+| ------------- | ----------- | ---------- | -------------- | ----------------------------------------------------- |
+| id_buku       | Primary Key | D1         | Auto Increment | Nomer auto incement id_buku                           |
+| Id_kategori   | Foreign Key | D1         | -              | Referensi key pada tabel kategori, id_kategori        |
+| judul_buku    | -           | D1         | -              | Memasukan input judul buku                            |
+| nama_kategori | -           | D1         | -              | Memasukan input memilih kategori buku                 |
+| nama_penerbit | -           | D1         | -              | Memasukan input data nama penerbit                    |
+| nama_penulis  | -           | D1         | -              | Memasukan input data nama penulis                     |
+| file_buku     | -           | D1         | -              | Untuk mamasukan data berupa file buku                 |
+| cover_buku    | -           | D1         | -              | Untuk mamasukan data berupa file foto buku/cover buku |
+
+##### Guru
+
+| Nama  Tabel | Primary Key  | Data Store | E/R            | Deskripsi isi                                  |
+| ----------- | ------------ | ---------- | -------------- | ---------------------------------------------- |
+| id_guru     | Primary Key  | D2         | Auto Increment | Nomer auto increment id_guru                   |
+| id_user     | Foreigen Key | D2         | -              | Referensi key pada tabel user, id_user         |
+| id_mapel    | Foreigen Key | D2         | -              | Referensi key pada tabel mapel, id_mapel       |
+| id_mapell   | -            | D2         | -              | Memasukan pilihan ganda mapel dari tabel mapel |
+| id_mapelll  | -            | D2         | -              | Memasukan pilihan ganda mapel dari tabel mapel |
+| nama_guru   | -            | D2         | -              | Memasukan input data nama guru                 |
+| nip         | -            | D2         | -              | Memasukan input data nomer nip guru            |
+| alamat      | -            | D2         | -              | Memasukan input data alamat guru               |
+| no_hp       | -            | D2         | -              | Memasukan input data nomer telepon guru        |
+| foto        | -            | D2         | -              | Memasukan input data foto guru                 |
+
+##### Jurusan
+
+| id_jurusan   | Primary Key | D3   | Auto Increment | Nomer auto increment id_jurusan   |
+| ------------ | ----------- | ---- | -------------- | --------------------------------- |
+| nama_jurusan | -           | D3   | -              | Memasukan input data nama Jurusan |
+
+##### Kategori
+
+| id_kategori   | Primary Key | D4   | Auto Increment | Nomer auto increment id_kategori   |
+| ------------- | ----------- | ---- | -------------- | ---------------------------------- |
+| nama_kategori | -           | D4   | -              | Memasukan input data nama Kategori |
+
+##### Mapel
+
+| id_mapel   | Primary Key | D5   | Auto Increment | Nomer auto increment id_mapel      |
+| ---------- | ----------- | ---- | -------------- | ---------------------------------- |
+| nama_mapel | -           | D5   | -              | Memasukan data input nama kategori |
+| token      | -           | D5   | -              | Memasukan data input Token mapel   |
+
+##### Siswa / Siswi
+
+| Nama  Tabel       | Primary Key  | Data Store | E/R            | Deskripsi isi                                  |
+| ----------------- | ------------ | ---------- | -------------- | ---------------------------------------------- |
+| id_siswa_siswi    | Primary Key  | D6         | Auto Increment | Nomer auto increment id_siswa_siswi            |
+| id_user           | Foreigen Key | D6         | -              | Referensi key pada tabel user, id_user         |
+| id_jurusan        | Foreigen Key | D6         | -              | Referensi key pada tabel jurusan, id_jurusan   |
+| nama_siswa_siswi  | -            | D6         | -              | Memasukan input data nama siswa/siswi          |
+| nisn              | -            | D6         | -              | Memasukan input data nomer nisn siswa/siswi    |
+| nama_ayah         | -            | D6         | -              | Memasukan input nama ayah                      |
+| nama_ibu          | -            | D6         | -              | Memasukan input nama ibu                       |
+| nama_wali         | -            | D6         | -              | Memasukan input nama wali                      |
+| ttl               | -            | D6         | -              | Memasukan input tanggal lahir siswa/siswi      |
+| kelas             | -            | D6         | -              | Memasukan input kelas siswa/siswi              |
+| alamat            | -            | D6         | -              | Memasukan input data alamat siswa/siswi        |
+| no_hp_siswa_siswi | -            | D6         | -              | Memasukan input data nomer telepon siswa/siswi |
+| no_hp_ortu        | -            | D6         | -              | Memasukan input data nomer telepon orang tua   |
+| foto              | -            | D6         | -              | Memasukan data file foto siswa/siswi           |
+
+##### Soal
+
+| id_soal       | Primary Key  | D7   | Auto Increment | Nomer auto increment id_soal             |
+| ------------- | ------------ | ---- | -------------- | ---------------------------------------- |
+| id_ujian      | Foreigen Key | D7   | -              | Referensi key pada tabel ujian, id_ujian |
+| jawaban_benar | -            | D7   | -              | Memasukan data input jawaban benar       |
+| p_jawaban_a   | -            | D7   | -              | Memasukan data input pilihan jawaban     |
+| p_jawaban_b   | -            | D7   | -              | Memasukan data input pilihan jawaban     |
+| p_jawaban_c   | -            | D7   | -              | Memasukan data input pilihan jawaban     |
+| p_jawaban_d   | -            | D7   | -              | Memasukan data input pilihan jawaban     |
+| p_jawaban_e   | -            | D7   | -              | Memasukan data input pilihan jawaban     |
+| foto          | -            | D7   | -              | Memsaukan data foto soal                 |
+| soal          | -            | D7   | -              | Memasukan data soal/data pertanyaan soal |
+
+##### Ujian
+
+| id_ujian          | Primary Key  | D8   | Auto Increment | Nomer auto increment id_ujian                |
+| ----------------- | ------------ | ---- | -------------- | -------------------------------------------- |
+| id_mapel          | Foreigen Key | D8   | -              | Referensi key pada tabel mapel, id_mapel     |
+| judul             | -            | D8   | -              | Memasukan data input judul ujian             |
+| durasi            | -            | D8   | -              | Memasukan data input durasi ujian            |
+| tipe              | -            | D8   | -              | Memasukan data input tipe/sifat ujian        |
+| tingkat_kesulitan | -            | D8   | -              | Memasukan data input tingkat kesulitan ujian |
+
+##### User
+
+| Nama  Tabel | Primary Key | Data Store | E/R            | Deskripsi isi                               |
+| ----------- | ----------- | ---------- | -------------- | ------------------------------------------- |
+| id_user     | Primary Key | D9         | Auto Increment | Nomer auto increment id_username            |
+| username    | -           | D9         | -              | Memasukan data input username user          |
+| password    | -           | D9         | -              | Memasukan data input password user          |
+| email       | -           | D9         | -              | Memasukan data input email user             |
+| level       | -           | D9         | -              | Memasukan data input hidden auto level user |
+
 **2.3 Deskripsi Model**
 
 | No   | Nama Modul       | Keterangan                                                   |
